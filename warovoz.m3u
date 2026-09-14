@@ -869,9 +869,6 @@ http://141.94.251.52/10128/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="FlixSnip" group-title="КиноТв",FlixSnip
 #EXTGRP:КиноТв
 http://141.94.251.52/10129/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Bollywood HD" group-title="КиноТв",Bollywood HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10130/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Иллюзион +" group-title="КиноТв",Иллюзион +
 #EXTGRP:КиноТв
 http://141.94.251.52/10131/index.m3u8?token=6AC15D94169C
@@ -1052,9 +1049,6 @@ http://141.94.251.52/10189/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Star Cinema HD" group-title="КиноТв",Star Cinema HD
 #EXTGRP:КиноТв
 http://141.94.251.52/10190/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Star Family" group-title="КиноТв",Star Family
-#EXTGRP:КиноТв
-http://141.94.251.52/10191/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Star Family HD" group-title="КиноТв",Star Family HD
 #EXTGRP:КиноТв
 http://141.94.251.52/10192/index.m3u8?token=6AC15D94169C
@@ -1106,15 +1100,6 @@ http://141.94.251.52/10207/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Мосфильм. Золотая коллекция HD" group-title="КиноТв",Мосфильм. Золотая коллекция HD
 #EXTGRP:КиноТв
 http://141.94.251.52/10208/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Kino 24" group-title="КиноТв",Kino 24
-#EXTGRP:КиноТв
-http://141.94.251.52/10209/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Киносезон" group-title="КиноТв",Киносезон
-#EXTGRP:КиноТв
-http://141.94.251.52/10210/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="BOLT" group-title="КиноТв",BOLT
-#EXTGRP:КиноТв
-http://141.94.251.52/10211/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Bolt HD" group-title="КиноТв",Bolt HD
 #EXTGRP:КиноТв
 http://141.94.251.52/10212/index.m3u8?token=6AC15D94169C
@@ -1136,9 +1121,6 @@ http://141.94.251.52/10217/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Дорама" group-title="КиноТв",Дорама
 #EXTGRP:КиноТв
 http://141.94.251.52/10218/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Дорама HD" group-title="КиноТв",Дорама HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10219/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="КИНЕКО" group-title="КиноТв",КИНЕКО
 #EXTGRP:КиноТв
 http://141.94.251.52/10220/index.m3u8?token=6AC15D94169C
@@ -1229,64 +1211,7 @@ http://141.94.251.52/10274/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="START WORLD" group-title="КиноТв",START WORLD
 #EXTGRP:КиноТв
 http://141.94.251.52/10275/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI Киносерия HD" group-title="КиноТв",KLI Киносерия HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10276/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI Horror FHD" group-title="КиноТв",KLI Horror FHD
-#EXTGRP:КиноТв
-http://141.94.251.52/10277/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI Action HD" group-title="КиноТв",KLI Action HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10278/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI KINOZAKAZ HD" group-title="КиноТв",KLI KINOZAKAZ HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10279/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI DRAMA HD" group-title="КиноТв",KLI DRAMA HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10280/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI Fantasy HD" group-title="КиноТв",KLI Fantasy HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10281/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI ДЕТЕКТИВЫ HD" group-title="КиноТв",KLI ДЕТЕКТИВЫ HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10282/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI VHS HD" group-title="КиноТв",KLI VHS HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10283/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI Thriller HD" group-title="КиноТв",KLI Thriller HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10284/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI CCCP HD" group-title="КиноТв",KLI CCCP HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10285/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI Family HD" group-title="КиноТв",KLI Family HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10286/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI Новинки 4k" group-title="КиноТв",KLI Новинки 4k
-#EXTGRP:КиноТв
-http://141.94.251.52/10287/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI Comedy HD" group-title="КиноТв",KLI Comedy HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10288/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI Premium HD" group-title="КиноТв",KLI Premium HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10290/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI Russian HD" group-title="КиноТв",KLI Russian HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10291/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI Fantastic HD" group-title="КиноТв",KLI Fantastic HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10292/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI Marvel HD" group-title="КиноТв",KLI Marvel HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10294/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI Новинки HD" group-title="КиноТв",KLI Новинки HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10295/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI UHD 4K" group-title="КиноТв",KLI UHD 4K
-#EXTGRP:КиноТв
-http://141.94.251.52/10296/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="1FILMAX" group-title="КиноТв",1FILMAX
+#EXTINF:-1 tvg-name="1FILMAX" group-title="КиноТв",Индийское
 #EXTGRP:КиноТв
 http://141.94.251.52/10317/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="2FILMAX" group-title="КиноТв",2FILMAX
@@ -1325,12 +1250,6 @@ http://141.94.251.52/10328/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="VeleS Криминальный" group-title="КиноТв",VeleS Криминальный
 #EXTGRP:КиноТв
 http://141.94.251.52/10329/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="BCU Premiere Ultra 4K" group-title="КиноТв",BCU Premiere Ultra 4K
-#EXTGRP:КиноТв
-http://141.94.251.52/10330/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="BCU Ultra 4K" group-title="КиноТв",BCU Ultra 4K
-#EXTGRP:КиноТв
-http://141.94.251.52/10331/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="BCU Kinozakaz Premiere 4K" group-title="КиноТв",BCU Kinozakaz Premiere 4K
 #EXTGRP:КиноТв
 http://141.94.251.52/10332/index.m3u8?token=6AC15D94169C
@@ -1346,9 +1265,6 @@ http://141.94.251.52/10335/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="BCU Fantastic HD" group-title="КиноТв",BCU Fantastic HD
 #EXTGRP:КиноТв
 http://141.94.251.52/10336/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="BCU Marvel" group-title="КиноТв",BCU Marvel
-#EXTGRP:КиноТв
-http://141.94.251.52/10337/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="BCU Premiere HD" group-title="КиноТв",BCU Premiere HD
 #EXTGRP:КиноТв
 http://141.94.251.52/10338/index.m3u8?token=6AC15D94169C
@@ -1391,9 +1307,6 @@ http://141.94.251.52/10350/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="BCU СССР HD" group-title="КиноТв",BCU СССР HD
 #EXTGRP:КиноТв
 http://141.94.251.52/10351/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="BCU RuSerial HD" group-title="КиноТв",BCU RuSerial HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10352/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="MiTV Леонид Гайдай" group-title="КиноТв",MiTV Леонид Гайдай
 #EXTGRP:КиноТв
 http://141.94.251.52/10391/index.m3u8?token=6AC15D94169C
@@ -1430,12 +1343,6 @@ http://141.94.251.52/10009/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Viasat Kino Megahit HD" group-title="КиноТв",Viasat Kino Megahit HD
 #EXTGRP:КиноТв
 http://141.94.251.52/10008/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Viasat Kino Comedy HD" group-title="КиноТв",Viasat Kino Comedy HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10007/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Viasat Serial HD" group-title="КиноТв",Viasat Serial HD
-#EXTGRP:КиноТв
-http://141.94.251.52/10006/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="CineMan" group-title="КиноТв",CineMan
 #EXTGRP:КиноТв
 http://141.94.251.52/20972/index.m3u8?token=6AC15D94169C
@@ -2609,428 +2516,428 @@ http://141.94.251.52/10744/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Black HD" group-title="Музыка",Black HD
 #EXTGRP:Музыка
 http://141.94.251.52/10748/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Телеканал Хабар" group-title="Казахстанские",Телеканал Хабар
-#EXTGRP:Казахстанские
-http://141.94.251.52/11480/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="КТК" group-title="Казахстанские",КТК
-#EXTGRP:Казахстанские
+#EXTINF:-1 tvg-name="КТК" group-title="KZ/UZ/AZ",КТК
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11481/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="QazSport HD" group-title="Казахстанские",QazSport HD
-#EXTGRP:Казахстанские
+#EXTINF:-1 tvg-name="QazSport HD" group-title="KZ/UZ/AZ",QazSport HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11482/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="НТК" group-title="Казахстанские",НТК
-#EXTGRP:Казахстанские
+#EXTINF:-1 tvg-name="Телеканал Хабар" group-title="KZ/UZ/AZ",Телеканал Хабар
+#EXTGRP:KZ/UZ/AZ
+http://141.94.251.52/11480/index.m3u8?token=6AC15D94169C
+#EXTINF:-1 tvg-name="НТК" group-title="KZ/UZ/AZ",НТК
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11483/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="31 канал" group-title="Казахстанские",31 канал
-#EXTGRP:Казахстанские
+#EXTINF:-1 tvg-name="31 канал" group-title="KZ/UZ/AZ",31 канал
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11484/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="QAZAQSTAN HD" group-title="Казахстанские",QAZAQSTAN HD
-#EXTGRP:Казахстанские
+#EXTINF:-1 tvg-name="QAZAQSTAN HD" group-title="KZ/UZ/AZ",QAZAQSTAN HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11485/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Первый канал Евразия" group-title="Казахстанские",Первый канал Евразия
-#EXTGRP:Казахстанские
+#EXTINF:-1 tvg-name="Первый канал Евразия" group-title="KZ/UZ/AZ",Первый канал Евразия
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11486/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Jibek Joly HD" group-title="Казахстанские",Jibek Joly HD
-#EXTGRP:Казахстанские
+#EXTINF:-1 tvg-name="Jibek Joly HD" group-title="KZ/UZ/AZ",Jibek Joly HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11488/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="ASTANA TV HD" group-title="Казахстанские",ASTANA TV HD
-#EXTGRP:Казахстанские
+#EXTINF:-1 tvg-name="ASTANA TV HD" group-title="KZ/UZ/AZ",ASTANA TV HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11487/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Semey TV" group-title="Казахстанские",Semey TV
-#EXTGRP:Казахстанские
+#EXTINF:-1 tvg-name="Semey TV" group-title="KZ/UZ/AZ",Semey TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11489/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Ertis" group-title="Казахстанские",Ertis
-#EXTGRP:Казахстанские
+#EXTINF:-1 tvg-name="Ertis" group-title="KZ/UZ/AZ",Ertis
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11490/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Беларусь 1 HD" group-title="Белорусские",Беларусь 1 HD
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="Беларусь 1 HD" group-title="KZ/UZ/AZ",Беларусь 1 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11421/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Беларусь 2 HD" group-title="Белорусские",Беларусь 2 HD
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="Беларусь 2 HD" group-title="KZ/UZ/AZ",Беларусь 2 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11422/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Беларусь 3 HD" group-title="Белорусские",Беларусь 3 HD
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="Беларусь 3 HD" group-title="KZ/UZ/AZ",Беларусь 3 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11423/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Беларусь 4 HD" group-title="Белорусские",Беларусь 4 HD
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="Беларусь 4 HD" group-title="KZ/UZ/AZ",Беларусь 4 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11424/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Беларусь 5 HD" group-title="Белорусские",Беларусь 5 HD
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="Беларусь 5 HD" group-title="KZ/UZ/AZ",Беларусь 5 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11425/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Беларусь 24 HD" group-title="Белорусские",Беларусь 24 HD
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="Беларусь 24 HD" group-title="KZ/UZ/AZ",Беларусь 24 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11426/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="НТВ HD Беларусь" group-title="Белорусские",НТВ HD Беларусь
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="НТВ HD Беларусь" group-title="KZ/UZ/AZ",НТВ HD Беларусь
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11427/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="БелРос" group-title="Белорусские",БелРос
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="БелРос" group-title="KZ/UZ/AZ",БелРос
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11428/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="СТВ Беларусь" group-title="Белорусские",СТВ Беларусь
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="СТВ Беларусь" group-title="KZ/UZ/AZ",СТВ Беларусь
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11429/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="ОНТ Беларусь" group-title="Белорусские",ОНТ Беларусь
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="ОНТ Беларусь" group-title="KZ/UZ/AZ",ОНТ Беларусь
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11430/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="8 канал Беларусь" group-title="Белорусские",8 канал Беларусь
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="8 канал Беларусь" group-title="KZ/UZ/AZ",8 канал Беларусь
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11431/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Яснае ТВ" group-title="Белорусские",Яснае ТВ
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="Яснае ТВ" group-title="KZ/UZ/AZ",Яснае ТВ
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11432/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Скиф" group-title="Белорусские",Скиф
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="Скиф" group-title="KZ/UZ/AZ",Скиф
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11433/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Белсат HD" group-title="Белорусские",Белсат HD
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="Белсат HD" group-title="KZ/UZ/AZ",Белсат HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11590/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Звязда" group-title="Белорусские",Звязда
-#EXTGRP:Белорусские
+#EXTINF:-1 tvg-name="Звязда" group-title="KZ/UZ/AZ",Звязда
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11591/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Istiqlol TV" group-title="Узбекские",Istiqlol TV
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Istiqlol TV" group-title="KZ/UZ/AZ",Istiqlol TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11399/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Biz TV UZ" group-title="Узбекские",Biz TV UZ
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Biz TV UZ" group-title="KZ/UZ/AZ",Biz TV UZ
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11400/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Biz Cinema UZ" group-title="Узбекские",Biz Cinema UZ
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Biz Cinema UZ" group-title="KZ/UZ/AZ",Biz Cinema UZ
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11401/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Biz Music UZ" group-title="Узбекские",Biz Music UZ
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Biz Music UZ" group-title="KZ/UZ/AZ",Biz Music UZ
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11402/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="ZOR TV" group-title="Узбекские",ZOR TV
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="ZOR TV" group-title="KZ/UZ/AZ",ZOR TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11403/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="My 5 HD" group-title="Узбекские",My 5 HD
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="My 5 HD" group-title="KZ/UZ/AZ",My 5 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11404/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Ozbekiston" group-title="Узбекские",Ozbekiston
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Ozbekiston" group-title="KZ/UZ/AZ",Ozbekiston
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11405/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Sport UZ HD" group-title="Узбекские",Sport UZ HD
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Sport UZ HD" group-title="KZ/UZ/AZ",Sport UZ HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11406/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="YOSHLAR" group-title="Узбекские",YOSHLAR
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="YOSHLAR" group-title="KZ/UZ/AZ",YOSHLAR
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11407/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TOSHKENT" group-title="Узбекские",TOSHKENT
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="TOSHKENT" group-title="KZ/UZ/AZ",TOSHKENT
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11408/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="BOLAJON" group-title="Узбекские",BOLAJON
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="BOLAJON" group-title="KZ/UZ/AZ",BOLAJON
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11409/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Sevimli TV" group-title="Узбекские",Sevimli TV
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Sevimli TV" group-title="KZ/UZ/AZ",Sevimli TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11410/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="NAVO" group-title="Узбекские",NAVO
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="NAVO" group-title="KZ/UZ/AZ",NAVO
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11411/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Namangan" group-title="Узбекские",Namangan
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Namangan" group-title="KZ/UZ/AZ",Namangan
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11412/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="MAHALLA" group-title="Узбекские",MAHALLA
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="MAHALLA" group-title="KZ/UZ/AZ",MAHALLA
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11413/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KINOTEATR" group-title="Узбекские",KINOTEATR
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="KINOTEATR" group-title="KZ/UZ/AZ",KINOTEATR
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11414/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="UZREPORT TV" group-title="Узбекские",UZREPORT TV
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="UZREPORT TV" group-title="KZ/UZ/AZ",UZREPORT TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11415/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="O'zbekiston 24" group-title="Узбекские",O'zbekiston 24
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="O'zbekiston 24" group-title="KZ/UZ/AZ",O'zbekiston 24
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20916/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Dunyo boylab" group-title="Узбекские",Dunyo boylab
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Dunyo boylab" group-title="KZ/UZ/AZ",Dunyo boylab
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11416/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Taraqqiyot" group-title="Узбекские",Taraqqiyot
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Taraqqiyot" group-title="KZ/UZ/AZ",Taraqqiyot
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11417/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Dasturxon TV" group-title="Узбекские",Dasturxon TV
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Dasturxon TV" group-title="KZ/UZ/AZ",Dasturxon TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11418/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Renessans TV" group-title="Узбекские",Renessans TV
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Renessans TV" group-title="KZ/UZ/AZ",Renessans TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11419/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Milliy TV" group-title="Узбекские",Milliy TV
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Milliy TV" group-title="KZ/UZ/AZ",Milliy TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11420/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="OZBEKISTON 24" group-title="Узбекские",OZBEKISTON 24
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="OZBEKISTON 24" group-title="KZ/UZ/AZ",OZBEKISTON 24
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11800/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Futbol TV" group-title="Узбекские",Futbol TV
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Futbol TV" group-title="KZ/UZ/AZ",Futbol TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11801/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="S IKBOL HD" group-title="Узбекские",S IKBOL HD
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="S IKBOL HD" group-title="KZ/UZ/AZ",S IKBOL HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11802/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="LUX TV HD" group-title="Узбекские",LUX TV HD
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="LUX TV HD" group-title="KZ/UZ/AZ",LUX TV HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11803/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="NTV" group-title="Узбекские",NTV
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="NTV" group-title="KZ/UZ/AZ",NTV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11804/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Mediabay TV" group-title="Узбекские",Mediabay TV
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Mediabay TV" group-title="KZ/UZ/AZ",Mediabay TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11805/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Madaniyat va Ma'rifat" group-title="Узбекские",Madaniyat va Ma'rifat
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Madaniyat va Ma'rifat" group-title="KZ/UZ/AZ",Madaniyat va Ma'rifat
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11806/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Qiziq HD" group-title="Узбекские",Qiziq HD
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Qiziq HD" group-title="KZ/UZ/AZ",Qiziq HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11807/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Shifo TV" group-title="Узбекские",Shifo TV
-#EXTGRP:Узбекские
+#EXTINF:-1 tvg-name="Shifo TV" group-title="KZ/UZ/AZ",Shifo TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20915/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="BAKU TV" group-title="Азербайджан",BAKU TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="BAKU TV" group-title="KZ/UZ/AZ",BAKU TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11435/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Az TV" group-title="Азербайджан",Az TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Az TV" group-title="KZ/UZ/AZ",Az TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11438/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="ARB TV" group-title="Азербайджан",ARB TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="ARB TV" group-title="KZ/UZ/AZ",ARB TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11439/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="ARB 24 TV" group-title="Азербайджан",ARB 24 TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="ARB 24 TV" group-title="KZ/UZ/AZ",ARB 24 TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11440/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Xezer Tv" group-title="Азербайджан",Xezer Tv
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Xezer Tv" group-title="KZ/UZ/AZ",Xezer Tv
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11449/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Azstar TV" group-title="Азербайджан",Azstar TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Azstar TV" group-title="KZ/UZ/AZ",Azstar TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11437/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Azad TV" group-title="Азербайджан",Azad TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Azad TV" group-title="KZ/UZ/AZ",Azad TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11441/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Real TV" group-title="Азербайджан",Real TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Real TV" group-title="KZ/UZ/AZ",Real TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11434/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="AnewZ" group-title="Азербайджан",AnewZ
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="AnewZ" group-title="KZ/UZ/AZ",AnewZ
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11939/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Ictimai TV" group-title="Азербайджан",Ictimai TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Ictimai TV" group-title="KZ/UZ/AZ",Ictimai TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11445/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Idman TV" group-title="Азербайджан",Idman TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Idman TV" group-title="KZ/UZ/AZ",Idman TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11446/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Medeniyyet TV" group-title="Азербайджан",Medeniyyet TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Medeniyyet TV" group-title="KZ/UZ/AZ",Medeniyyet TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11442/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KANAL S" group-title="Азербайджан",KANAL S
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="KANAL S" group-title="KZ/UZ/AZ",KANAL S
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11443/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="ARB Gunes" group-title="Азербайджан",ARB Gunes
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="ARB Gunes" group-title="KZ/UZ/AZ",ARB Gunes
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11444/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Sehiyye TV" group-title="Азербайджан",Sehiyye TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Sehiyye TV" group-title="KZ/UZ/AZ",Sehiyye TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11447/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="FTV AZ" group-title="Азербайджан",FTV AZ
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="FTV AZ" group-title="KZ/UZ/AZ",FTV AZ
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11436/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Live TV" group-title="Азербайджан",Live TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Live TV" group-title="KZ/UZ/AZ",Live TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11450/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Muz Tv Azerbaijan" group-title="Азербайджан",Muz Tv Azerbaijan
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Muz Tv Azerbaijan" group-title="KZ/UZ/AZ",Muz Tv Azerbaijan
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11451/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Retro TV AZ" group-title="Азербайджан",Retro TV AZ
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Retro TV AZ" group-title="KZ/UZ/AZ",Retro TV AZ
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11452/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Show Plus" group-title="Азербайджан",Show Plus
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Show Plus" group-title="KZ/UZ/AZ",Show Plus
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11453/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Vostok TV" group-title="Азербайджан",Vostok TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Vostok TV" group-title="KZ/UZ/AZ",Vostok TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11454/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Dunya TV" group-title="Азербайджан",Dunya TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Dunya TV" group-title="KZ/UZ/AZ",Dunya TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11455/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Naxçıvan" group-title="Азербайджан",Naxçıvan
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Naxçıvan" group-title="KZ/UZ/AZ",Naxçıvan
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11456/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Gunaz TV" group-title="Азербайджан",Gunaz TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Gunaz TV" group-title="KZ/UZ/AZ",Gunaz TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11457/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Space TV" group-title="Азербайджан",Space TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Space TV" group-title="KZ/UZ/AZ",Space TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11458/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="MEGA Gence TV HD" group-title="Азербайджан",MEGA Gence TV HD
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="MEGA Gence TV HD" group-title="KZ/UZ/AZ",MEGA Gence TV HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11935/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KATV1 AZ" group-title="Азербайджан",KATV1 AZ
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="KATV1 AZ" group-title="KZ/UZ/AZ",KATV1 AZ
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11941/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="ATV CINEMA" group-title="Азербайджан",ATV CINEMA
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="ATV CINEMA" group-title="KZ/UZ/AZ",ATV CINEMA
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11937/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="ATV VIVACE" group-title="Азербайджан",ATV VIVACE
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="ATV VIVACE" group-title="KZ/UZ/AZ",ATV VIVACE
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11938/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="AGRO AZ" group-title="Азербайджан",AGRO AZ
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="AGRO AZ" group-title="KZ/UZ/AZ",AGRO AZ
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11940/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="CBC TV AZ" group-title="Азербайджан",CBC TV AZ
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="CBC TV AZ" group-title="KZ/UZ/AZ",CBC TV AZ
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11936/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="CBC Sport" group-title="Азербайджан",CBC Sport
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="CBC Sport" group-title="KZ/UZ/AZ",CBC Sport
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11448/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Sport TV AZ" group-title="Азербайджан",Sport TV AZ
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Sport TV AZ" group-title="KZ/UZ/AZ",Sport TV AZ
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11944/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Sport TV 2 AZ" group-title="Азербайджан",Sport TV 2 AZ
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Sport TV 2 AZ" group-title="KZ/UZ/AZ",Sport TV 2 AZ
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11942/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TVNet Sport" group-title="Азербайджан",TVNet Sport
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="TVNet Sport" group-title="KZ/UZ/AZ",TVNet Sport
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11943/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Azerbaijan music HD" group-title="Азербайджан",Azerbaijan music HD
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Azerbaijan music HD" group-title="KZ/UZ/AZ",Azerbaijan music HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20902/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Azerbaijan music HIT" group-title="Азербайджан",Azerbaijan music HIT
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Azerbaijan music HIT" group-title="KZ/UZ/AZ",Azerbaijan music HIT
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20903/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="4 Turk pop HD" group-title="Азербайджан",4 Turk pop HD
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="4 Turk pop HD" group-title="KZ/UZ/AZ",4 Turk pop HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20904/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Konul Music Tv" group-title="Азербайджан",Konul Music Tv
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Konul Music Tv" group-title="KZ/UZ/AZ",Konul Music Tv
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20905/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KNTV" group-title="Азербайджан",KNTV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="KNTV" group-title="KZ/UZ/AZ",KNTV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20906/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Konul Tv" group-title="Азербайджан",Konul Tv
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Konul Tv" group-title="KZ/UZ/AZ",Konul Tv
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20914/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Ayaz TV" group-title="Азербайджан",Ayaz TV
-#EXTGRP:Азербайджан
+#EXTINF:-1 tvg-name="Ayaz TV" group-title="KZ/UZ/AZ",Ayaz TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20913/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Dream Turk" group-title="Турецкие",Dream Turk
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="Dream Turk" group-title="KZ/UZ/AZ",Dream Turk
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11154/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="A2 TV Turkey HD" group-title="Турецкие",A2 TV Turkey HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="A2 TV Turkey HD" group-title="KZ/UZ/AZ",A2 TV Turkey HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11459/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="SHOW HD" group-title="Турецкие",SHOW HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="SHOW HD" group-title="KZ/UZ/AZ",SHOW HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11460/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Star TV" group-title="Турецкие",Star TV
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="Star TV" group-title="KZ/UZ/AZ",Star TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11461/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="SPORSMART HD" group-title="Турецкие",SPORSMART HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="SPORSMART HD" group-title="KZ/UZ/AZ",SPORSMART HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11462/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Kanal D" group-title="Турецкие",Kanal D
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="Kanal D" group-title="KZ/UZ/AZ",Kanal D
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11463/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Euro D HD" group-title="Турецкие",Euro D HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="Euro D HD" group-title="KZ/UZ/AZ",Euro D HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11464/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TV 8 HD" group-title="Турецкие",TV 8 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="TV 8 HD" group-title="KZ/UZ/AZ",TV 8 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11465/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TV 8 - 5 HD" group-title="Турецкие",TV 8 - 5 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="TV 8 - 5 HD" group-title="KZ/UZ/AZ",TV 8 - 5 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11466/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="NOW TV" group-title="Турецкие",NOW TV
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="NOW TV" group-title="KZ/UZ/AZ",NOW TV
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11467/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="National Geographic HD" group-title="Турецкие",National Geographic HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="National Geographic HD" group-title="KZ/UZ/AZ",National Geographic HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11468/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Nat Geo Wild HD" group-title="Турецкие",Nat Geo Wild HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="Nat Geo Wild HD" group-title="KZ/UZ/AZ",Nat Geo Wild HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11469/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="ATV HD" group-title="Турецкие",ATV HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="ATV HD" group-title="KZ/UZ/AZ",ATV HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11470/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="A Spor" group-title="Турецкие",A Spor
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="A Spor" group-title="KZ/UZ/AZ",A Spor
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11472/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TRT1 HD" group-title="Турецкие",TRT1 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="TRT1 HD" group-title="KZ/UZ/AZ",TRT1 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11473/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KANAL 7 HD" group-title="Турецкие",KANAL 7 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="KANAL 7 HD" group-title="KZ/UZ/AZ",KANAL 7 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11474/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Tivibuspor 1 HD" group-title="Турецкие",Tivibuspor 1 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="Tivibuspor 1 HD" group-title="KZ/UZ/AZ",Tivibuspor 1 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11475/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Tivibuspor 2 HD" group-title="Турецкие",Tivibuspor 2 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="Tivibuspor 2 HD" group-title="KZ/UZ/AZ",Tivibuspor 2 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11476/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="S SPORT HD" group-title="Турецкие",S SPORT HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="S SPORT HD" group-title="KZ/UZ/AZ",S SPORT HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11477/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="S SPORT2 HD" group-title="Турецкие",S SPORT2 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="S SPORT2 HD" group-title="KZ/UZ/AZ",S SPORT2 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11478/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TRT Spor" group-title="Турецкие",TRT Spor
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="TRT Spor" group-title="KZ/UZ/AZ",TRT Spor
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11479/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Haber Global HD" group-title="Турецкие",Haber Global HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="Haber Global HD" group-title="KZ/UZ/AZ",Haber Global HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11471/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Tivibu Spor 3 HD" group-title="Турецкие",Tivibu Spor 3 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="Tivibu Spor 3 HD" group-title="KZ/UZ/AZ",Tivibu Spor 3 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20589/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TABii SPOR HD" group-title="Турецкие",TABii SPOR HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="TABii SPOR HD" group-title="KZ/UZ/AZ",TABii SPOR HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20616/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TABii SPOR 1 HD" group-title="Турецкие",TABii SPOR 1 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="TABii SPOR 1 HD" group-title="KZ/UZ/AZ",TABii SPOR 1 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20617/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TABii SPOR 2 HD" group-title="Турецкие",TABii SPOR 2 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="TABii SPOR 2 HD" group-title="KZ/UZ/AZ",TABii SPOR 2 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20618/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TABii SPOR 3 HD" group-title="Турецкие",TABii SPOR 3 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="TABii SPOR 3 HD" group-title="KZ/UZ/AZ",TABii SPOR 3 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20619/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TABii SPOR 4 HD" group-title="Турецкие",TABii SPOR 4 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="TABii SPOR 4 HD" group-title="KZ/UZ/AZ",TABii SPOR 4 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20620/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TRT COCUK HD" group-title="Турецкие",TRT COCUK HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="TRT COCUK HD" group-title="KZ/UZ/AZ",TRT COCUK HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20900/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="SHOW MAX HD" group-title="Турецкие",SHOW MAX HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="SHOW MAX HD" group-title="KZ/UZ/AZ",SHOW MAX HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20479/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="SINEMA 1001 HD" group-title="Турецкие",SINEMA 1001 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="SINEMA 1001 HD" group-title="KZ/UZ/AZ",SINEMA 1001 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20480/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="SINEMA 1002 HD" group-title="Турецкие",SINEMA 1002 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="SINEMA 1002 HD" group-title="KZ/UZ/AZ",SINEMA 1002 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20481/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TRT BELGESEL HD" group-title="Турецкие",TRT BELGESEL HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="TRT BELGESEL HD" group-title="KZ/UZ/AZ",TRT BELGESEL HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20490/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Beyaz TV HD" group-title="Турецкие",Beyaz TV HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="Beyaz TV HD" group-title="KZ/UZ/AZ",Beyaz TV HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20491/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Sinema HD" group-title="Турецкие",Sinema HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="Sinema HD" group-title="KZ/UZ/AZ",Sinema HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20492/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Sinema 2 HD" group-title="Турецкие",Sinema 2 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="Sinema 2 HD" group-title="KZ/UZ/AZ",Sinema 2 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20493/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Sinema Yerli HD" group-title="Турецкие",Sinema Yerli HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="Sinema Yerli HD" group-title="KZ/UZ/AZ",Sinema Yerli HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20494/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Sinema Yerli 2 HD" group-title="Турецкие",Sinema Yerli 2 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="Sinema Yerli 2 HD" group-title="KZ/UZ/AZ",Sinema Yerli 2 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20495/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TRT Arabi HD" group-title="Турецкие",TRT Arabi HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="TRT Arabi HD" group-title="KZ/UZ/AZ",TRT Arabi HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20496/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TRT WORLD HD" group-title="Турецкие",TRT WORLD HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="TRT WORLD HD" group-title="KZ/UZ/AZ",TRT WORLD HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20497/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TV 100 HD" group-title="Турецкие",TV 100 HD
-#EXTGRP:Турецкие
+#EXTINF:-1 tvg-name="TV 100 HD" group-title="KZ/UZ/AZ",TV 100 HD
+#EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20957/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="NOVELAS+" group-title="PL/HU/RO",NOVELAS+
 #EXTGRP:PL/HU/RO
@@ -3738,7 +3645,7 @@ http://141.94.251.52/12133/index.m3u8?token=6AC15D94169C
 #EXTGRP:ScТв
 http://141.94.251.52/12134/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Мир наизнанку" group-title="ScТв",Мир наизнанку
-#EXTGRP:ScТвТв
+#EXTGRP:ScТв
 http://141.94.251.52/12200/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Следствие вели" group-title="ScТв",Следствие вели
 #EXTGRP:ScТв
