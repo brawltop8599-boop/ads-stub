@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://178.63.47.178/epg.xml"
+#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 #EXTINF:-1 tvg-name="Первый канал" group-title="Россия",Первый канал
 #EXTGRP:Россия
 http://141.94.251.52/00003/index.m3u8?token=6AC15D94169C
@@ -20,9 +20,6 @@ http://141.94.251.52/00046/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Первый HD +4" group-title="Россия",Первый HD +4
 #EXTGRP:Россия
 http://141.94.251.52/00020/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Первый канал Европа" group-title="Россия",Первый канал Европа
-#EXTGRP:Россия
-http://141.94.251.52/00014/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="НТВ" group-title="Россия",НТВ
 #EXTGRP:Россия
 http://141.94.251.52/00001/index.m3u8?token=6AC15D94169C
@@ -386,9 +383,6 @@ http://141.94.251.52/10612/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="СТБ" group-title="Украина",СТБ
 #EXTGRP:Украина
 http://141.94.251.52/10613/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="ICTV СЕРІАЛИ" group-title="Украина",ICTV СЕРІАЛИ
-#EXTGRP:Украина
-http://141.94.251.52/10614/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Суспільне Київ HD" group-title="Украина",Суспільне Київ HD
 #EXTGRP:Украина
 http://141.94.251.52/10615/index.m3u8?token=6AC15D94169C
@@ -464,9 +458,6 @@ http://141.94.251.52/10634/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="11 канал Дніпро" group-title="Украина",11 канал Дніпро
 #EXTGRP:Украина
 http://141.94.251.52/10635/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Film.Ua Drama" group-title="Украина",Film.Ua Drama
-#EXTGRP:Украина
-http://141.94.251.52/10636/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Сонце" group-title="Украина",Сонце
 #EXTGRP:Украина
 http://141.94.251.52/10637/index.m3u8?token=6AC15D94169C
@@ -512,9 +503,6 @@ http://141.94.251.52/10650/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="ТРК Київ" group-title="Украина",ТРК Київ
 #EXTGRP:Украина
 http://141.94.251.52/10651/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Comedy Central" group-title="Украина",Comedy Central
-#EXTGRP:Украина
-http://141.94.251.52/10652/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Cine+" group-title="Украина",Cine+
 #EXTGRP:Украина
 http://141.94.251.52/10653/index.m3u8?token=6AC15D94169C
@@ -524,9 +512,6 @@ http://141.94.251.52/10654/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Cine+ Legend" group-title="Украина",Cine+ Legend
 #EXTGRP:Украина
 http://141.94.251.52/10655/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Cine+ Kids" group-title="Украина",Cine+ Kids
-#EXTGRP:Украина
-http://141.94.251.52/10656/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="CPS Fresh UA" group-title="Украина",CPS Fresh UA
 #EXTGRP:Украина
 http://141.94.251.52/10657/index.m3u8?token=6AC15D94169C
@@ -605,9 +590,6 @@ http://141.94.251.52/20935/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="UTravel" group-title="Украина",UTravel
 #EXTGRP:Украина
 http://141.94.251.52/20936/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Культура HD" group-title="Украина",Суспільне Культура HD
-#EXTGRP:Украина
-http://141.94.251.52/20937/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Фронт HD" group-title="Украина",Фронт HD
 #EXTGRP:Украина
 http://141.94.251.52/20938/index.m3u8?token=6AC15D94169C
@@ -620,9 +602,6 @@ http://141.94.251.52/20940/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="ЕТНО канал HD" group-title="Украина",ЕТНО канал HD
 #EXTGRP:Украина
 http://141.94.251.52/20941/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="36.6" group-title="Украина",36.6
-#EXTGRP:Украина
-http://141.94.251.52/20942/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Зоосвіт" group-title="Украина",Зоосвіт
 #EXTGRP:Украина
 http://141.94.251.52/20943/index.m3u8?token=6AC15D94169C
@@ -710,75 +689,6 @@ http://141.94.251.52/20988/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Cinema6" group-title="Украина",Cinema6
 #EXTGRP:Украина
 http://141.94.251.52/20989/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Вінниця" group-title="Украина",Суспільне Вінниця
-#EXTGRP:Украина
-http://141.94.251.52/21003/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Луцьк" group-title="Украина",Суспільне Луцьк
-#EXTGRP:Украина
-http://141.94.251.52/21004/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Дныпро" group-title="Украина",Суспільне Дныпро
-#EXTGRP:Украина
-http://141.94.251.52/21005/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Житомир" group-title="Украина",Суспільне Житомир
-#EXTGRP:Украина
-http://141.94.251.52/21006/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Кропивницький" group-title="Украина",Суспільне Кропивницький
-#EXTGRP:Украина
-http://141.94.251.52/21007/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Запоріжжя" group-title="Украина",Суспільне Запоріжжя
-#EXTGRP:Украина
-http://141.94.251.52/21008/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Івано-Франківськ" group-title="Украина",Суспільне Івано-Франківськ
-#EXTGRP:Украина
-http://141.94.251.52/21009/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Миколаїв" group-title="Украина",Суспільне Миколаїв
-#EXTGRP:Украина
-http://141.94.251.52/21010/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Львів" group-title="Украина",Суспільне Львів
-#EXTGRP:Украина
-http://141.94.251.52/21011/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Полтава" group-title="Украина",Суспільне Полтава
-#EXTGRP:Украина
-http://141.94.251.52/21012/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Одеса" group-title="Украина",Суспільне Одеса
-#EXTGRP:Украина
-http://141.94.251.52/21013/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Тернопіль" group-title="Украина",Суспільне Тернопіль
-#EXTGRP:Украина
-http://141.94.251.52/21014/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Рівне" group-title="Украина",Суспільне Рівне
-#EXTGRP:Украина
-http://141.94.251.52/21015/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Суми" group-title="Украина",Суспільне Суми
-#EXTGRP:Украина
-http://141.94.251.52/21016/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Хмельницький" group-title="Украина",Суспільне Хмельницький
-#EXTGRP:Украина
-http://141.94.251.52/21017/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Донбас" group-title="Украина",Суспільне Донбас
-#EXTGRP:Украина
-http://141.94.251.52/21018/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Харків" group-title="Украина",Суспільне Харків
-#EXTGRP:Украина
-http://141.94.251.52/21019/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Херсон" group-title="Украина",Суспільне Херсон
-#EXTGRP:Украина
-http://141.94.251.52/21020/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Чернігів" group-title="Украина",Суспільне Чернігів
-#EXTGRP:Украина
-http://141.94.251.52/21021/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Черкаси" group-title="Украина",Суспільне Черкаси
-#EXTGRP:Украина
-http://141.94.251.52/21022/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Чернівці" group-title="Украина",Суспільне Чернівці
-#EXTGRP:Украина
-http://141.94.251.52/21023/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Ужгород" group-title="Украина",Суспільне Ужгород
-#EXTGRP:Украина
-http://141.94.251.52/21024/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Суспільне Крим" group-title="Украина",Суспільне Крим
-#EXTGRP:Украина
-http://141.94.251.52/21025/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Viju TV1000" group-title="КиноТв",Viju TV1000
 #EXTGRP:КиноТв
 http://141.94.251.52/10101/index.m3u8?token=6AC15D94169C
@@ -1397,9 +1307,6 @@ http://141.94.251.52/11600/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Eurosport 2 HD UA" group-title="Спорт",Eurosport 2 HD UA
 #EXTGRP:Спорт
 http://141.94.251.52/11601/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Eurosport 4K" group-title="Спорт",Eurosport 4K
-#EXTGRP:Спорт
-http://141.94.251.52/20590/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Матч!" group-title="Спорт",Матч!
 #EXTGRP:Спорт
 http://141.94.251.52/20952/index.m3u8?token=6AC15D94169C
@@ -1607,15 +1514,6 @@ http://141.94.251.52/10557/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Betking live 2" group-title="Спорт",Betking live 2
 #EXTGRP:Спорт
 http://141.94.251.52/10558/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Betking live 3" group-title="Спорт",Betking live 3
-#EXTGRP:Спорт
-http://141.94.251.52/10559/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Betking live 4" group-title="Спорт",Betking live 4
-#EXTGRP:Спорт
-http://141.94.251.52/21026/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Betking live 5" group-title="Спорт",Betking live 5
-#EXTGRP:Спорт
-http://141.94.251.52/21027/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Sport 1 Baltic" group-title="Спорт",Sport 1 Baltic
 #EXTGRP:Спорт
 http://141.94.251.52/10442/index.m3u8?token=6AC15D94169C
@@ -1646,12 +1544,6 @@ http://141.94.251.52/10514/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Медіафутбол HD" group-title="Спорт",Медіафутбол HD
 #EXTGRP:Спорт
 http://141.94.251.52/20612/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Бокс HD" group-title="Спорт",Бокс HD
-#EXTGRP:Спорт
-http://141.94.251.52/20997/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Баскетбол HD" group-title="Спорт",Баскетбол HD
-#EXTGRP:Спорт
-http://141.94.251.52/20998/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="SportStream" group-title="Спорт",SportStream
 #EXTGRP:Спорт
 http://141.94.251.52/10509/index.m3u8?token=6AC15D94169C
@@ -1670,9 +1562,6 @@ http://141.94.251.52/20926/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Dynamo Kyiv TV HD" group-title="Спорт",Dynamo Kyiv TV HD
 #EXTGRP:Спорт
 http://141.94.251.52/10586/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Equalympic HD" group-title="Спорт",Equalympic HD
-#EXTGRP:Спорт
-http://141.94.251.52/10587/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Футбол" group-title="Спорт",Футбол
 #EXTGRP:Спорт
 http://141.94.251.52/10473/index.m3u8?token=6AC15D94169C
@@ -1766,9 +1655,6 @@ http://141.94.251.52/10417/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Super-Tennis HD" group-title="Спорт",Super-Tennis HD
 #EXTGRP:Спорт
 http://141.94.251.52/10418/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Tennis channel international" group-title="Спорт",Tennis channel international
-#EXTGRP:Спорт
-http://141.94.251.52/10594/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="DAZN 1" group-title="Спорт",DAZN 1
 #EXTGRP:Спорт
 http://141.94.251.52/10404/index.m3u8?token=6AC15D94169C
@@ -1808,21 +1694,12 @@ http://141.94.251.52/10433/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="PRIMA Sport 2 HD" group-title="Спорт",PRIMA Sport 2 HD
 #EXTGRP:Спорт
 http://141.94.251.52/10434/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="PRIMA Sport 3 HD" group-title="Спорт",PRIMA Sport 3 HD
-#EXTGRP:Спорт
-http://141.94.251.52/10435/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="PRIMA Sport 4 HD" group-title="Спорт",PRIMA Sport 4 HD
 #EXTGRP:Спорт
 http://141.94.251.52/10436/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Nova Sport 1" group-title="Спорт",Nova Sport 1
 #EXTGRP:Спорт
 http://141.94.251.52/10441/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Dubai Sports 2" group-title="Спорт",Dubai Sports 2
-#EXTGRP:Спорт
-http://141.94.251.52/10427/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Dubai Sports 3" group-title="Спорт",Dubai Sports 3
-#EXTGRP:Спорт
-http://141.94.251.52/10428/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Digi Sport 1 HD" group-title="Спорт",Digi Sport 1 HD
 #EXTGRP:Спорт
 http://141.94.251.52/10437/index.m3u8?token=6AC15D94169C
@@ -1859,21 +1736,12 @@ http://141.94.251.52/10488/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="SuperSport 4 HD" group-title="Спорт",SuperSport 4 HD
 #EXTGRP:Спорт
 http://141.94.251.52/10489/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Arena Sport 1 HD" group-title="Спорт",Arena Sport 1 HD
-#EXTGRP:Спорт
-http://141.94.251.52/10490/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Arena Sport 2 HD" group-title="Спорт",Arena Sport 2 HD
 #EXTGRP:Спорт
 http://141.94.251.52/10491/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Arena Sport 3 HD" group-title="Спорт",Arena Sport 3 HD
-#EXTGRP:Спорт
-http://141.94.251.52/10492/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Arena Sport 4 HD" group-title="Спорт",Arena Sport 4 HD
 #EXTGRP:Спорт
 http://141.94.251.52/10493/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Arena Sport 5 HD" group-title="Спорт",Arena Sport 5 HD
-#EXTGRP:Спорт
-http://141.94.251.52/10494/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Arena Sport 6 HD" group-title="Спорт",Arena Sport 6 HD
 #EXTGRP:Спорт
 http://141.94.251.52/10495/index.m3u8?token=6AC15D94169C
@@ -1934,24 +1802,12 @@ http://141.94.251.52/10411/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Bein Sports XTRA" group-title="Спорт",Bein Sports XTRA
 #EXTGRP:Спорт
 http://141.94.251.52/10595/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="DAZN Womens Football" group-title="Спорт",DAZN Womens Football
-#EXTGRP:Спорт
-http://141.94.251.52/10596/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="World Poker Tour HD" group-title="Спорт",World Poker Tour HD
 #EXTGRP:Спорт
 http://141.94.251.52/10597/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="WWE Russian" group-title="Спорт",WWE Russian
-#EXTGRP:Спорт
-http://141.94.251.52/10498/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="MMA TIME HD" group-title="Спорт",MMA TIME HD
-#EXTGRP:Спорт
-http://141.94.251.52/10499/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Red Bull TV HD" group-title="Спорт",Red Bull TV HD
 #EXTGRP:Спорт
 http://141.94.251.52/10599/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Волейбол HD" group-title="Спорт",Волейбол HD
-#EXTGRP:Спорт
-http://141.94.251.52/20999/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Viju Explore" group-title="ХаЛьВа",Viju Explore
 #EXTGRP:ХаЛьВа
 http://141.94.251.52/10751/index.m3u8?token=6AC15D94169C
@@ -2057,9 +1913,6 @@ http://141.94.251.52/10784/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Наука" group-title="ХаЛьВа",Наука
 #EXTGRP:ХаЛьВа
 http://141.94.251.52/10792/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Da Vinci" group-title="ХаЛьВа",Da Vinci
-#EXTGRP:ХаЛьВа
-http://141.94.251.52/10761/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="ZooПарк" group-title="ХаЛьВа",ZooПарк
 #EXTGRP:ХаЛьВа
 http://141.94.251.52/10762/index.m3u8?token=6AC15D94169C
@@ -2219,24 +2072,12 @@ http://141.94.251.52/10827/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="NANO HD" group-title="ХаЛьВа",NANO HD
 #EXTGRP:ХаЛьВа
 http://141.94.251.52/10828/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Юнит HD" group-title="ХаЛьВа",Юнит HD
-#EXTGRP:ХаЛьВа
-http://141.94.251.52/10838/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Kosmo HD" group-title="ХаЛьВа",Kosmo HD
-#EXTGRP:ХаЛьВа
-http://141.94.251.52/10839/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Love Nature 4K" group-title="ХаЛьВа",Love Nature 4K
-#EXTGRP:ХаЛьВа
-http://141.94.251.52/10840/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Авто 24" group-title="ХаЛьВа",Авто 24
 #EXTGRP:ХаЛьВа
 http://141.94.251.52/10842/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="MiTV Разрушители легенд" group-title="ХаЛьВа",MiTV Разрушители легенд
 #EXTGRP:ХаЛьВа
 http://141.94.251.52/10845/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="MiTV Жак-Ив Кусто" group-title="ХаЛьВа",MiTV Жак-Ив Кусто
-#EXTGRP:ХаЛьВа
-http://141.94.251.52/10846/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="MiTV Наш сад" group-title="ХаЛьВа",MiTV Наш сад
 #EXTGRP:ХаЛьВа
 http://141.94.251.52/10847/index.m3u8?token=6AC15D94169C
@@ -2315,18 +2156,12 @@ http://141.94.251.52/11028/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Duck TV" group-title="Детские",Duck TV
 #EXTGRP:Детские
 http://141.94.251.52/11029/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Советские мультфильмы" group-title="Детские",Советские мультфильмы
-#EXTGRP:Детские
-http://141.94.251.52/11030/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Супергерои" group-title="Детские",Супергерои
 #EXTGRP:Детские
 http://141.94.251.52/11031/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Уникум" group-title="Детские",Уникум
 #EXTGRP:Детские
 http://141.94.251.52/11032/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Cartoonito" group-title="Детские",Cartoonito
-#EXTGRP:Детские
-http://141.94.251.52/11033/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Рыжий" group-title="Детские",Рыжий
 #EXTGRP:Детские
 http://141.94.251.52/11034/index.m3u8?token=6AC15D94169C
@@ -2336,9 +2171,6 @@ http://141.94.251.52/11035/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Лёва" group-title="Детские",Лёва
 #EXTGRP:Детские
 http://141.94.251.52/11036/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Детское Кино International" group-title="Детские",Детское Кино International
-#EXTGRP:Детские
-http://141.94.251.52/11039/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="BCU Kids HD" group-title="Детские",BCU Kids HD
 #EXTGRP:Детские
 http://141.94.251.52/11040/index.m3u8?token=6AC15D94169C
@@ -2453,9 +2285,6 @@ http://141.94.251.52/10721/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="EU.Music HD" group-title="Музыка",EU.Music HD
 #EXTGRP:Музыка
 http://141.94.251.52/10722/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="М1" group-title="Музыка",М1
-#EXTGRP:Музыка
-http://141.94.251.52/10723/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="М2" group-title="Музыка",М2
 #EXTGRP:Музыка
 http://141.94.251.52/10724/index.m3u8?token=6AC15D94169C
@@ -2474,9 +2303,6 @@ http://141.94.251.52/10728/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="VH1 Classic" group-title="Музыка",VH1 Classic
 #EXTGRP:Музыка
 http://141.94.251.52/10729/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Mezzo Live HD" group-title="Музыка",Mezzo Live HD
-#EXTGRP:Музыка
-http://141.94.251.52/10730/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Yosso TV Music Hits" group-title="Музыка",Yosso TV Music Hits
 #EXTGRP:Музыка
 http://141.94.251.52/10731/index.m3u8?token=6AC15D94169C
@@ -2492,9 +2318,6 @@ http://141.94.251.52/10734/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Stingray CMusic HD" group-title="Музыка",Stingray CMusic HD
 #EXTGRP:Музыка
 http://141.94.251.52/10735/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="BackusTV music" group-title="Музыка",BackusTV music
-#EXTGRP:Музыка
-http://141.94.251.52/10736/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Megogo Live" group-title="Музыка",Megogo Live
 #EXTGRP:Музыка
 http://141.94.251.52/10737/index.m3u8?token=6AC15D94169C
@@ -2507,12 +2330,6 @@ http://141.94.251.52/10739/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Ля-Минор" group-title="Музыка",Ля-Минор
 #EXTGRP:Музыка
 http://141.94.251.52/10740/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI NOSTALGIA" group-title="Музыка",KLI NOSTALGIA
-#EXTGRP:Музыка
-http://141.94.251.52/10743/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="KLI Retro HD" group-title="Музыка",KLI Retro HD
-#EXTGRP:Музыка
-http://141.94.251.52/10744/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Black HD" group-title="Музыка",Black HD
 #EXTGRP:Музыка
 http://141.94.251.52/10748/index.m3u8?token=6AC15D94169C
@@ -2660,9 +2477,6 @@ http://141.94.251.52/11418/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Renessans TV" group-title="KZ/UZ/AZ",Renessans TV
 #EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11419/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Milliy TV" group-title="KZ/UZ/AZ",Milliy TV
-#EXTGRP:KZ/UZ/AZ
-http://141.94.251.52/11420/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="OZBEKISTON 24" group-title="KZ/UZ/AZ",OZBEKISTON 24
 #EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11800/index.m3u8?token=6AC15D94169C
@@ -2699,9 +2513,6 @@ http://141.94.251.52/11438/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="ARB TV" group-title="KZ/UZ/AZ",ARB TV
 #EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11439/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="ARB 24 TV" group-title="KZ/UZ/AZ",ARB 24 TV
-#EXTGRP:KZ/UZ/AZ
-http://141.94.251.52/11440/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Xezer Tv" group-title="KZ/UZ/AZ",Xezer Tv
 #EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11449/index.m3u8?token=6AC15D94169C
@@ -2744,9 +2555,6 @@ http://141.94.251.52/11450/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Muz Tv Azerbaijan" group-title="KZ/UZ/AZ",Muz Tv Azerbaijan
 #EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11451/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Retro TV AZ" group-title="KZ/UZ/AZ",Retro TV AZ
-#EXTGRP:KZ/UZ/AZ
-http://141.94.251.52/11452/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Show Plus" group-title="KZ/UZ/AZ",Show Plus
 #EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11453/index.m3u8?token=6AC15D94169C
@@ -2777,9 +2585,6 @@ http://141.94.251.52/11937/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="ATV VIVACE" group-title="KZ/UZ/AZ",ATV VIVACE
 #EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11938/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="AGRO AZ" group-title="KZ/UZ/AZ",AGRO AZ
-#EXTGRP:KZ/UZ/AZ
-http://141.94.251.52/11940/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="CBC TV AZ" group-title="KZ/UZ/AZ",CBC TV AZ
 #EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11936/index.m3u8?token=6AC15D94169C
@@ -2798,21 +2603,12 @@ http://141.94.251.52/11943/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Azerbaijan music HD" group-title="KZ/UZ/AZ",Azerbaijan music HD
 #EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20902/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Azerbaijan music HIT" group-title="KZ/UZ/AZ",Azerbaijan music HIT
-#EXTGRP:KZ/UZ/AZ
-http://141.94.251.52/20903/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="4 Turk pop HD" group-title="KZ/UZ/AZ",4 Turk pop HD
 #EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20904/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Konul Music Tv" group-title="KZ/UZ/AZ",Konul Music Tv
-#EXTGRP:KZ/UZ/AZ
-http://141.94.251.52/20905/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="KNTV" group-title="KZ/UZ/AZ",KNTV
 #EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20906/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Konul Tv" group-title="KZ/UZ/AZ",Konul Tv
-#EXTGRP:KZ/UZ/AZ
-http://141.94.251.52/20914/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Ayaz TV" group-title="KZ/UZ/AZ",Ayaz TV
 #EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20913/index.m3u8?token=6AC15D94169C
@@ -2882,9 +2678,6 @@ http://141.94.251.52/11479/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Haber Global HD" group-title="KZ/UZ/AZ",Haber Global HD
 #EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/11471/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Tivibu Spor 3 HD" group-title="KZ/UZ/AZ",Tivibu Spor 3 HD
-#EXTGRP:KZ/UZ/AZ
-http://141.94.251.52/20589/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="TABii SPOR HD" group-title="KZ/UZ/AZ",TABii SPOR HD
 #EXTGRP:KZ/UZ/AZ
 http://141.94.251.52/20616/index.m3u8?token=6AC15D94169C
@@ -2945,9 +2738,6 @@ http://141.94.251.52/11571/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="teleTOON+ HD" group-title="PL/HU/RO",teleTOON+ HD
 #EXTGRP:PL/HU/RO
 http://141.94.251.52/11572/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TVP Dokument HD" group-title="PL/HU/RO",TVP Dokument HD
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/11573/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="TVP Sport HD" group-title="PL/HU/RO",TVP Sport HD
 #EXTGRP:PL/HU/RO
 http://141.94.251.52/11574/index.m3u8?token=6AC15D94169C
@@ -2966,9 +2756,6 @@ http://141.94.251.52/11577/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Canal+ Seriale HD" group-title="PL/HU/RO",Canal+ Seriale HD
 #EXTGRP:PL/HU/RO
 http://141.94.251.52/11578/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Polsat Film HD" group-title="PL/HU/RO",Polsat Film HD
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/11579/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="TVP Seriale HD" group-title="PL/HU/RO",TVP Seriale HD
 #EXTGRP:PL/HU/RO
 http://141.94.251.52/11580/index.m3u8?token=6AC15D94169C
@@ -3044,96 +2831,18 @@ http://141.94.251.52/11524/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Sport 2 HU" group-title="PL/HU/RO",Sport 2 HU
 #EXTGRP:PL/HU/RO
 http://141.94.251.52/11525/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TVR SPORT HD" group-title="PL/HU/RO",TVR SPORT HD
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/11550/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TVR International" group-title="PL/HU/RO",TVR International
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/11551/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Romane TV" group-title="PL/HU/RO",Romane TV
 #EXTGRP:PL/HU/RO
 http://141.94.251.52/11570/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Antena 1" group-title="PL/HU/RO",Antena 1
 #EXTGRP:PL/HU/RO
 http://141.94.251.52/20650/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Antena 3" group-title="PL/HU/RO",Antena 3
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20651/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Antena Stars HD" group-title="PL/HU/RO",Antena Stars HD
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20652/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Bollywood" group-title="PL/HU/RO",Bollywood
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20653/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Disney channel" group-title="PL/HU/RO",Disney channel
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20654/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Filmbox Premium" group-title="PL/HU/RO",Filmbox Premium
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20655/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="HBO" group-title="PL/HU/RO",HBO
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20656/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="HBO 2" group-title="PL/HU/RO",HBO 2
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20657/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="HBO 3" group-title="PL/HU/RO",HBO 3
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20658/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Jim Jam" group-title="PL/HU/RO",Jim Jam
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20659/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Disney Junior" group-title="PL/HU/RO",Disney Junior
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20660/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Cartoon Network" group-title="PL/HU/RO",Cartoon Network
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20661/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Music Channel" group-title="PL/HU/RO",Music Channel
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20662/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="National TV" group-title="PL/HU/RO",National TV
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20663/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Kanal D" group-title="PL/HU/RO",Kanal D
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20664/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Romania TV" group-title="PL/HU/RO",Romania TV
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20665/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TVR1" group-title="PL/HU/RO",TVR1
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20666/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TVR2" group-title="PL/HU/RO",TVR2
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20667/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="TVR3" group-title="PL/HU/RO",TVR3
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20668/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="HGTV" group-title="PL/HU/RO",HGTV
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20669/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Discovery" group-title="PL/HU/RO",Discovery
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20670/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Nat Geo" group-title="PL/HU/RO",Nat Geo
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20671/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Nat Geo Willd" group-title="PL/HU/RO",Nat Geo Willd
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20672/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Pro Cinema" group-title="PL/HU/RO",Pro Cinema
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20675/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Tojikistan HD" group-title="PL/HU/RO",Tojikistan HD
 #EXTGRP:PL/HU/RO
 http://141.94.251.52/11920/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="TV Safina HD" group-title="PL/HU/RO",TV Safina HD
 #EXTGRP:PL/HU/RO
 http://141.94.251.52/11921/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Jahonnamo HD" group-title="PL/HU/RO",Jahonnamo HD
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/11922/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Football-HD" group-title="PL/HU/RO",Football-HD
 #EXTGRP:PL/HU/RO
 http://141.94.251.52/11923/index.m3u8?token=6AC15D94169C
@@ -3167,12 +2876,6 @@ http://141.94.251.52/11902/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Turkmen Owazy" group-title="PL/HU/RO",Turkmen Owazy
 #EXTGRP:PL/HU/RO
 http://141.94.251.52/11903/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Turkmen Radio" group-title="PL/HU/RO",Turkmen Radio
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/11915/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Turkmenistan" group-title="PL/HU/RO",Turkmenistan
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/11904/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Yaslyk" group-title="PL/HU/RO",Yaslyk
 #EXTGRP:PL/HU/RO
 http://141.94.251.52/11905/index.m3u8?token=6AC15D94169C
@@ -3233,9 +2936,6 @@ http://141.94.251.52/20690/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Armenia 1" group-title="MD/AM/LT",Armenia 1
 #EXTGRP:MD/AM/LT
 http://141.94.251.52/20691/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="High Video" group-title="MD/AM/LT",High Video
-#EXTGRP:MD/AM/LT
-http://141.94.251.52/20692/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Comedy" group-title="MD/AM/LT",Comedy
 #EXTGRP:MD/AM/LT
 http://141.94.251.52/20693/index.m3u8?token=6AC15D94169C
@@ -3356,13 +3056,7 @@ http://141.94.251.52/11398/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Sky Cinema Action HD" group-title="PL/HU/RO",Sky Cinema Action HD
 #EXTGRP:PL/HU/RO
 http://141.94.251.52/11395/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Puls4" group-title="PL/HU/RO",Puls4
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/20950/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="World Fashion Channel HD" group-title="PL/HU/RO",World Fashion Channel HD
-#EXTGRP:PL/HU/RO
-http://141.94.251.52/11153/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Channel 9 HD" group-title="PL/HU/RO",Channel 9 HD
+#EXTINF:-1 tvg-name="Channel 9 HD" group-title="PL/HU/RO",Израиль 9 HD
 #EXTGRP:PL/HU/RO
 http://141.94.251.52/11155/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Saudi Quran TV" group-title="PL/HU/RO",Saudi Quran TV
@@ -3529,10 +3223,7 @@ http://141.94.251.52/12032/index.m3u8?token=6AC15D94169C
 http://141.94.251.52/12033/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-name="Короче" group-title="ScТв",Короче
 #EXTGRP:ScТв
-http://141.94.251.52/12034/index.m3u8?token=6AC15D94169C
-#EXTINF:-1 tvg-name="Беверли-Хиллз 90210" group-title="ScТв",Беверли-Хиллз 90210
-#EXTGRP:ScТв
-http://141.94.251.52/12035/index.m3u8?token=6AC15D94169C
+http://141.94.251.52/12034/index.m3u8?token=6AC15D94169C 
 #EXTINF:-1 tvg-name="Гостья из будущего" group-title="ScТв",Гостья из будущего
 #EXTGRP:ScТв
 http://141.94.251.52/12180/index.m3u8?token=6AC15D94169C
