@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Кино.HD"  tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1827.png" tvg-id="sony-turbo",.Black HD
 http://lb.wisp.cat/lb0/Black_HD/video.m3u8
 #EXTINF:-1 group-title="Кино.HD"  tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/630.png" tvg-id="sony-tv",.Red HD
@@ -225,8 +225,6 @@ http://lb.wisp.cat/lb0/ARMENIATV/video.m3u8
 http://lb.wisp.cat/lb0/ATRHDtv/video.m3u8
 #EXTINF:-1 group-title="Турция" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2215.png" tvg-id="atv-hd-tr",ATV HD
 http://lb.wisp.cat/lb0/TR_ATVHD/video.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1906.png" tvg-id="BG_auto-motor-sporthd",Auto Motor Sport HD
-http://lb.wisp.cat/lb0/Auto_Motor_Sport_HD/video.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/266.png" tvg-id="BG_auto-motor-sport-4k",Auto Motor Sport UHD
 http://lb.wisp.cat/lb0/Automoto4k/video.m3u8
 #EXTINF:-1 group-title="Болгария" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1294.png" tvg-id="BG_axn",AXN 
@@ -299,8 +297,6 @@ http://lb.wisp.cat/lb0/BCUFantasticHD/video.m3u8
 http://lb.wisp.cat/lb0/BCUFilMysticHD/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1697.png" tvg-id="bcu-history",BCU History HD
 http://lb.wisp.cat/lb0/BCUHistoryHD/video.m3u8
-#EXTINF:-1 group-title="Детки.Тв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2141.png" tvg-id="bcu-Kids-4K",BCU Kids 4K
-http://lb.wisp.cat/lb0/BCU_Kids_4K/video.m3u8
 #EXTINF:-1 group-title="Детки.Тв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1704.png" tvg-id="bcu-kids",BCU Kids HD
 http://lb.wisp.cat/lb0/BCUKidsHD/video.m3u8
 #EXTINF:-1 group-title="Детки.Тв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1705.png" tvg-id="bcu-kids-plus",BCU Kids+ HD
@@ -315,8 +311,6 @@ http://lb.wisp.cat/lb0/BCU_Little_HD/video.m3u8
 http://lb.wisp.cat/lb0/BCUMarvelHD/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1699.png" tvg-id="bcu-premiere",BCU Premiere HD
 http://lb.wisp.cat/lb0/BCUPremiereHD/video.m3u8
-#EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/567.png" tvg-id="bcu-premiere-4k",BCU Premiere Ultra 4K
-http://lb.wisp.cat/lb0/BCUPremiereUltra4K/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1687.png" tvg-id="bcu-reality",BCU Reality HD
 http://lb.wisp.cat/lb0/BCURealityHD/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1700.png" tvg-id="bcu-romantic",BCU Romantic HD
@@ -327,8 +321,6 @@ http://lb.wisp.cat/lb0/BCUStarsHD/video.m3u8
 http://lb.wisp.cat/lb0/BCUSurvivalHD/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2320.png" tvg-id="bcu-trumotion",BCU TruMotion HD
 http://lb.wisp.cat/lb0/BCU_TruMotion_HD/video.m3u8
-#EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1691.png" tvg-id="bcu-ultra4k",BCU Ultra 4K
-http://lb.wisp.cat/lb0/BCUUltra4K/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1708.png" tvg-id="bcu-vhs",BCU VHS HD
 http://lb.wisp.cat/lb0/BCUVHSHD/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1684.png" tvg-id="bcu-kinozal-prem-1",BCU Кинозал Premiere 1 HD
@@ -373,8 +365,6 @@ http://lb.wisp.cat/lb0/box_anime_hd/video.m3u8
 http://lb.wisp.cat/lb0/BOX_AUTOTREND_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1995.png" tvg-id="box-beonedge",BOX Be on edge HD
 http://lb.wisp.cat/lb0/BOX_Be_on_edge_HD/video.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2013.png" tvg-id="box-beonedge1live",BOX Be on edge live1 HD
-http://lb.wisp.cat/lb0/BOX_Be_on_edge_live1_HD/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2621.png" tvg-id="box-cyber",BOX Cyber HD
 http://lb.wisp.cat/lb0/box_cyber_hd/video.m3u8
 #EXTINF:-1 group-title="Познаю.Tв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1991.png" tvg-id="box-docu",BOX DOCU HD
@@ -407,8 +397,6 @@ http://lb.wisp.cat/lb0/BOX_Metall_HD/video.m3u8
 http://lb.wisp.cat/lb0/box_music_4k/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2611.png" tvg-id="box-oscar",BOX Oscar HD
 http://lb.wisp.cat/lb0/box_oscar_hd/video.m3u8
-#EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1992.png" tvg-id="box-premiere4k",BOX Premiere 4K
-http://lb.wisp.cat/lb0/BOX_Premiere_4K/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2615.png" tvg-id="box-relax",BOX Relax 4K
 http://lb.wisp.cat/lb0/box_relax_4k/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2283.png" tvg-id="box-remast-4k",BOX Remast 4K
@@ -469,12 +457,8 @@ http://lb.wisp.cat/lb0/Y-C-HISTORY/video.m3u8
 http://lb.wisp.cat/lb0/Y-C-INQUEST/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1890.png" tvg-id="YO_c-marvel-yosso",C-Marvel
 http://lb.wisp.cat/lb0/CITRUS-marvel/video.m3u8
-#EXTINF:-1 group-title="Италия",Camera Deputati
-http://lb.wisp.cat/lb0/IT_CameraDeputati/video.m3u8
 #EXTINF:-1 group-title="Польша" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1967.png" tvg-id="canal-pl-family",Canal+ 360
 http://lb.wisp.cat/lb0/Canal_plus_360/video.m3u8
-#EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2464.png" tvg-id="canal-pl-4k",Canal+ 4K Ultra HD 
-http://lb.wisp.cat/lb0/Canal_plus_4K_TEST/video.m3u8
 #EXTINF:-1 group-title="Чехия" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1351.png",Canal+ Action
 http://lb.wisp.cat/lb0/Canal_plus_Action/video.m3u8
 #EXTINF:-1 group-title="Разное",Canal+ Action NL
@@ -613,8 +597,6 @@ http://lb.wisp.cat/lb0/CineMan-Fitnes/video.m3u8
 http://lb.wisp.cat/lb0/BG_Cinemania_HD/video.m3u8
 #EXTINF:-1 group-title="Чехия" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2416.png" tvg-id="cz_channel:cinemax1",Cinemax 1 HD
 http://lb.wisp.cat/lb0/Cinemax_1_HD_CZ/video.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-id="BG_9-cinemax-2-hd",Cinemax 2 
-http://lb.wisp.cat/lb0/BG_Cinemax_2/video.m3u8
 #EXTINF:-1 group-title="Польша" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1622.png" tvg-id="cinemax2",Cinemax 2 HD
 http://lb.wisp.cat/lb0/PL_CINEMAX2_HD/video.m3u8
 #EXTINF:-1 group-title="Чехия" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2417.png" tvg-id="cz_channel:cinemax2",Cinemax 2 HD
@@ -637,8 +619,6 @@ http://lb.wisp.cat/lb0/Clarity4K_Relax_kamin/video.m3u8
 http://lb.wisp.cat/lb0/Clarity4K_Kinodeti_sssr/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2775.png",Clarity4K Netflix
 http://lb.wisp.cat/lb0/Netflix_4K/video.m3u8
-#EXTINF:-1 group-title="Разное",Clarity4K Russian music
-http://lb.wisp.cat/lb0/Clarity4K_Russian_music/video.m3u8
 #EXTINF:-1 group-title="Разное",Clarity4K Ukrainian music
 http://lb.wisp.cat/lb0/Clarity4K_Ukrainian_music/video.m3u8
 #EXTINF:-1 group-title="Разное",Clarity4K Walt Disney
@@ -673,8 +653,6 @@ http://lb.wisp.cat/lb0/Clarity4K_pricluchenia/video.m3u8
 http://lb.wisp.cat/lb0/Clarity4K_uzasy/video.m3u8
 #EXTINF:-1 group-title="Кино.HD",Clarity4K Фантастика
 http://lb.wisp.cat/lb0/Clarity4K_fantastic/video.m3u8
-#EXTINF:-1 group-title="Кино.HD",Clarity4K Фэнтези
-http://lb.wisp.cat/lb0/Clarity4K_Fantazy/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-id="tvoetv_classic_movies_cartoon_plus_hd",Classic Movies&Cartoons+ HD
 http://lb.wisp.cat/lb0/Classic_Movies_Cartoons_HD/video.m3u8
 #EXTINF:-1 group-title="Music.Тв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1912.png" tvg-id="classic-music",Classic music HD
@@ -731,14 +709,10 @@ http://lb.wisp.cat/lb0/CZ_CT24_HD/video.m3u8
 http://lb.wisp.cat/lb0/CuriosityStream/video.m3u8
 #EXTINF:-1 group-title="Украина" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1933.png" tvg-id="d1-dnepr",D1 HD
 http://lb.wisp.cat/lb0/D1_HD/video.m3u8
-#EXTINF:-1 group-title="Познаю.Tв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2430.png" tvg-id="da-vinci-eu",Da Vinci HD
-http://lb.wisp.cat/lb0/DaVinci_UA_HD/video.m3u8
 #EXTINF:-1 group-title="Познаю.Tв"  tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/333.png" tvg-id="da-vinci",Da Vinci Learning
 http://lb.wisp.cat/lb0/DaVinchiLearningNTV/video.m3u8
 #EXTINF:-1 group-title="Польша" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1148.png" tvg-id="Da Vinci Learning",Da Vinci 
 http://lb.wisp.cat/lb0/PL_Da_Vinci/video.m3u8
-#EXTINF:-1 group-title="Познаю.Tв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2535.png" tvg-id="da-vinci-eu",Da Vinci Україна
-http://lb.wisp.cat/lb0/DaVinci_UA/video.m3u8
 #EXTINF:-1 group-title="Познаю.Tв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1602.png" tvg-id="tvoetv_da_vinci_explore_the_world_hd",Da Vinci: Explore the World HD
 http://lb.wisp.cat/lb0/Da_Vinci_Explore_the_World_HD/video.m3u8
 #EXTINF:-1 group-title="Познаю.Tв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2059.png" tvg-id="tvoetv_da_vinci_fun_learning_hd",Da Vinci: Fun Learning HD
@@ -769,18 +743,12 @@ http://lb.wisp.cat/lb0/dw_deutsch_SD/video.m3u8
 http://lb.wisp.cat/lb0/BG_Diema_Family_HD/video.m3u8
 #EXTINF:-1 group-title="Спорт"  tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1478.png" tvg-id="BG_diema-sport-2",Diema Sport 2 HD
 http://lb.wisp.cat/lb0/DIEMA_SPORT_2_HD/video.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="BG_diema-sport-2",Diema Sport 2 UHD
-http://lb.wisp.cat/lb0/DIEMA_SPORT_4_UHD/video.m3u8
 #EXTINF:-1 group-title="Спорт"  tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1306.png" tvg-id="tvoetv_diema_sport_3_uhd_bg",Diema Sport 3 HD
 http://lb.wisp.cat/lb0/DIEMA_SPORT_3_HD/video.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="tvoetv_diema_sport_3_uhd_bg",Diema Sport 3 UHD
-http://lb.wisp.cat/lb0/DIEMA_SPORT_3_UHD/video.m3u8
 #EXTINF:-1 group-title="Спорт"  tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1487.png" tvg-id="BG_diema-sport",Diema Sport HD
 http://lb.wisp.cat/lb0/DIEMA_SPORT_HD/video.m3u8
 #EXTINF:-1 group-title="Разное",Digi 24 HD
 http://lb.wisp.cat/lb0/DIGI_24/video.m3u8
-#EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1389.png" tvg-id="digi-4k-ro",DIGI 4K
-http://lb.wisp.cat/lb0/Digi4K/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2134.png" tvg-id="digisport1",Digi Sport 1 HD
 http://lb.wisp.cat/lb0/DigiSport_1_HD_RO/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2135.png" tvg-id="digisport2",Digi Sport 2 HD
@@ -1089,8 +1057,6 @@ http://lb.wisp.cat/lb0/Football_Live_9/video.m3u8
 http://lb.wisp.cat/lb0/TR_FOXHD/video.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1966.png",France 2
 http://lb.wisp.cat/lb0/France_2_FR/video.m3u8
-#EXTINF:-1 group-title="Разное",France 2 UHD
-http://lb.wisp.cat/lb0/France_2_UHD/video.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2507.png",France 3
 http://lb.wisp.cat/lb0/France_3_FR/video.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2053.png",France 4
@@ -1107,8 +1073,6 @@ http://lb.wisp.cat/lb0/FS2_HD/video.m3u8
 http://lb.wisp.cat/lb0/FUBO_Sports_Network_HD/video.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/428.png" tvg-id="2083-fun-komediini-hd",FUN комедійний HD
 http://lb.wisp.cat/lb0/FUN_Comediynyi/video.m3u8
-#EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2000.png" tvg-id="cz_channel:funbox_uhd",FunBox UHD
-http://lb.wisp.cat/lb0/Funbox_UHD/video.m3u8
 #EXTINF:-1 group-title="Детки.Тв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1033.png" tvg-id="animekids",Funny Kids HD
 http://lb.wisp.cat/lb0/Anime_Kids_HD/video.m3u8
 #EXTINF:-1 group-title="Польша" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1635.png" tvg-id="FX Comedy",FX Comedy HD
@@ -1291,8 +1255,6 @@ http://lb.wisp.cat/lb0/SVK_ARENA_SPORT1_HD/video.m3u8
 http://lb.wisp.cat/lb0/Kanal_Zero_HD_PL/video.m3u8
 #EXTINF:-1 group-title="Детки.Тв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1607.png" tvg-id="kidstv",KidsTV HD
 http://lb.wisp.cat/lb0/KidsTVHD_RU/video.m3u8
-#EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1069.png" tvg-id="kidzone-plus",KidZone  Mini HD LT
-http://lb.wisp.cat/lb0/KidZone_HD/video.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1054.png" tvg-id="kidzone",KidZone Max
 http://lb.wisp.cat/lb0/VIASAT_KIDZONE_TV/video.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2550.png" tvg-id="kidzone",KidZone Max HD
@@ -1379,8 +1341,6 @@ http://lb.wisp.cat/lb0/LIETUVOSRYTASTVHD/video.m3u8
 http://lb.wisp.cat/lb0/lnkHD/video.m3u8
 #EXTINF:-1 group-title="Болгария",Lolly Kids HD
 http://lb.wisp.cat/lb0/BG_Lolly_Kids_HD/video.m3u8
-#EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1175.png" tvg-id="love-nature-4k",Love Nature 4K
-http://lb.wisp.cat/lb0/INT_LOVE_NATURE_4K/video.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1062.png" tvg-id="lrt-tv",LRT HD
 http://lb.wisp.cat/lb0/LRTTelevizijaHD/video.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1345.png" tvg-id="lrt-lituanica",LRT Lituanica
@@ -1477,8 +1437,6 @@ http://lb.wisp.cat/lb0/PL_Motowizja_HD/video.m3u8
 http://lb.wisp.cat/lb0/TR_MOVIECLASSIC/video.m3u8
 #EXTINF:-1 group-title="Турция",MOVIE TURK
 http://lb.wisp.cat/lb0/TR_MOVIETURK/video.m3u8
-#EXTINF:-1 group-title="Болгария",Movie STAR 
-http://lb.wisp.cat/lb0/BG_MovieSTAR/video.m3u8
 #EXTINF:-1 group-title="Music.Тв",MTV 00 IL
 http://lb.wisp.cat/lb0/MTV_00_IL/video.m3u8
 #EXTINF:-1 group-title="Music.Тв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1084.png" tvg-id="mtv-europe",MTV Europe
@@ -1545,8 +1503,6 @@ http://lb.wisp.cat/lb0/PL_Nat_Geo_People_HD/video.m3u8
 http://lb.wisp.cat/lb0/BG_NG_Wild_HD/video.m3u8
 #EXTINF:-1 group-title="Польша" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1195.png" tvg-id="National Geographic Wild",National Geographic Wild HD 
 http://lb.wisp.cat/lb0/PL_Nat_Geo_Willd_HD/video.m3u8
-#EXTINF:-1 group-title="Познаю.Tв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/338.png" tvg-id="nautical-channel",Nautical Channel HD
-http://lb.wisp.cat/lb0/Nautical_Channel_HD/video.m3u8
 #EXTINF:-1 group-title="Познаю.Tв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/171.png" tvg-id="tvoetv_navigatortv_hd",Navigator TV
 http://lb.wisp.cat/lb0/Navigator_TV/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2411.png" tvg-id="nba-tv-us",NBA TV HD
@@ -1689,8 +1645,6 @@ http://lb.wisp.cat/lb0/LT_PINGVINIUKAS/video.m3u8
 http://lb.wisp.cat/lb0/PlanB_HD/video.m3u8
 #EXTINF:-1 group-title="Разное",Planeta 4K
 http://lb.wisp.cat/lb0/Planeta_4K/video.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1357.png",Planeta Folk 
-http://lb.wisp.cat/lb0/BG_Planeta_Folk/video.m3u8
 #EXTINF:-1 group-title="Music.Тв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1356.png",Planeta HD 
 http://lb.wisp.cat/lb0/BG_Planeta_HD/video.m3u8
 #EXTINF:-1 group-title="Польша" tvg-id="planete-pl",Planete+ 
@@ -1841,8 +1795,6 @@ http://lb.wisp.cat/lb0/RAI2_HD_IT/video.m3u8
 http://lb.wisp.cat/lb0/RAI3_HD_IT/video.m3u8
 #EXTINF:-1 group-title="Италия",RAI 4 HD
 http://lb.wisp.cat/lb0/RAI4_HD_IT/video.m3u8
-#EXTINF:-1 group-title="Италия" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1114.png",Rai 4K
-http://lb.wisp.cat/lb0/IT_RAI_4K/video.m3u8
 #EXTINF:-1 group-title="Италия",RAI 5 HD
 http://lb.wisp.cat/lb0/RAI5_HD_IT/video.m3u8
 #EXTINF:-1 group-title="Италия",RAI Gulp HD
@@ -1877,8 +1829,6 @@ http://lb.wisp.cat/lb0/Radio_Perec/video.m3u8
 http://lb.wisp.cat/lb0/Retro_CZ/video.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2485.png" tvg-id="re-tv",ReTV HD
 http://lb.wisp.cat/lb0/RE_TVHD_LV/video.m3u8
-#EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1841.png" tvg-id="revel-tv",REVEL UHD
-http://lb.wisp.cat/lb0/REVELTV_UHD/video.m3u8
 #EXTINF:-1 group-title="Music.Тв" tvg-id="rfm-tv-fr",RFM HD
 http://lb.wisp.cat/lb0/MTV_90_int/video.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2454.png" tvg-id="riga-tv24",Riga TV24 HD
@@ -1945,12 +1895,8 @@ http://lb.wisp.cat/lb0/BG_Skat/video.m3u8
 http://lb.wisp.cat/lb0/SkyShowtime_1_PL/video.m3u8
 #EXTINF:-1 group-title="Польша" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1193.png" tvg-id="Skyshowtime 2",Sky Showtime 2 
 http://lb.wisp.cat/lb0/SkyShowtime_2_PL/video.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1821.png" tvg-id="sky-sport-bl-uhd",Sky Sport Bundesliga UHD
-http://lb.wisp.cat/lb0/Sky_Sport_Bundesliga_UHD_DE/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2447.png" tvg-id="sky-sports-f1",Sky Sport F1
 http://lb.wisp.cat/lb0/DE_Sky_Sport_F1/video.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1586.png" tvg-id="sky-sports-f1-uhd-uk",Sky Sport F1 UHD UK
-http://lb.wisp.cat/lb0/Sky_Sport_F1_UHD_UK/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2833.png" tvg-id="sky-sport-golf-de",Sky Sport Golf HD
 http://lb.wisp.cat/lb0/SKY_Sport_Tennis_HD_DE/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2251.png" tvg-id="sky-sport-mix-de",Sky Sport Mix DE
@@ -2051,8 +1997,6 @@ http://lb.wisp.cat/lb0/PL_SundanceHDPL/video.m3u8
 http://lb.wisp.cat/lb0/PL_SuperPolsatPL/video.m3u8
 #EXTINF:-1 group-title="Украина" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2764.png" tvg-id="superplus",Super+ HD
 http://lb.wisp.cat/lb0/Super_plus_HD_UA/video.m3u8
-#EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2479.png" tvg-id="suspense",Suspense HD
-http://lb.wisp.cat/lb0/Suspence_HD/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2600.png" tvg-id="3198-sweet-megahit-hd",Sweet Megahit HD
 http://lb.wisp.cat/lb0/SW_Megahit/video.m3u8
 #EXTINF:-1 group-title="Разное" tvg-id="3554-zradniki-hd",SWEET HD
@@ -2141,20 +2085,12 @@ http://lb.wisp.cat/lb0/CZ_TravelCh_HD/video.m3u8
 http://lb.wisp.cat/lb0/PL_Travel_Channel_HD/video.m3u8
 #EXTINF:-1 group-title="Болгария",Travel TV 
 http://lb.wisp.cat/lb0/BG_TravelTV/video.m3u8
-#EXTINF:-1 group-title="Познаю.Tв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1909.png" tvg-id="travel-xp-hd",Travel XP HD
-http://lb.wisp.cat/lb0/Travelxp_HD/video.m3u8
 #EXTINF:-1 group-title="Чехия" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/285.png" tvg-id="cz_channel:travelxp",Travel XP HD
 http://lb.wisp.cat/lb0/CZ_Travel_XP/video.m3u8
 #EXTINF:-1 group-title="Познаю.Tв" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2018.png" tvg-id="tvoetv_travel_food_hd",Travel&Food HD
 http://lb.wisp.cat/lb0/Travel_Adventure_HD_CEE/video.m3u8
-#EXTINF:-1 group-title="Познаю.Tв"  tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/675.png" tvg-id="travel-adventure",Travel+Adventure HD
-http://lb.wisp.cat/lb0/TravelAdventureHD/video.m3u8
-#EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1464.png" tvg-id="travel-xp-4k",TravelXP 4K
-http://lb.wisp.cat/lb0/INT_TRAVEL_XP_4K/video.m3u8
 #EXTINF:-1 group-title="Турция" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2241.png" tvg-id="trt-1-hd",TRT 1 HD
 http://lb.wisp.cat/lb0/TR_TRT1HD/video.m3u8
-#EXTINF:-1 group-title="Разное" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/580.png" tvg-id="trt4k-tr",TRT 4K
-http://lb.wisp.cat/lb0/TRT_4K_TR/video.m3u8
 #EXTINF:-1 group-title="Турция" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2244.png" tvg-id="trt-avaz",TRT AVAZ HD
 http://lb.wisp.cat/lb0/TR_TRTAVAZHD/video.m3u8
 #EXTINF:-1 group-title="Турция" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2247.png",TRT Cocuk HD
@@ -2411,8 +2347,6 @@ http://lb.wisp.cat/lb0/Sport2_HD_IL/video.m3u8
 http://lb.wisp.cat/lb0/Sport3_HD_IL/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2034.png" tvg-id="yes-sport-4",Yes Sport 4 HD IL
 http://lb.wisp.cat/lb0/Sport4_HD_IL/video.m3u8
-#EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/494.png" tvg-id="YO_yossohdr4k-yosso",YOSSO TV 4K HDR
-http://lb.wisp.cat/lb0/YOSSO_4K_HDR/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1853.png" tvg-id="YO_yossoadrenaline-yosso",YOSSO TV Adrenaline
 http://lb.wisp.cat/lb0/ADRENALINE/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1860.png" tvg-id="YO_yossoadv-yosso",YOSSO TV Adventure
@@ -2559,8 +2493,6 @@ http://lb.wisp.cat/lb0/DikayaOxotaHD/video.m3u8
 http://lb.wisp.cat/lb0/DikayaRybalkaHD/video.m3u8
 #EXTINF:-1 group-title="Украина" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2363.png" tvg-id="dytynec",Дитинець
 http://lb.wisp.cat/lb0/DITINEC/video.m3u8
-#EXTINF:-1 group-title="Украина" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2382.png" tvg-id="1975-dnipro-tv-hd",Дніпро TV HD
-http://lb.wisp.cat/lb0/Dnipro_HD/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2627.png" tvg-id="domkino",Дом Кино HD
 http://lb.wisp.cat/lb0/DomKino_HD/video.m3u8
 #EXTINF:-1 group-title="Кино.HD"  tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/708.png" tvg-id="dorama",Дорама HD
@@ -2621,8 +2553,6 @@ http://lb.wisp.cat/lb0/FOX_HD/video.m3u8
 http://lb.wisp.cat/lb0/Kino7_EE_HD/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/227.png" tvg-id="kino7-lv",Кино 7 HD Latvia
 http://lb.wisp.cat/lb0/Kino7_LV_HD/video.m3u8
-#EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1071.png" tvg-id="kino-ultra-hd",Кино UHD
-http://lb.wisp.cat/lb0/TRI_KINO_UHD/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/587.png" tvg-id="kino-tv",Кино ТВ HD
 http://lb.wisp.cat/lb0/KinoHD/video.m3u8
 #EXTINF:-1 group-title="Кино.HD" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/668.png" tvg-id="kino-24",Кино24
@@ -3141,7 +3071,5 @@ http://lb.wisp.cat/lb0/XY_PLUS_HD/video.m3u8
 http://lb.wisp.cat/lb0/YOSSO_TV_SEXY/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/626.png" tvg-id="shalun",Шалун HD
 http://lb.wisp.cat/lb0/shalunhd/video.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/2761.png" tvg-id="sholk",Шёлк
-http://lb.wisp.cat/lb0/shelk/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/662.png" tvg-id="babes-tv",Babes TV HD
 http://lb.wisp.cat/lb0/BABES_TV_HD/video.m3u8
