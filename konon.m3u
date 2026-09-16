@@ -7,11 +7,11 @@ https://premier.1stream.online/o3/premialnoehdorig/mono.m3u8?token=defcec57dd095
 https://premier.1stream.online/o1/ostrosujetnoe-hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум HD" group-title="ХаЛьВа",Дом Кино Премиум HD
 https://premier.1stream.online/o1/dom-kino-premium-hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="RED Premium HD" group-title="ХаЛьВа",RED Premium HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",RED Premium HD
 https://premier.1stream.online/o1/RED_Premium_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="RED Music HD" group-title="Музыкальные",RED Music HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",RED Music HD
 https://premier.1stream.online/o1/RED_Music_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="RED Music Retro HD" group-title="Музыкальные",RED Music Retro HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",RED Music Retro HD
 https://premier.1stream.online/o1/RED_Music_Retro_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="VHS-ка" group-title="ХаЛьВа",VHS-ка
 https://premier.1stream.online/o3/vhska/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
@@ -19,7 +19,7 @@ https://premier.1stream.online/o3/vhska/mono.m3u8?token=defcec57dd0959cdfd0f99ae
 https://premier.1stream.online/o3/vhs-ka-serial/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="kriminalnoe-hd" tvg-name="Криминальное HD" group-title="ХаЛьВа",Криминальное HD
 https://premier.1stream.online/o2/kriminalnoe-hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Кино Боевик HD" group-title="ХаЛьВа",Кино Боевик HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",Кино Боевик HD
 https://premier.1stream.online/o3/kino-boevikhd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="semejnoe-kino-kz" tvg-name="Семейное Кино HD" group-title="ХаЛьВа",Семейное Кино HD
 https://premier.1stream.online/o3/semeynoe-kino/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
@@ -141,61 +141,55 @@ https://premier.1stream.online/o1/kamedi_hd/mono.m3u8?token=defcec57dd0959cdfd0f
 https://premier.1stream.online/o1/Romantichnoe_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм золотая коллекция" group-title="ХаЛьВа",Мосфильм золотая коллекция
 https://premier.1stream.online/o4/mosfilmzolkol/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="BCU Fantastic HD" group-title="ХаЛьВа",BCU Fantastic HD
-https://premier.1stream.online/o4/BCU_Fantastic_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="BCU Marvel HD" group-title="ХаЛьВа",BCU Marvel HD
-https://premier.1stream.online/o4/BCU_Marvel_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="BOX Hybrid HD" group-title="ХаЛьВа",BOX Hybrid HD
 https://premier.1stream.online/o4/BOX_Hybrid_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="BOX Oscar HD" group-title="ХаЛьВа",BOX Oscar HD
 https://premier.1stream.online/o4/BOX_Oscar_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="BOX Memory HD" group-title="ХаЛьВа",BOX Memory HD
 https://premier.1stream.online/o4/BOX_Memory_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="BOX Serial HD" group-title="ХаЛьВа",BOX Serial HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",BOX Serial HD
 https://premier.1stream.online/o4/BOX_Serial_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="BOX Game HD" group-title="ХаЛьВа",BOX Game HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",BOX Game HD
 https://premier.1stream.online/o4/BOX_Game_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="BOX Spy HD" group-title="ХаЛьВа",BOX Spy HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",BOX Spy HD
 https://premier.1stream.online/o4/BOX_Spy_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="BOX Western HD" group-title="ХаЛьВа",BOX Western HD
 https://premier.1stream.online/o4/BOX_Western_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="BOX Zombie HD" group-title="ХаЛьВа",BOX Zombie HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",BOX Zombie HD
 https://premier.1stream.online/o4/BOX_Zombie_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="BOX Cyber HD" group-title="ХаЛьВа",BOX Cyber HD
 https://premier.1stream.online/o4/BOX_Cyber_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="BOX Ghost HD" group-title="ХаЛьВа",BOX Ghost HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",BOX Ghost HD
 https://premier.1stream.online/o4/BOX_Ghost_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="BOX Stories HD" group-title="ХаЛьВа",BOX Stories HD
 https://premier.1stream.online/o4/BOX_Stories_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="BOX Remast 4K" group-title="ХаЛьВа",BOX Remast 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",BOX Remast 4K
 https://premier.1stream.online/o4/BOX_Remast_4K/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="detectivejam" tvg-name="DetectiveJam HD" group-title="ХаЛьВа",DetectiveJam HD
 https://premier.1stream.online/o1/detectivejam_hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="familyjam" tvg-name="FamilyJam HD" group-title="ХаЛьВа",FamilyJam HD
 https://premier.1stream.online/o1/familyjam_hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Premiere 1 HD" group-title="ХаЛьВа",Premiere 1 HD
-https://premier.1stream.online/o4/Premiere_1_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Premiere 3 HD" group-title="ХаЛьВа",Premiere 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",Premiere 3 HD
 https://premier.1stream.online/o4/Premiere_3_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Premiere 4 HD" group-title="ХаЛьВа",Premiere 4 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",Premiere 4 HD
 https://premier.1stream.online/o4/Premiere_4_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Cineman Action" group-title="ХаЛьВа",Cineman Action
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",Cineman Action
 https://premier.1stream.online/o3/Cineman_Action/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="Cineman Marvel" group-title="ХаЛьВа",Cineman Marvel
 https://premier.1stream.online/o3/Cineman_Marvel/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Cineman VHS" group-title="ХаЛьВа",Cineman VHS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",Cineman VHS
 https://premier.1stream.online/o3/Cineman_VHS/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Cineman TOP" group-title="ХаЛьВа",Cineman TOP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",Cineman TOP
 https://premier.1stream.online/o3/Cineman_TOP/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="Cineman Сваты" group-title="ХаЛьВа",Cineman Сваты
 https://premier.1stream.online/o3/Cineman_Svaty/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Cineman" group-title="ХаЛьВа",Cineman
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",Cineman
 https://premier.1stream.online/o3/Cineman/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="Cineman Ужасы" group-title="ХаЛьВа",Cineman Ужасы
 https://premier.1stream.online/o3/Cineman_Uzhasy/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Cineman Thriller" group-title="ХаЛьВа",Cineman Thriller
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",Cineman Thriller
 https://premier.1stream.online/o3/Cineman_Thriller/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Cineman Premium" group-title="ХаЛьВа",Cineman Premium
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",Cineman Premium
 https://premier.1stream.online/o3/Cineman_Premium/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="bolt" tvg-name="Bolt HD" group-title="ХаЛьВа",Bolt HD
 https://premier.1stream.online/o1/bolt-hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
@@ -209,7 +203,7 @@ https://premier.1stream.online/o1/sapfir-hd/mono.m3u8?token=defcec57dd0959cdfd0f
 https://premier.1stream.online/o5/Kinowood/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="now-series" tvg-name="NOW series" group-title="ХаЛьВа",NOW series
 https://premier.1stream.online/o5/NOW_series/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="ТехЛет ТВ" group-title="ХаЛьВа",ТехЛет ТВ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",ТехЛет ТВ
 https://premier.1stream.online/o4/texlettv/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="muvitv" tvg-name="Муви ТВ" group-title="ХаЛьВа",Муви ТВ
 https://premier.1stream.online/o4/muvitv/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
@@ -223,38 +217,6 @@ https://premier.1stream.online/o5/Eye_Cyber/mono.m3u8?token=defcec57dd0959cdfd0f
 https://premier.1stream.online/o5/Eye_Western/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="eye-family" tvg-name="Eye Family" group-title="ХаЛьВа",Eye Family
 https://premier.1stream.online/o5/Eye_Family/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Channel_HD" group-title="ХаЛьВа",Z_Channel_HD
-https://premier.1stream.online/o4/Z_Channel_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Comedy_HD" group-title="ХаЛьВа",Z_Comedy_HD
-https://premier.1stream.online/o4/Z_Comedy_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Crime_HD" group-title="ХаЛьВа",Z_Crime_HD
-https://premier.1stream.online/o4/Z_Crime_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Horror_HD" group-title="ХаЛьВа",Z_Horror_HD
-https://premier.1stream.online/o4/Z_Horror_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Serial_HD" group-title="ХаЛьВа",Z_Serial_HD
-https://premier.1stream.online/o4/Z_Serial_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Sitcom_HD" group-title="ХаЛьВа",Z_Sitcom_HD
-https://premier.1stream.online/o4/Z_Sitcom_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Military_HD" group-title="ХаЛьВа",Z_Military_HD
-https://premier.1stream.online/o4/Z_Military_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Adventure_HD" group-title="ХаЛьВа",Z_Adventure_HD
-https://premier.1stream.online/o4/Z_Adventure_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Biography_HD" group-title="ХаЛьВа",Z_Biography_HD
-https://premier.1stream.online/o4/Z_Biography_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Detective_HD" group-title="ХаЛьВа",Z_Detective_HD
-https://premier.1stream.online/o4/Z_Detective_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Drama_HD" group-title="ХаЛьВа",Z_Drama_HD
-https://premier.1stream.online/o4/Z_Drama_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Fantastic_HD" group-title="ХаЛьВа",Z_Fantastic_HD
-https://premier.1stream.online/o4/Z_Fantastic_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Fantasy_HD" group-title="ХаЛьВа",Z_Fantasy_HD
-https://premier.1stream.online/o4/Z_Fantastic_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_History_HD" group-title="ХаЛьВа",Z_History_HD
-https://premier.1stream.online/o4/Z_History_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Russian_HD" group-title="ХаЛьВа",Z_Russian_HD
-https://premier.1stream.online/o4/Z_Russian_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Thriller_HD" group-title="ХаЛьВа",Z_Thriller_HD
-https://premier.1stream.online/o4/Z_Thriller_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="4ever-cinema" tvg-name="4Ever Cinema HD" group-title="ХаЛьВа",4Ever Cinema HD
 https://premier.1stream.online/o1/4Ever_Cinema_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="4ever-drama" tvg-name="4Ever Drama HD" group-title="ХаЛьВа",4Ever Drama HD
@@ -359,8 +321,6 @@ https://premier.1stream.online/o5/topvek911/mono.m3u8?token=defcec57dd0959cdfd0f
 https://premier.1stream.online/o5/Viasat_Kino_Comedy_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="viju+ Novella" group-title="ХаЛьВа",viju+ Novella
 https://premier.1stream.online/o5/vijunovella/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Z_Fun_HD" group-title="ХаЛьВа",Z_Fun_HD
-https://premier.1stream.online/o4/Z_Fun_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="Весна ТВ HD" group-title="ХаЛьВа",Весна ТВ HD
 https://premier.1stream.online/o2/vesna_hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="Воен ТВ" group-title="ХаЛьВа",Воен ТВ
@@ -381,147 +341,15 @@ https://premier.1stream.online/o2/Fantastika2_HD/mono.m3u8?token=defcec57dd0959c
 https://premier.1stream.online/o1/feniks_pljus_kino_hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="Наше Любимое Кино" group-title="ХаЛьВа",Наше Любимое Кино
 https://premier.1stream.online/o4/000000283/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Star Cinema" group-title="ХаЛьВа",Star Cinema
-https://premier.1stream.online/o3/8453/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-name="Star Family" group-title="ХаЛьВа",Star Family
 https://premier.1stream.online/o1/8694/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Start Air" group-title="ХаЛьВа",Start Air
-https://premier.1stream.online/o4/7277/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="Start World" group-title="ХаЛьВа",Start World
-https://premier.1stream.online/o5/7279/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="8 Канал UZ" group-title="UZ",8 Канал UZ
-https://cyriustv.cc/live/uz_8_channel/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Aqlvoy UZ" group-title="UZ",Aqlvoy UZ
-https://cyriustv.cc/live/aqlvoy/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-id="iptvxone:bolajon-uz" tvg-name="Bolajon UZ" group-title="UZ",Bolajon UZ
-https://cyriustv.cc/live/bolajonuz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Cinemedia UZ" group-title="UZ",Cinemedia UZ
-https://cyriustv.cc/live/cinemediauz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Dasturxon TV HD UZ" group-title="UZ",Dasturxon TV HD UZ
-https://cyriustv.cc/live/dasturxonuz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Denov TV" group-title="UZ",Denov TV
-https://cyriustv.cc/live/Denov_TV/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Fargona MTRK UZ" group-title="UZ",Fargona MTRK UZ
-https://cyriustv.cc/live/fargonamtrkuz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Farovon Yurt" group-title="UZ",Farovon Yurt
-https://cyriustv.cc/live/Farovon_Yurt/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="FTV HD UZ" group-title="UZ",FTV HD UZ
-https://cyriustv.cc/live/ftvhduz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Futbol HD UZ" group-title="UZ",Futbol HD UZ
-https://cyriustv.cc/live/futbolhduz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Gold TV UZ HD" group-title="UZ",Gold TV UZ HD
-https://cyriustv.cc/live/golduzhd/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="HAYOT UZ" group-title="UZ",HAYOT UZ
-https://cyriustv.cc/live/hayottvuz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Istiqlol UZ" group-title="UZ",Istiqlol UZ
-https://cyriustv.cc/live/istiqloltvuz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="ITV Cinema UZ" group-title="UZ",ITV Cinema UZ
-https://cyriustv.cc/live/itvcinemauz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="ITV Music UZ" group-title="UZ",ITV Music UZ
-https://cyriustv.cc/live/itvmusic/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-id="iptvxone:kinoteatr-uz" tvg-name="Kinoteatr" group-title="UZ",Kinoteatr
-https://cyriustv.cc/live/kinoteatruz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Lux TV UZ" group-title="UZ",Lux TV UZ
-https://cyriustv.cc/live/luxtvuz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Mahalla" group-title="UZ",Mahalla
-https://cyriustv.cc/live/mahalla/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Makon UZ" group-title="UZ",Makon UZ
-https://cyriustv.cc/live/makonuz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="MakonTV HD" group-title="UZ",MakonTV HD
-https://cyriustv.cc/live/MakonTV_HD/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-id="iptvxone:navo-uz" tvg-name="Navo" group-title="UZ",Navo
-https://cyriustv.cc/live/navouz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="NTV UZ" group-title="UZ",NTV UZ
-https://cyriustv.cc/live/ntvuz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Nurafshon UZ" group-title="UZ",Nurafshon UZ
-https://cyriustv.cc/live/nurafshonuz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Oilaviy UZ" group-title="UZ",Oilaviy UZ
-https://cyriustv.cc/live/oilaviyuz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-id="iptvxone:ozbekiston-uz" tvg-name="Ozbekiston" group-title="UZ",Ozbekiston
-https://cyriustv.cc/live/ozbekiston/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-id="iptvxone:ozbekiston24-uz" tvg-name="Ozbekiston 24 HD" group-title="UZ",Ozbekiston 24 HD
-https://cyriustv.cc/live/ozbekiston24hd/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Qiziq UZ" group-title="UZ",Qiziq UZ
-https://cyriustv.cc/live/qiziquz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Qiziq TV" group-title="UZ",Qiziq TV
-https://cyriustv.cc/live/Qiziq_TV/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Renessans UZ" group-title="UZ",Renessans UZ
-https://cyriustv.cc/live/renessansuz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Retro UZ" group-title="UZ",Retro UZ
-https://cyriustv.cc/live/RETROTVuz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Ruxsor TV UZ" group-title="UZ",Ruxsor TV UZ
-https://cyriustv.cc/live/ruxsoruz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="S Cinema" group-title="UZ",S Cinema
-https://cyriustv.cc/live/S_Cinema/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="S IKBOL UZ" group-title="UZ",S IKBOL UZ
-https://cyriustv.cc/live/sikboluz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Smuzik UZ" group-title="UZ",Smuzik UZ
-https://cyriustv.cc/live/smuzikuz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Sport UZ" group-title="UZ",Sport UZ
-https://cyriustv.cc/live/sportuz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Surxandaryo" group-title="UZ",Surxandaryo
-https://cyriustv.cc/live/Surxandaryo/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="TTV Musiqa" group-title="UZ",TTV Musiqa
-https://cyriustv.cc/live/TTV_Musiqa/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Xorazm" group-title="UZ",Xorazm
-https://cyriustv.cc/live/Xorazm/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Yoshlar" group-title="UZ",Yoshlar
-https://cyriustv.cc/live/yoshlaruz/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="7 Канал" group-title="KG",7 Канал
-https://cyriustv.cc/live/7kanalkg/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-id="iptvxone:312-kino" tvg-name="312 Кино KG" group-title="KG",312 Кино KG
-https://cyriustv.cc/live/312kinokg/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-id="iptvxone:cinemax-kg" tvg-name="Cinemax HD KG" group-title="KG",Cinemax HD KG
-https://cyriustv.cc/live/cinemaxkg/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-id="iptvxone:newtv-kg" tvg-name="New TV KG" group-title="KG",New TV KG
-https://cyriustv.cc/live/newtvkg/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Sevimli KG" group-title="KG",Sevimli KG
-https://cyriustv.cc/live/sevimlikg/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-id="iptvxone:tv1-kg-hd" tvg-name="TV1 KG (Бишкек City)" group-title="KG",TV1 KG (Бишкек City)
-https://cyriustv.cc/live/tv1kg/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Илим Билим KG" group-title="KG",Илим Билим KG
-https://cyriustv.cc/live/ilimbilimkg/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-id="iptvxone:ntv" tvg-name="НТВ Киргизистан" group-title="KG",НТВ Киргизистан
-https://cyriustv.cc/live/ntvkg/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-id="iptvxone:piatnica-20-kg" tvg-name="Пятница 2.0" group-title="KG",Пятница 2.0
-https://cyriustv.cc/live/pyatnicakg/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-id="iptvxone:tnt-kyrg-kg" tvg-name="ТНТ KG" group-title="KG",ТНТ KG
-https://cyriustv.cc/live/tntkg/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="HOT3 HD" group-title="IL",HOT3 HD
-https://cyriustv.cc/live/HOT3_HD/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="HOT A+ Kids" group-title="IL",HOT A+ Kids
-https://cyriustv.cc/live/HOT_A_Kids/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="HOT CINEMA 1 HD" group-title="IL",HOT CINEMA 1 HD
-https://cyriustv.cc/live/HOT_CINEMA_1_HD/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="HOT CINEMA 2 HD" group-title="IL",HOT CINEMA 2 HD
-https://cyriustv.cc/live/HOT_CINEMA_2_HD/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="HOT CINEMA 3 HD" group-title="IL",HOT CINEMA 3 HD
-https://cyriustv.cc/live/HOT_CINEMA_3_HD/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="HOT COMEDY CENTRAL HD" group-title="IL",HOT COMEDY CENTRAL HD
-https://cyriustv.cc/live/HOT_COMEDY_CENTRAL_HD/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="HOT DIY HD" group-title="IL",HOT DIY HD
-https://cyriustv.cc/live/HOT_DIY_HD/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="HOT DRAMA HD" group-title="IL",HOT DRAMA HD
-https://cyriustv.cc/live/HOT_DRAMA_HD/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="HOT Entertainment" group-title="IL",HOT Entertainment
-https://cyriustv.cc/live/HOT_Entertainment/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="HOT ZONE HD" group-title="IL",HOT ZONE HD
-https://cyriustv.cc/live/HOT_ZONE_HD/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="MOVIES ACTION HD" group-title="IL",MOVIES ACTION HD
-https://cyriustv.cc/live/MOVIES_ACTION_HD/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="MOVIES COMEDY HD" group-title="IL",MOVIES COMEDY HD
-https://cyriustv.cc/live/MOVIES_COMEDY_HD/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="MOVIES DRAMA HD" group-title="IL",MOVIES DRAMA HD
-https://cyriustv.cc/live/MOVIES_DRAMA_HD/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="MOVIES KIDS HD" group-title="IL",MOVIES KIDS HD
-https://cyriustv.cc/live/MOVIES_KIDS_HD/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="YES ISRAEL CINEMA IL" group-title="IL",YES ISRAEL CINEMA IL
-https://cyriustv.cc/live/YES_ISRAEL_CINEMA_IL/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="Yes Israeli Cinema" group-title="IL",Yes Israeli Cinema
-https://cyriustv.cc/live/Yes_Israeli_Cinema/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="YES MOVIES COMEDY IL" group-title="IL",YES MOVIES COMEDY IL
-https://cyriustv.cc/live/YES_MOVIES_COMEDY_IL/index.m3u8?sid=DHFN3K6P6PVM
-#EXTINF:-1 tvg-name="ZONE HD" group-title="IL",ZONE HD
-https://cyriustv.cc/live/ZONE_HD/index.m3u8?sid=DHFN3K6P6PVM
+#EXTINF:-1 tvg-id="kinoteatr-uz" tvg-name="Kinoteatr" group-title="ХаЛьВа",Kinoteatr
+https://premier.1stream.online/o4/kinoteatruz/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
+#EXTINF:-1 tvg-name="HOT A+ Kids" group-title="ХаЛьВа",HOT A+ Kids
+https://premier.1stream.online/o3/HOT_A_Kids/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
+#EXTINF:-1 tvg-name="YES MOVIES COMEDY IL" group-title="ХаЛьВа",YES MOVIES COMEDY IL
+https://premier.1stream.online/o3/YES_MOVIES_COMEDY_IL/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
+#EXTINF:-1 tvg-name="ZONE HD" group-title="ХаЛьВа",ZONE HD
+https://premier.1stream.online/o3/ZONE_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 
 
