@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="ТВ-3 HD" group-title="ХаЛьВа",ТВ-3 HD
+https://premier.1stream.online/o5/tv3_hd-russ/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="anekdottv" tvg-name="Анекдот ТВ" group-title="ХаЛьВа",Анекдот ТВ
 https://premier.1stream.online/o5/anekdot_tv/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",Твое ТВ Юмор
+https://premier.1stream.online/o2/TVOETV_UMOR_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="strashnoe-hd" tvg-name="Страшное HD" group-title="ХаЛьВа",Страшное HD
 https://premier.1stream.online/o5/strashnoe_hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD" group-title="ХаЛьВа",Премиальное HD
@@ -585,8 +589,6 @@ https://premier.1stream.online/o5/Gagsnetwork/mono.m3u8?token=defcec57dd0959cdfd
 https://premier.1stream.online/o2/KvartalTV/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD RU" group-title="ХаЛьВа",TLC HD
 https://premier.1stream.online/o2/tlc-hd-ru/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",Tvoe Kino Юмор HD
-https://premier.1stream.online/o2/TVOETV_UMOR_HD/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="vremia" tvg-name="Время" group-title="ХаЛьВа",Время
 https://premier.1stream.online/o5/vremia-vok/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="kuxnia-tv" tvg-name="Кухня ТВ HD" group-title="ХаЛьВа",Кухня ТВ HD
@@ -609,12 +611,8 @@ https://premier.1stream.online/o1/tnt-international/mono.m3u8?token=defcec57dd09
 https://premier.1stream.online/o2/tnt4_hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" group-title="ХаЛьВа",СТС HD
 https://premier.1stream.online/o2/sts_hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-id="IPTVEPGBY:МИР.by" tvg-name="Мир HD orig" group-title="ХаЛьВа",Мир HD
-https://premier.1stream.online/o3/mirhdorig/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="rentv" tvg-name="РЕН ТВ HD" group-title="ХаЛьВа",РЕН ТВ HD
 https://premier.1stream.online/o2/rentv_hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="ТВ-3 HD" group-title="ХаЛьВа",ТВ-3 HD
-https://premier.1stream.online/o5/tv3_hd-russ/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="Пятница.ru" tvg-name="Пятница! HD" group-title="ХаЛьВа",Пятница! HD
 https://premier.1stream.online/o2/pjatnitsa_hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="perec-int" tvg-name="Перец" group-title="ХаЛьВа",Перец
@@ -627,15 +625,15 @@ https://premier.1stream.online/o2/zvezda/mono.m3u8?token=defcec57dd0959cdfd0f99a
 https://premier.1stream.online/o1/zvezda_pljus_hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="che" tvg-name="Че!" group-title="ХаЛьВа",Че!
 https://premier.1stream.online/o1/che/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="НТВ Право" group-title="ХаЛьВа",НТВ Право
+#EXTINF:-1 group-title="ХаЛьВа",НТВ Право
 https://premier.1stream.online/o5/ntvpravo-vok/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="НТВ Стиль" group-title="ХаЛьВа",НТВ Стиль
+#EXTINF:-1 group-title="ХаЛьВа",НТВ Стиль
 https://premier.1stream.online/o5/ntvstil-vok/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-id="ТелеканалFAN.ru" tvg-name="FAN HD" group-title="ХаЛьВа",FAN HD
+#EXTINF:-1 group-title="ХаЛьВа",FAN HD
 https://premier.1stream.online/o1/fan_hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="dozhd" tvg-name="Дождь" group-title="ХаЛьВа",Дождь
 https://premier.1stream.online/o1/dojd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-id="english-club-tv" tvg-name="English Club HD" group-title="ХаЛьВа",English Club HD
+#EXTINF:-1 tvg-id="english-club-tv" group-title="ХаЛьВа",English Club HD
 https://premier.1stream.online/o5/englishclubhd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="rus-istoria" tvg-name="Русская История HD" group-title="ХаЛьВа",Русская История HD
 https://premier.1stream.online/o2/russkaja_istorija_hd/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
@@ -645,8 +643,6 @@ https://premier.1stream.online/o5/Aist/mono.m3u8?token=defcec57dd0959cdfd0f99ae6
 https://premier.1stream.online/o5/Almaznyy_kray/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="afontovo-kr" tvg-name="Афонтово" group-title="ХаЛьВа",Афонтово
 https://premier.1stream.online/o5/Afontovo/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="БайконурИнфо" group-title="ХаЛьВа",БайконурИнфо
-https://premier.1stream.online/o5/BaykonurInfo/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="bars" tvg-name="Барс" group-title="ХаЛьВа",Барс
 https://premier.1stream.online/o5/Bars/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="brianskaya-gubernia" tvg-name="Брянская губерния" group-title="ХаЛьВа",Брянская губерния
@@ -661,9 +657,9 @@ https://premier.1stream.online/o5/Duma_TV/mono.m3u8?token=defcec57dd0959cdfd0f99
 https://premier.1stream.online/o5/Enisey/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="krasnaya-linia" tvg-name="Красная линия" group-title="ХаЛьВа",Красная линия
 https://premier.1stream.online/o5/Krasnaya_liniya/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="КРТВ HD" group-title="ХаЛьВа",КРТВ HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",КРТВ HD
 https://premier.1stream.online/o5/KRTV_HD_high/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
-#EXTINF:-1 tvg-name="ЛТВ HD" group-title="ХаЛьВа",ЛТВ HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="ХаЛьВа",ЛТВ HD
 https://premier.1stream.online/o5/LTV_HD_high/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
 #EXTINF:-1 tvg-id="osetia-iryston" tvg-name="Осетия Ирыстон" group-title="ХаЛьВа",Осетия Ирыстон
 https://premier.1stream.online/o5/Osetiya_Iryston/mono.m3u8?token=defcec57dd0959cdfd0f99ae625150e0d96bbd9d
@@ -1145,8 +1141,6 @@ https://tv.entas.workers.dev/stream/275?key=000
 https://tv.entas.workers.dev/stream/276?key=000
 #EXTINF:-1 group-title="Разное",Setanta Sport 2 HD
 https://tv.entas.workers.dev/stream/277?key=000
-#EXTINF:-1 group-title="Резерв",Квартал ТВ
-https://vidos.denissof.workers.dev/stream/131?key=000
 #EXTINF:-1 group-title="Резерв",Новий канал
 https://vidos.denissof.workers.dev/stream/4?key=000
 #EXTINF:-1 group-title="Резерв",СТБ
@@ -1289,6 +1283,8 @@ https://vidos.denissof.workers.dev/stream/79?key=000
 https://vidos.denissof.workers.dev/stream/81?key=000
 #EXTINF:-1 group-title="Резерв",Бігуді
 https://vidos.denissof.workers.dev/stream/82?key=000
+#EXTINF:-1 group-title="Резерв",CGTN
+https://vidos.denissof.workers.dev/stream/131?key=000
 #EXTINF:-1 group-title="Резерв",TVP Polonia
 https://vidos.denissof.workers.dev/stream/84?key=000
 #EXTINF:-1 group-title="Резерв",Setanta Sports + HD
