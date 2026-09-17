@@ -4487,34 +4487,24 @@ http://57.129.76.222:3355/HNruN257Trd11892/index.m3u8?token=zBqoXP9qxPXL93B6cwes
 #EXTGRP:Германия
 http://57.129.76.222:3355/HNruN257Trd42889/index.m3u8?token=zBqoXP9qxPXL93B6cwesbKWxUhw6jwtcg5EeKRm8az0LFs4j0J2-PvPtqIjWkFyY.tg5643136335
 #EXTINF:0 tvg-id="chnl-562" tvg-name="Беларусь 1 HD" tvg-logo="http://57.129.76.222:80/plepg/img/channels/562.png?6aac00351cfb3" tvg-rec="3" timeshift="3" group-title="Разное",Беларусь 1 HD
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd4562/index.m3u8?token=wG-Tp6ZYinL3eRPnhEtOrsnDsvXIXGtimknxNn9ek-U1TemDXe0mVxDeYZ77wJJT.tg5643136335
 #EXTINF:0 tvg-id="chnl-564" tvg-name="Беларусь 2 HD" tvg-logo="http://57.129.76.222:80/plepg/img/channels/564.png?6aac00351cfb3" tvg-rec="3" timeshift="3" group-title="Разное",Беларусь 2 HD
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd5564/index.m3u8?token=wG-Tp6ZYinL3eRPnhEtOrnTzTI9mI1OHKhc7Hmvo0Xl0qlwHYAsnbbhT2uOmwWLg.tg5643136335
 #EXTINF:0 tvg-id="chnl-565" tvg-name="Беларусь 3 HD" tvg-logo="http://57.129.76.222:80/plepg/img/channels/565.png?6aac00351cfb3" tvg-rec="3" timeshift="3" group-title="Разное",Беларусь 3 HD
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd2565/index.m3u8?token=wG-Tp6ZYinL3eRPnhEtOroQG72rDkedQF2Z1DG0bsdwNXVACvLvPqQxB16MOkbL6.tg5643136335
 #EXTINF:0 tvg-id="chnl-473" tvg-name="Беларусь 5 HD" tvg-logo="http://57.129.76.222:80/plepg/img/channels/473.png?6aac00351cfb3" tvg-rec="3" timeshift="3" group-title="Разное",Беларусь 5 HD
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd5473/index.m3u8?token=wG-Tp6ZYinL3eRPnhEtOrv4PtLJofx8BW2luaxVOy7-yY9pgtAzyDj3XsnZNDH5y.tg5643136335
 #EXTINF:0 tvg-id="chnl-583" tvg-name="Беларусь 24" tvg-logo="http://57.129.76.222:80/plepg/img/channels/583.png?6aac00351cfb3" tvg-rec="3" timeshift="3" group-title="Разное",Беларусь 24
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd2583/index.m3u8?token=wG-Tp6ZYinL3eRPnhEtOroDjgSY7A8VgeRanA1t5pCt61RP-bAimpWNtaDCU6Pb0.tg5643136335
 #EXTINF:0 tvg-id="chnl-561" tvg-name="ОНТ HD" tvg-logo="http://57.129.76.222:80/plepg/img/channels/561.png?6aac00351cfb3" group-title="Разное",ОНТ HD
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd5561/index.m3u8?token=wG-Tp6ZYinL3eRPnhEtOrn3qInxtBtPLqA8gAw3effMgt6qLCmJuefwH0Djy0GJ-.tg5643136335
 #EXTINF:0 tvg-id="chnl-584" tvg-name="БелРос" tvg-logo="http://57.129.76.222:80/plepg/img/channels/584.png?6aac00351cfb3" tvg-rec="3" timeshift="3" group-title="Разное",БелРос
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd7584/index.m3u8?token=wG-Tp6ZYinL3eRPnhEtOrjfqVbl7ffjsnBxTZodAQLoLcLibRUhnFkj2OeDqlAX1.tg5643136335
 #EXTINF:0 tvg-id="chnl-713" tvg-name="СТВ HD" tvg-logo="http://57.129.76.222:80/plepg/img/channels/713.png?6aac00351cfb3" tvg-rec="3" timeshift="3" group-title="Разное",СТВ HD
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd2713/index.m3u8?token=wG-Tp6ZYinL3eRPnhEtOrgd-D7zzGDPHl6Vh3qaV2X2zXIKcTodvCjMOdVu8cssi.tg5643136335
 #EXTINF:0 tvg-id="chnl-726" tvg-name="BELSAT" tvg-logo="http://57.129.76.222:80/plepg/img/channels/726.png?6aac00351cfb3" tvg-rec="3" timeshift="3" group-title="Разное",BELSAT
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd4726/index.m3u8?token=wG-Tp6ZYinL3eRPnhEtOrhPyz9O9RRzA14rDrqk06wbXRBl2e_J6iol6i-NTX5oQ.tg5643136335
 #EXTINF:0 tvg-id="chnl-1675" tvg-name="Телеканал Витебск" tvg-logo="http://57.129.76.222:80/plepg/img/channels/1675.png?6aac00351cfb3" group-title="Разное",Телеканал Витебск
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd41675/index.m3u8?token=wG-Tp6ZYinL3eRPnhEtOrgUd0_Pwmu5UNK9K8at1JoMTuSu7ZikS_UEds2Su5sGK.tg5643136335
 #EXTINF:0 tvg-id="chnl-2094" tvg-name="BBC One" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2094.png?6aac00351cfdd" group-title="Англия",BBC One
 #EXTGRP:Англия
@@ -5825,224 +5815,150 @@ http://57.129.76.222:3355/HNruN257Trd72954/index.m3u8?token=8aPmLb4txTJ6A_RfEeUb
 #EXTGRP:Польша
 http://57.129.76.222:3355/HNruN257Trd42955/index.m3u8?token=8aPmLb4txTJ6A_RfEeUbfe_xe2ELL0jlkGRWXBfZfqTYfje4Mf7xyxKN_dmJa411.tg5643136335
 #EXTINF:0 tvg-id="chnl-2741" tvg-name="Мир Белогорья" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2741.png?6aac00351d5bc" group-title="Разное", Мир Белогорья
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd82741/index.m3u8?token=jy6s9YFuG3vi2xdujquVOHTPVnOcMahQm7wNI5KAW3nAQT2ADPkOUf124IGiHnSV.tg5643136335
 #EXTINF:0 tvg-id="chnl-1986" tvg-name="ОТВ Екатеринбург" tvg-logo="http://57.129.76.222:80/plepg/img/channels/1986.png?6aac00351d5bc" group-title="Разное", ОТВ Екатеринбург
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd01986/index.m3u8?token=jy6s9YFuG3vi2xdujquVOHVaTDUjFV5APVAYR_dsHYO0new50WDeDfrPJQoyInX4.tg5643136335
 #EXTINF:0 tvg-id="chnl-1949" tvg-name="Легендарный 24" tvg-logo="http://57.129.76.222:80/plepg/img/channels/1949.png?6aac00351d5bc" group-title="Разное", Легендарный 24
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd51949/index.m3u8?token=jy6s9YFuG3vi2xdujquVOLoWmgEVv_wXNeMtffo1ZSHQtTFYlO0dw5-72ys510M-.tg5643136335
 #EXTINF:0 tvg-id="chnl-2711" tvg-name="12 канал Омск" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2711.png?6aac00351d5bc" group-title="Разное", 12 канал Омск
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd42711/index.m3u8?token=jy6s9YFuG3vi2xdujquVOKlSl0jLYpngBI2pFQvpC4OVTsvQ9A7OlwHgAyP4tm2q.tg5643136335
 #EXTINF:0 tvg-id="chnl-2712" tvg-name="Аист ТВ Иркутск" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2712.png?6aac00351d5bc" group-title="Разное", Аист ТВ Иркутск
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd12712/index.m3u8?token=jy6s9YFuG3vi2xdujquVOBmEo8nfSUwgUvO5rw1_0J4I-0WJb768MwdKeDijn_IO.tg5643136335
 #EXTINF:0 tvg-id="chnl-2713" tvg-name="Астрахань 24" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2713.png?6aac00351d5bc" group-title="Разное", Астрахань 24
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd82713/index.m3u8?token=jy6s9YFuG3vi2xdujquVOItuhsZ4zai83XjMJL4X7Ull7D1aBS9i9-_8jq8PRtKO.tg5643136335
 #EXTINF:0 tvg-id="chnl-2714" tvg-name="Белгород 24" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2714.png?6aac00351d5bc" group-title="Разное", Белгород 24
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd02714/index.m3u8?token=jy6s9YFuG3vi2xdujquVOPxTAVEOcOBC048gOlo6zhSmF-qzb98MFL21Hr35HsOZ.tg5643136335
 #EXTINF:0 tvg-id="chnl-2715" tvg-name="Волга 24 Нижний Новгород" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2715.png?6aac00351d5bc" group-title="Разное", Волга 24 Нижний Новгород
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd62715/index.m3u8?token=jy6s9YFuG3vi2xdujquVOC5HVvhMri-DmTNCo9CiMm2kTkQApqTjKt1q7kQD4yrk.tg5643136335
 #EXTINF:0 tvg-id="chnl-2716" tvg-name="Енисей Красноярск" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2716.png?6aac00351d5bc" group-title="Разное", Енисей Красноярск
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd72716/index.m3u8?token=jy6s9YFuG3vi2xdujquVOEyUu5jscONhefnrJr81HaiSSlJ8xvX7wLWqxrlTnedu.tg5643136335
 #EXTINF:0 tvg-id="chnl-2717" tvg-name="Канал 16 Саратов" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2717.png?6aac00351d5bc" group-title="Разное", Канал 16 Саратов
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd82717/index.m3u8?token=jy6s9YFuG3vi2xdujquVOHtwN2nnvga2GEVFXmlcjyUl77xoH5rO9MHmDZZZtmw7.tg5643136335
 #EXTINF:0 tvg-id="chnl-2718" tvg-name="Катунь 24" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2718.png?6aac00351d5bc" group-title="Разное", Катунь 24
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd12718/index.m3u8?token=jy6s9YFuG3vi2xdujquVOF4yOfok3eVBHe48OM069Vut42Rq1EotlyAdKTH-1Doe.tg5643136335
 #EXTINF:0 tvg-id="chnl-2719" tvg-name="Колыма Плюс Магадан" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2719.png?6aac00351d5bc" group-title="Разное", Колыма Плюс Магадан
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd92719/index.m3u8?token=jy6s9YFuG3vi2xdujquVOOe3Z4d7KQtv3Z6lhT00_RVqvo5fb5OiLM8P56-ogYZD.tg5643136335
 #EXTINF:0 tvg-id="chnl-2720" tvg-name="Краснодар" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2720.png?6aac00351d5bc" group-title="Разное", Краснодар
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd42720/index.m3u8?token=jy6s9YFuG3vi2xdujquVOBK4eQ_8ZfuS5bEgXc_T_MoxtMG6KtZJivJV6KT1e135.tg5643136335
 #EXTINF:0 tvg-id="chnl-2721" tvg-name="КРЫМ 24" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2721.png?6aac00351d5bc" group-title="Разное", КРЫМ 24
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd62721/index.m3u8?token=jy6s9YFuG3vi2xdujquVOL7OU21FhIq-T5sfPa_OBAXLwWmUEnmqyP3yoJBdbzpK.tg5643136335
 #EXTINF:0 tvg-id="chnl-2722" tvg-name="Next TV Нефтекамск" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2722.png?6aac00351d5bc" group-title="Разное", Next TV Нефтекамск
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd52722/index.m3u8?token=jy6s9YFuG3vi2xdujquVOI5u_ee4TJm8tOfRCAlfRaC-PBRQBgmjMCle_WFEBmbJ.tg5643136335
 #EXTINF:0 tvg-id="chnl-2723" tvg-name="VT Губерния Воронеж" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2723.png?6aac00351d5bc" group-title="Разное", VT Губерния Воронеж
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd62723/index.m3u8?token=jy6s9YFuG3vi2xdujquVOEo-kMY67xQ6gYezCiENqZJz6S01SV76bGMLtAEm8gyt.tg5643136335
 #EXTINF:0 tvg-id="chnl-2725" tvg-name="Алмазный край Якутия" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2725.png?6aac00351d5bc" group-title="Разное", Алмазный край Якутия
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd12725/index.m3u8?token=jy6s9YFuG3vi2xdujquVON1KOcx2i8GVME3-0VsmGOVclNFnGH4JwgEsaevSDVz8.tg5643136335
 #EXTINF:0 tvg-id="chnl-2726" tvg-name="Арис 24" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2726.png?6aac00351d5bc" group-title="Разное", Арис 24
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd42726/index.m3u8?token=jy6s9YFuG3vi2xdujquVOFfMR8stZGpoxHcpE7mPbqsFdQtYYc5iGiT_wIDznTqA.tg5643136335
 #EXTINF:0 tvg-id="chnl-2727" tvg-name="Архыз 24 Карачаево-Черкесия" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2727.png?6aac00351d5bc" group-title="Разное", Архыз 24 Карачаево-Черкесия
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd62727/index.m3u8?token=jy6s9YFuG3vi2xdujquVOAYSNDESInRLXwYSMKk51JyZtI2ayqIztkJbBSu-IvXA.tg5643136335
 #EXTINF:0 tvg-id="chnl-2728" tvg-name="АСТВ 24 Южно-Сахалинск" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2728.png?6aac00351d5bc" group-title="Разное", АСТВ 24 Южно-Сахалинск
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd72728/index.m3u8?token=jy6s9YFuG3vi2xdujquVOGKn4-S4wYD2pVa3-xC4TEqKtVLAMJHRKKaCphTwvXl2.tg5643136335
 #EXTINF:0 tvg-id="chnl-2729" tvg-name="Сочи 24" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2729.png?6aac00351d5bc" group-title="Разное", Сочи 24
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd12729/index.m3u8?token=jy6s9YFuG3vi2xdujquVOHaB48ehY97xhtKGNzx2Tgz8hcIGV-pwo4i8HUMozikJ.tg5643136335
 #EXTINF:0 tvg-id="chnl-2730" tvg-name="АТВ Ставрополь" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2730.png?6aac00351d5bc" group-title="Разное", АТВ Ставрополь
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd42730/index.m3u8?token=jy6s9YFuG3vi2xdujquVOFfcz9IEdk_8m4iuIZNQ81BJY3S-freUOQkv_UaOWnIG.tg5643136335
 #EXTINF:0 tvg-id="chnl-2731" tvg-name="Брянская Губерния" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2731.png?6aac00351d5bc" group-title="Разное", Брянская Губерния
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd62731/index.m3u8?token=jy6s9YFuG3vi2xdujquVOOoOcnzf1KVBIiYmmOhVca7CoW3gnabQoANgWYTrb8-8.tg5643136335
 #EXTINF:0 tvg-id="chnl-2732" tvg-name="БСТ" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2732.png?6aac00351d5bc" group-title="Разное", БСТ
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd92732/index.m3u8?token=jy6s9YFuG3vi2xdujquVOPFGuBbnntkhZgpvn189dhT92exf1_iLNm1F4NwS2WEw.tg5643136335
 #EXTINF:0 tvg-id="chnl-2733" tvg-name="Вектор 24 Губкинский" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2733.png?6aac00351d5bc" group-title="Разное", Вектор 24 Губкинский
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd52733/index.m3u8?token=jy6s9YFuG3vi2xdujquVOCd6yGD9Xf05XdycVr_7edADNePvcHGlA3C7lIDoM5Io.tg5643136335
 #EXTINF:0 tvg-id="chnl-2734" tvg-name="Вестник Надыма" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2734.png?6aac00351d5bc" group-title="Разное", Вестник Надыма
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd92734/index.m3u8?token=jy6s9YFuG3vi2xdujquVOBoH9lgTh2rbLqEgrqw7MIOpnOFCfdCMnUgUFBjSMJqj.tg5643136335
 #EXTINF:0 tvg-id="chnl-2735" tvg-name="Дзержинск ТВ" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2735.png?6aac00351d5bc" group-title="Разное", Дзержинск ТВ
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd52735/index.m3u8?token=jy6s9YFuG3vi2xdujquVOKIFDNKSCF8aQcKzB_t1tuqewqpSggexRvsOui3CUuPN.tg5643136335
 #EXTINF:0 tvg-id="chnl-2736" tvg-name="ВТК 41 Аргус" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2736.png?6aac00351d5bc" group-title="Разное", ВТК 41 Аргус
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd42736/index.m3u8?token=jy6s9YFuG3vi2xdujquVOJheoh9EwioiBidHUbXiCAYl4I_e6JEV9BAVWF5TCjJC.tg5643136335
 #EXTINF:0 tvg-id="chnl-2737" tvg-name="Запад 24 Калининнград" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2737.png?6aac00351d5bc" group-title="Разное", Запад 24 Калининнград
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd02737/index.m3u8?token=jy6s9YFuG3vi2xdujquVOH9p1Lax5uualCsbwapbkz3u9UHDAJbnhgTMMQ9jBOtg.tg5643136335
 #EXTINF:0 tvg-id="chnl-2738" tvg-name="Ингушетия Магас" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2738.png?6aac00351d5bc" group-title="Разное", Ингушетия Магас
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd82738/index.m3u8?token=jy6s9YFuG3vi2xdujquVOJVNN6uk4dSapjRmmBUtMRasCX7iA9TfidHl8B-zGiqg.tg5643136335
 #EXTINF:0 tvg-id="chnl-2739" tvg-name="Кавказ 24" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2739.png?6aac00351d5bc" group-title="Разное", Кавказ 24
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd42739/index.m3u8?token=jy6s9YFuG3vi2xdujquVOB1eVhQkSGtmDpk1bOvw3PDyw_AbI2SgOd38zhXgJVo3.tg5643136335
 #EXTINF:0 tvg-id="chnl-2740" tvg-name="Миллет" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2740.png?6aac00351d5bc" group-title="Разное", Миллет
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd62740/index.m3u8?token=jy6s9YFuG3vi2xdujquVOP-oGMBmh7RrAYqWW0FBQkx01n-fNtsJ8COQSM1oD-x5.tg5643136335
 #EXTINF:0 tvg-id="chnl-2742" tvg-name="НТМ Мордовия" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2742.png?6aac00351d5bc" group-title="Разное", НТМ Мордовия
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd32742/index.m3u8?token=jy6s9YFuG3vi2xdujquVOLoOOSUmFtAKDSAeIpl820iyKo2kGeWiKn2joeA1p6WF.tg5643136335
 #EXTINF:0 tvg-id="chnl-2743" tvg-name="МТВ Волгоград" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2743.png?6aac00351d5bc" group-title="Разное", МТВ Волгоград
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd82743/index.m3u8?token=jy6s9YFuG3vi2xdujquVOGyLWVvzHhU8ZxrWWb8laeb4N6J5KjODFI0dtYQGlZd8.tg5643136335
 #EXTINF:0 tvg-id="chnl-2744" tvg-name="НВК Саха Якутск" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2744.png?6aac00351d5bc" group-title="Разное", НВК Саха Якутск
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd42744/index.m3u8?token=jy6s9YFuG3vi2xdujquVOGWMeV3iggduzP7US5ThnguRiJM3fgym8NajRA6h1C1f.tg5643136335
 #EXTINF:0 tvg-id="chnl-2745" tvg-name="Новый век Тамбов" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2745.png?6aac00351d5bc" group-title="Разное", Новый век Тамбов
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd22745/index.m3u8?token=jy6s9YFuG3vi2xdujquVOExi9r-a6Ync97UO5tDk5irJaJDe7yi9VZ2fwMQsvgx0.tg5643136335
 #EXTINF:0 tvg-id="chnl-2746" tvg-name="Осетия-Ирыстон" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2746.png?6aac00351d5bc" group-title="Разное", Осетия-Ирыстон
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd12746/index.m3u8?token=jy6s9YFuG3vi2xdujquVOF9nxcE7HgwLyS3Io42lHjFghgVNpuRW6dK2L-kGYF3C.tg5643136335
 #EXTINF:0 tvg-id="chnl-2748" tvg-name="Раменское Телевидение" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2748.png?6aac00351d5bc" group-title="Разное", Раменское Телевидение
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd32748/index.m3u8?token=jy6s9YFuG3vi2xdujquVOKYXgRVekafykH1D8gZXJCPAt-zzwAKgLDEbgFwpb4Wo.tg5643136335
 #EXTINF:0 tvg-id="chnl-2749" tvg-name="Нижний Новгород 24" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2749.png?6aac00351d5bc" group-title="Разное", Нижний Новгород 24
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd22749/index.m3u8?token=jy6s9YFuG3vi2xdujquVOHsYTboWPXBHyrzPdguR_2gWqOf718hXwhbjkM9FJvsk.tg5643136335
 #EXTINF:0 tvg-id="chnl-2750" tvg-name="Ника ТВ" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2750.png?6aac00351d5bc" group-title="Разное", Ника ТВ
-#EXTGRP:Разное
 http://hde1.htv.best:3355/HNruN257Trd92750/index.m3u8?token=jy6s9YFuG3vi2xdujquVOClaT3T-pA_jWVi_44S8bmQX8vB9vyXazDjfKTZIkjNs.tg5643136335
 #EXTINF:0 tvg-id="chnl-2751" tvg-name="ННТВ Нижний Новгород" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2751.png?6aac00351d5bc" group-title="Разное", ННТВ Нижний Новгород
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd12751/index.m3u8?token=jy6s9YFuG3vi2xdujquVOMV9KM9PeYBEhyqhnsDYdd-zcE8AAdW1yuKMwv0VKIfN.tg5643136335
 #EXTINF:0 tvg-id="chnl-2752" tvg-name="НТМ Мордовия" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2752.png?6aac00351d5bc" group-title="Разное", НТМ Мордовия
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd92752/index.m3u8?token=jy6s9YFuG3vi2xdujquVOImIf9IP-0q8B5Vgz7Dd9IQCzSSckRAJrMt0ySIUHH8t.tg5643136335
 #EXTINF:0 tvg-id="chnl-2753" tvg-name="Сургут 24" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2753.png?6aac00351d5bc" group-title="Разное", Сургут 24
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd72753/index.m3u8?token=jy6s9YFuG3vi2xdujquVOA6BkmHZ_WqEvbwRt5XmpZwTAdTqOr_85ahWZQwqq7iv.tg5643136335
 #EXTINF:0 tvg-id="chnl-2754" tvg-name="Новороссийск" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2754.png?6aac00351d5bc" group-title="Разное", Новороссийск
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd72754/index.m3u8?token=jy6s9YFuG3vi2xdujquVOGT6l12JKkAgo7gcNBdKhcTFHGE5pBmUb97_Pjk5lAZU.tg5643136335
 #EXTINF:0 tvg-id="chnl-2755" tvg-name="НТС Иркутск" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2755.png?6aac00351d5bc" group-title="Разное", НТС Иркутск
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd22755/index.m3u8?token=jy6s9YFuG3vi2xdujquVOFMQyKqLsng6G04MyDE3ZI3MyS3PUj5VIuCF8Rhj2ACR.tg5643136335
 #EXTINF:0 tvg-id="chnl-2756" tvg-name="НТС Севастополь" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2756.png?6aac00351d5bc" group-title="Разное", НТС Севастополь
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd22756/index.m3u8?token=jy6s9YFuG3vi2xdujquVOOREd3NYFUVgwQglLXqb-UxpG4eAtJ2dn551XZyfG_0U.tg5643136335
 #EXTINF:0 tvg-id="chnl-2757" tvg-name="Обком ТВ Омск" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2757.png?6aac00351d5bc" group-title="Разное", Обком ТВ Омск
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd42757/index.m3u8?token=jy6s9YFuG3vi2xdujquVOOG68ylDza7k4fmKgiiYysGNakoCLZ77ZC0tlNQ6_aui.tg5643136335
 #EXTINF:0 tvg-id="chnl-2758" tvg-name="Первый Крымский" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2758.png?6aac00351d5bc" group-title="Разное", Первый Крымский
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd32758/index.m3u8?token=jy6s9YFuG3vi2xdujquVOPoKo3Yj6y4Wi7_iISUz9KgTq4_-eYsOcnMZEeFnWClR.tg5643136335
 #EXTINF:0 tvg-id="chnl-2759" tvg-name="Первый областной Орел" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2759.png?6aac00351d5bc" group-title="Разное", Первый областной Орел
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd62759/index.m3u8?token=jy6s9YFuG3vi2xdujquVOH9SdC1eBRWMgKe4m96rxc1sumkD0rLHP60iMkItSQbZ.tg5643136335
 #EXTINF:0 tvg-id="chnl-2760" tvg-name="Первый Ярославский" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2760.png?6aac00351d5bc" group-title="Разное", Первый Ярославский
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd72760/index.m3u8?token=jy6s9YFuG3vi2xdujquVOGK1wZievXv_8mI4XjOX5t-X5URIR4-qShAktwzXdvu1.tg5643136335
 #EXTINF:0 tvg-id="chnl-2761" tvg-name="Прима Красноярск" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2761.png?6aac00351d5bc" group-title="Разное", Прима Красноярск
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd32761/index.m3u8?token=jy6s9YFuG3vi2xdujquVOCpvbQJVa6bG4ct87tySxPzn3oM8NKWI89GlMWBGyw5p.tg5643136335
 #EXTINF:0 tvg-id="chnl-2762" tvg-name="РГВК Дагестан" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2762.png?6aac00351d5bc" group-title="Разное", РГВК Дагестан
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd12762/index.m3u8?token=jy6s9YFuG3vi2xdujquVOAi-4TsYEAKWip4Qqu_atlq9bBPONMKHp168hxiXo891.tg5643136335
 #EXTINF:0 tvg-id="chnl-2763" tvg-name="Своё ТВ Ставрополь" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2763.png?6aac00351d5bc" group-title="Разное", Своё ТВ Ставрополь
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd72763/index.m3u8?token=jy6s9YFuG3vi2xdujquVOBL9GmoNahpjqZYUcmnfkHu3vDg4KDGwVDIh_L76yCUF.tg5643136335
 #EXTINF:0 tvg-id="chnl-2764" tvg-name="С1 Сургут" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2764.png?6aac00351d5bc" group-title="Разное", С1 Сургут
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd12764/index.m3u8?token=jy6s9YFuG3vi2xdujquVODd24tWGQX7KfelfAByiQq1PRXxbVKjfosFVTjHL9X91.tg5643136335
 #EXTINF:0 tvg-id="chnl-2765" tvg-name="С86 Сургут" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2765.png?6aac00351d5bc" group-title="Разное", С86 Сургут
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd52765/index.m3u8?token=jy6s9YFuG3vi2xdujquVOOeW8OsZpGBFjMzsIkuHJbogpWN1xhMUn6GCBzaTPWyd.tg5643136335
 #EXTINF:0 tvg-id="chnl-2766" tvg-name="Салям Уфа" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2766.png?6aac00351d5bc" group-title="Разное", Салям Уфа
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd82766/index.m3u8?token=jy6s9YFuG3vi2xdujquVOAu02QdAyBhZ62ac_e5maxl-pbJZJrXkxeg4WoSIzEQ5.tg5643136335
 #EXTINF:0 tvg-id="chnl-2767" tvg-name="Север Нарьян-Мар" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2767.png?6aac00351d5bc" group-title="Разное", Север Нарьян-Мар
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd72767/index.m3u8?token=jy6s9YFuG3vi2xdujquVOF38Zu21wdpo3SPE5ba3_tSHUf4SyYoAr24Yrj6uDHOk.tg5643136335
 #EXTINF:0 tvg-id="chnl-2768" tvg-name="Татарстан 24" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2768.png?6aac00351d5bc" group-title="Разное", Татарстан 24
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd12768/index.m3u8?token=jy6s9YFuG3vi2xdujquVOJy-9tS7rtkDUrT1xDF5OyNjOiyAhZJWludp5wqmSwfz.tg5643136335
 #EXTINF:0 tvg-id="chnl-2769" tvg-name="ТВ-ИН Магнитогорск" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2769.png?6aac00351d5bc" group-title="Разное", ТВ-ИН Магнитогорск
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd72769/index.m3u8?token=jy6s9YFuG3vi2xdujquVOJduXFwrhR8zWJKAk3lnBZfobZAohbm7P7FS442hUpPm.tg5643136335
 #EXTINF:0 tvg-id="chnl-2770" tvg-name="ТВК Красноярск" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2770.png?6aac00351d5bc" group-title="Разное", ТВК Красноярск
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd32770/index.m3u8?token=jy6s9YFuG3vi2xdujquVOFP3Z9wnx73qBrY4EW58IL8uWu8BYPaE4gi9IQci2ZAc.tg5643136335
 #EXTINF:0 tvg-id="chnl-2771" tvg-name="Ямал-Регион" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2771.png?6aac00351d5bc" group-title="Разное", Ямал-Регион
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd92771/index.m3u8?token=jy6s9YFuG3vi2xdujquVOPJjm-096UAoCwUu45reZWTi6KPCWrADcay_xpa6tiZ9.tg5643136335
 #EXTINF:0 tvg-id="chnl-2772" tvg-name="ТКР Рязань" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2772.png?6aac00351d5bc" group-title="Разное", ТКР Рязань
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd12772/index.m3u8?token=jy6s9YFuG3vi2xdujquVOEk9rM4qc0J3k_lRHuIpTaaUUNgLjyyMQlgKRZiczHe5.tg5643136335
 #EXTINF:0 tvg-id="chnl-2773" tvg-name="ТНВ Татарстан" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2773.png?6aac00351d5bc" group-title="Разное", ТНВ Татарстан
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd52773/index.m3u8?token=jy6s9YFuG3vi2xdujquVOAEGJVF9Z-O0QSfVWUuYEq_4iD9_rp1lOjp3cpBek1jH.tg5643136335
 #EXTINF:0 tvg-id="chnl-2774" tvg-name="ТНВ-Планета" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2774.png?6aac00351d5bc" group-title="Разное", ТНВ-Планета
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd72774/index.m3u8?token=jy6s9YFuG3vi2xdujquVOJh1uwjMpdrlKgVMPOI8_XZWPXDtUoiYx7qVK7IsPtuA.tg5643136335
 #EXTINF:0 tvg-id="chnl-2775" tvg-name="Томское время" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2775.png?6aac00351d5bc" group-title="Разное", Томское время
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd12775/index.m3u8?token=jy6s9YFuG3vi2xdujquVOPNDHkn-0QR2jGk1r7jV-ivDbwpy6-3jtwZBGKW61w-Q.tg5643136335
 #EXTINF:0 tvg-id="chnl-2776" tvg-name="ТРК Евразия Орск" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2776.png?6aac00351d5bc" group-title="Разное", ТРК Евразия Орск
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd42776/index.m3u8?token=jy6s9YFuG3vi2xdujquVOHToZ1bMs35x4WZEtRHQwgZNbNVwqXqxEvmpKfVqJV84.tg5643136335
 #EXTINF:0 tvg-id="chnl-2777" tvg-name="Тюменское время" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2777.png?6aac00351d5bc" group-title="Разное", Тюменское время
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd62777/index.m3u8?token=jy6s9YFuG3vi2xdujquVOGJzn_m0mPTV8EXP77y4Tw_dAxBZojmfRZDgfH23cKx7.tg5643136335
 #EXTINF:0 tvg-id="chnl-2779" tvg-name="Экспресс Пенза" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2779.png?6aac00351d5bc" group-title="Разное", Экспресс Пенза
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd42779/index.m3u8?token=jy6s9YFuG3vi2xdujquVOLuJo5Jwv0aTflVR68VaZUqxIt5L21-DXZ0rv7hTRBw-.tg5643136335
 #EXTINF:0 tvg-id="chnl-2780" tvg-name="Югра" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2780.png?6aac00351d5bc" group-title="Разное", Югра
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd52780/index.m3u8?token=jy6s9YFuG3vi2xdujquVOIe720Ycl6E0TjAkIPQ1FsPFlLxG7WngfhdA-G2Ri9kp.tg5643136335
 #EXTINF:0 tvg-id="chnl-2788" tvg-name="Дон 24 Ростов-на-Дону" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2788.png?6aac00351d5bc" group-title="Разное", Дон 24 Ростов-на-Дону
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd12788/index.m3u8?token=jy6s9YFuG3vi2xdujquVOPtfDYy_81Q9wf14a2orRX_CT_kX6L4WZDtCF0_Bxr3l.tg5643136335
 #EXTINF:0 tvg-id="chnl-2789" tvg-name="Якутия 24" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2789.png?6aac00351d5bc" group-title="Разное", Якутия 24
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd62789/index.m3u8?token=jy6s9YFuG3vi2xdujquVOMbDMp2yRADrAYURGVFz6WydkLScW7BPea4-AC0aq7eb.tg5643136335
 #EXTINF:0 tvg-id="chnl-2790" tvg-name="Тивиком Улан-Удэ" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2790.png?6aac00351d5bc" group-title="Разное", Тивиком Улан-Удэ
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd52790/index.m3u8?token=jy6s9YFuG3vi2xdujquVOPq0Z8TWQeBZhFbAeBDkeVF19lBrv6L0PZ5YEumvNvew.tg5643136335
 #EXTINF:0 tvg-id="chnl-2791" tvg-name="Культ Медиа Астрахань" tvg-logo="http://57.129.76.222:80/plepg/img/channels/2791.png?6aac00351d5bc" group-title="Разное", Культ Медиа Астрахань
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd82791/index.m3u8?token=jy6s9YFuG3vi2xdujquVOLHcwFlEmqTiesynCMK2K1w_7MhoThvBLJMTMPNw4PJ8.tg5643136335
 #EXTINF:0 tvg-id="chnl-3059" tvg-name="Наш дом [ Пенза ]" tvg-logo="http://57.129.76.222:80/plepg/img/channels/3059.png?6aac00351d5bc" group-title="Разное", Наш дом [ Пенза ]
-#EXTGRP:Разное
 http://57.129.76.222:3355/HNruN257Trd83059/index.m3u8?token=jy6s9YFuG3vi2xdujquVONP_sjP6o9goNZ0EUn0VEBnCmJTT6B0Fb9FH2p4TIPfM.tg5643136335
