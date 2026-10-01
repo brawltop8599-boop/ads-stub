@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://iptvx.one/EPG,https://iptv.pm/epg/epg.xml"
 #EXTINF:-1 tvg-id="tnt-music" group-title="Кино.HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjdvCbngLiYMAp2EgdgaDFi8MGOQlqaLOmj0lh0HLPQasxQ4dQMNOIQBY&s=10",Telegram
 https://github.com/Waswas777/video/raw/refs/heads/main/v.mp4
 #EXTINF:-1 group-title="Кино.HD"  tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1827.png" tvg-id="sony-turbo",.Black HD
@@ -3145,8 +3145,6 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Music.Тв", Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8 
-#EXTINF:-1 tvg-name="Первый канал Европа" group-title="Россия",Первый канал Европа
-https://blacktulipstav.onrender.com/ch/0?key=000
 #EXTINF:-1 tvg-name="Первый канал" group-title="Россия",Первый канал
 https://blacktulipstav.onrender.com/ch/1?key=000
 #EXTINF:-1 tvg-name="Первый канал HD" group-title="Россия",Первый канал HD
@@ -3155,8 +3153,6 @@ https://blacktulipstav.onrender.com/ch/2?key=000
 https://blacktulipstav.onrender.com/ch/3?key=000
 #EXTINF:-1 tvg-name="Первый канал (+6)" group-title="Россия",Первый канал (+6)
 https://blacktulipstav.onrender.com/ch/4?key=000
-#EXTINF:-1 tvg-name="Россия 1" group-title="Россия",Россия 1
-https://blacktulipstav.onrender.com/ch/5?key=000
 #EXTINF:-1 tvg-name="Россия 1 HD" group-title="Россия",Россия 1 HD
 https://blacktulipstav.onrender.com/ch/6?key=000
 #EXTINF:-1 tvg-name="Россия 1 (+4)" group-title="Россия",Россия 1 (+4)
@@ -3165,8 +3161,6 @@ https://blacktulipstav.onrender.com/ch/7?key=000
 https://blacktulipstav.onrender.com/ch/8?key=000
 #EXTINF:-1 tvg-name="РТР-Планета" group-title="Россия",РТР-Планета
 https://blacktulipstav.onrender.com/ch/9?key=000
-#EXTINF:-1 tvg-name="НТВ" group-title="Россия",НТВ
-https://blacktulipstav.onrender.com/ch/10?key=000
 #EXTINF:-1 tvg-name="НТВ HD" group-title="Россия",НТВ HD
 https://blacktulipstav.onrender.com/ch/11?key=000
 #EXTINF:-1 tvg-name="НТВ (+4)" group-title="Россия",НТВ (+4)
@@ -3185,8 +3179,6 @@ https://blacktulipstav.onrender.com/ch/17?key=000
 https://blacktulipstav.onrender.com/ch/18?key=000
 #EXTINF:-1 tvg-name="RTVI" group-title="Россия",RTVI
 https://blacktulipstav.onrender.com/ch/19?key=000
-#EXTINF:-1 tvg-name="ТНТ" group-title="Россия",ТНТ
-https://blacktulipstav.onrender.com/ch/20?key=000
 #EXTINF:-1 tvg-name="ТНТ HD" group-title="Россия",ТНТ HD
 https://blacktulipstav.onrender.com/ch/21?key=000
 #EXTINF:-1 tvg-name="ТНТ (+4)" group-title="Россия",ТНТ (+4)
@@ -3203,16 +3195,10 @@ https://blacktulipstav.onrender.com/ch/26?key=000
 https://blacktulipstav.onrender.com/ch/27?key=000
 #EXTINF:-1 tvg-name="СТС Love" group-title="Россия",СТС Love
 https://blacktulipstav.onrender.com/ch/28?key=000
-#EXTINF:-1 tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
-https://blacktulipstav.onrender.com/ch/29?key=000
 #EXTINF:-1 tvg-name="РЕН ТВ HD" group-title="Россия",РЕН ТВ HD
 https://blacktulipstav.onrender.com/ch/30?key=000
-#EXTINF:-1 tvg-name="Мир" group-title="Россия",Мир
-https://blacktulipstav.onrender.com/ch/31?key=000
 #EXTINF:-1 tvg-name="Мир HD" group-title="Россия",Мир HD
 https://blacktulipstav.onrender.com/ch/32?key=000
-#EXTINF:-1 tvg-name="Мир 24" group-title="Россия",Мир 24
-https://blacktulipstav.onrender.com/ch/33?key=000
 #EXTINF:-1 tvg-name="Че!" group-title="Россия",Че!
 https://blacktulipstav.onrender.com/ch/34?key=000
 #EXTINF:-1 tvg-name="Перец International" group-title="Россия",Перец International
@@ -3235,14 +3221,12 @@ https://blacktulipstav.onrender.com/ch/42?key=000
 https://blacktulipstav.onrender.com/ch/43?key=000
 #EXTINF:-1 tvg-name="Ю" group-title="Россия",Ю
 https://blacktulipstav.onrender.com/ch/44?key=000
-#EXTINF:-1 tvg-name="ТВ3 HD" group-title="Россия",ТВ3 HD
+#EXTINF:-1 tvg-name="ТВ3 HD" group-title="Россия",ТВ3
 https://blacktulipstav.onrender.com/ch/45?key=000
 #EXTINF:-1 tvg-name="Россия К" group-title="Россия",Россия К
 https://blacktulipstav.onrender.com/ch/46?key=000
 #EXTINF:-1 tvg-name="РБК HD" group-title="Россия",РБК HD
 https://blacktulipstav.onrender.com/ch/47?key=000
-#EXTINF:-1 tvg-name="Россия 24" group-title="Россия",Россия 24
-https://blacktulipstav.onrender.com/ch/48?key=000
 #EXTINF:-1 tvg-name="EuroNews" group-title="Россия",EuroNews
 https://blacktulipstav.onrender.com/ch/49?key=000
 #EXTINF:-1 tvg-name="RTД HD" group-title="Россия",RTД HD
@@ -3339,9 +3323,9 @@ https://blacktulipstav.onrender.com/ch/145?key=000
 https://blacktulipstav.onrender.com/ch/146?key=000
 #EXTINF:-1 tvg-name="ПОБЕДА HD" group-title="КиноЗал",ПОБЕДА HD
 https://blacktulipstav.onrender.com/ch/147?key=000
-#EXTINF:-1 tvg-name="Звезда HD" group-title="КиноЗал",Звезда HD
+#EXTINF:-1 tvg-name="Звезда HD" group-title="Россия",Звезда HD
 https://blacktulipstav.onrender.com/ch/148?key=000
-#EXTINF:-1 tvg-name="Патриот" group-title="КиноЗал",Патриот
+#EXTINF:-1 tvg-name="Патриот" group-title="Россия",Патриот
 https://blacktulipstav.onrender.com/ch/149?key=000
 #EXTINF:-1 tvg-name="ИНДИЙСКОЕ КИНО" group-title="КиноЗал",ИНДИЙСКОЕ КИНО
 https://blacktulipstav.onrender.com/ch/150?key=000
@@ -3387,8 +3371,6 @@ https://blacktulipstav.onrender.com/ch/169?key=000
 https://blacktulipstav.onrender.com/ch/170?key=000
 #EXTINF:-1 tvg-name="Индия" group-title="КиноЗал",Индия
 https://blacktulipstav.onrender.com/ch/171?key=000
-#EXTINF:-1 tvg-name="Криминальное HD" group-title="КиноЗал",Криминальное HD
-https://blacktulipstav.onrender.com/ch/172?key=000
 #EXTINF:-1 tvg-name="МУЖСКОЕ КИНО HD" group-title="КиноЗал",МУЖСКОЕ КИНО HD
 https://blacktulipstav.onrender.com/ch/173?key=000
 #EXTINF:-1 tvg-name="Русский роман HD" group-title="КиноЗал",Русский роман HD
@@ -3607,8 +3589,6 @@ https://blacktulipstav.onrender.com/ch/267?key=000
 https://blacktulipstav.onrender.com/ch/268?key=000
 #EXTINF:-1 tvg-name="FoodTime HD" group-title="Россия",FoodTime HD
 https://blacktulipstav.onrender.com/ch/269?key=000
-#EXTINF:-1 tvg-name="Food Network HD" group-title="Россия",Food Network HD
-https://blacktulipstav.onrender.com/ch/270?key=000
 #EXTINF:-1 tvg-name="BOX Gurman HD" group-title="Россия",BOX Gurman HD
 https://blacktulipstav.onrender.com/ch/271?key=000
 #EXTINF:-1 tvg-name="Телекафе" group-title="Россия",Телекафе
@@ -4109,8 +4089,6 @@ https://blacktulipstav.onrender.com/ch/594?key=000
 https://blacktulipstav.onrender.com/ch/595?key=000
 #EXTINF:-1 tvg-name="BOX Apocalypse HD" group-title="КиноЗал",BOX Apocalypse HD
 https://blacktulipstav.onrender.com/ch/596?key=000
-#EXTINF:-1 tvg-name="1-2-3.tv HD DE" group-title="Германия",1-2-3.tv HD DE
-https://blacktulipstav.onrender.com/ch/621?key=000
 #EXTINF:-1 tvg-name="ARD Alpha DE" group-title="Германия",ARD Alpha DE
 https://blacktulipstav.onrender.com/ch/622?key=000
 #EXTINF:-1 tvg-name="Welt HD DE" group-title="Германия",Welt HD DE
@@ -4239,24 +4217,14 @@ https://blacktulipstav.onrender.com/ch/683?key=000
 https://blacktulipstav.onrender.com/ch/684?key=000
 #EXTINF:-1 tvg-name="GEO Television HD DE" group-title="Германия",GEO Television HD DE
 https://blacktulipstav.onrender.com/ch/685?key=000
-#EXTINF:-1 tvg-name="National Geographic Wild HD DE" group-title="Германия",National Geographic Wild HD DE
-https://blacktulipstav.onrender.com/ch/686?key=000
 #EXTINF:-1 tvg-name="DELUXE MUSIC HD DE" group-title="Германия",DELUXE MUSIC HD DE
 https://blacktulipstav.onrender.com/ch/687?key=000
-#EXTINF:-1 tvg-name="ONE MUSIC TELEVISION HD DE" group-title="Германия",ONE MUSIC TELEVISION HD DE
-https://blacktulipstav.onrender.com/ch/688?key=000
-#EXTINF:-1 tvg-name="ZWEI MUSIC TELEVISION HD DE" group-title="Германия",ZWEI MUSIC TELEVISION HD DE
-https://blacktulipstav.onrender.com/ch/689?key=000
-#EXTINF:-1 tvg-name="FOLX MUSIC TELEVISION HD DE" group-title="Германия",FOLX MUSIC TELEVISION HD DE
-https://blacktulipstav.onrender.com/ch/690?key=000
 #EXTINF:-1 tvg-name="Stingray Classica HD DE" group-title="Германия",Stingray Classica HD DE
 https://blacktulipstav.onrender.com/ch/691?key=000
 #EXTINF:-1 tvg-name="Stingray iConcerts HD DE" group-title="Германия",Stingray iConcerts HD DE
 https://blacktulipstav.onrender.com/ch/692?key=000
 #EXTINF:-1 tvg-name="Stingray DJAZZ HD DE" group-title="Германия",Stingray DJAZZ HD DE
 https://blacktulipstav.onrender.com/ch/693?key=000
-#EXTINF:-1 tvg-name="DMF HD DE" group-title="Германия",DMF HD DE
-https://blacktulipstav.onrender.com/ch/694?key=000
 #EXTINF:-1 tvg-name="MTV HD DE" group-title="Германия",MTV HD DE
 https://blacktulipstav.onrender.com/ch/695?key=000
 #EXTINF:-1 tvg-name="Jukebox HD DE" group-title="Германия",Jukebox HD DE
@@ -4265,68 +4233,22 @@ https://blacktulipstav.onrender.com/ch/696?key=000
 https://blacktulipstav.onrender.com/ch/697?key=000
 #EXTINF:-1 tvg-name="K-TV HD DE" group-title="Германия",K-TV HD DE
 https://blacktulipstav.onrender.com/ch/698?key=000
-#EXTINF:-1 tvg-name="Volksmusik.TV HD DE" group-title="Германия",Volksmusik.TV HD DE
-https://blacktulipstav.onrender.com/ch/699?key=000
-#EXTINF:-1 tvg-name="Schlagerparadies.TV HD DE" group-title="Германия",Schlagerparadies.TV HD DE
-https://blacktulipstav.onrender.com/ch/700?key=000
 #EXTINF:-1 tvg-name="SCHLAGER DELUXE HD DE" group-title="Германия",SCHLAGER DELUXE HD DE
 https://blacktulipstav.onrender.com/ch/701?key=000
 #EXTINF:-1 tvg-name="Sky Cinema Action HD DE" group-title="Германия",Sky Cinema Action HD DE
 https://blacktulipstav.onrender.com/ch/702?key=000
 #EXTINF:-1 tvg-name="Sky Cinema Feelgood HD DE" group-title="Германия",Sky Cinema Feelgood HD DE
 https://blacktulipstav.onrender.com/ch/703?key=000
-#EXTINF:-1 tvg-name="Sky Cinema Premieren HD DE" group-title="Германия",Sky Cinema Premieren HD DE
-https://blacktulipstav.onrender.com/ch/704?key=000
-#EXTINF:-1 tvg-name="Sky Cinema Classics HD DE" group-title="Германия",Sky Cinema Classics HD DE
-https://blacktulipstav.onrender.com/ch/705?key=000
 #EXTINF:-1 tvg-name="Sky Cinema Blockbuster HD DE" group-title="Германия",Sky Cinema Blockbuster HD DE
 https://blacktulipstav.onrender.com/ch/706?key=000
 #EXTINF:-1 tvg-name="Sky Atlantic HD DE" group-title="Германия",Sky Atlantic HD DE
 https://blacktulipstav.onrender.com/ch/707?key=000
-#EXTINF:-1 tvg-name="Sky Sport News HD DE" group-title="Германия",Sky Sport News HD DE
-https://blacktulipstav.onrender.com/ch/708?key=000
 #EXTINF:-1 tvg-name="Sky Sport Mix HD DE" group-title="Германия",Sky Sport Mix HD DE
 https://blacktulipstav.onrender.com/ch/709?key=000
 #EXTINF:-1 tvg-name="Sky Sports F1 HD DE" group-title="Германия",Sky Sports F1 HD DE
 https://blacktulipstav.onrender.com/ch/710?key=000
 #EXTINF:-1 tvg-name="Sky Sport 1 HD DE" group-title="Германия",Sky Sport 1 HD DE
 https://blacktulipstav.onrender.com/ch/711?key=000
-#EXTINF:-1 tvg-name="Sky Sport 2 HD DE" group-title="Германия",Sky Sport 2 HD DE
-https://blacktulipstav.onrender.com/ch/712?key=000
-#EXTINF:-1 tvg-name="Sky Sport 4 HD DE" group-title="Германия",Sky Sport 4 HD DE
-https://blacktulipstav.onrender.com/ch/713?key=000
-#EXTINF:-1 tvg-name="Sky Sport 6 HD DE" group-title="Германия",Sky Sport 6 HD DE
-https://blacktulipstav.onrender.com/ch/714?key=000
-#EXTINF:-1 tvg-name="Sky Sport 7 HD DE" group-title="Германия",Sky Sport 7 HD DE
-https://blacktulipstav.onrender.com/ch/715?key=000
-#EXTINF:-1 tvg-name="Sky Sport 8 HD DE" group-title="Германия",Sky Sport 8 HD DE
-https://blacktulipstav.onrender.com/ch/716?key=000
-#EXTINF:-1 tvg-name="Sky Sport 9 HD DE" group-title="Германия",Sky Sport 9 HD DE
-https://blacktulipstav.onrender.com/ch/717?key=000
-#EXTINF:-1 tvg-name="Sky Sport 10 HD DE" group-title="Германия",Sky Sport 10 HD DE
-https://blacktulipstav.onrender.com/ch/718?key=000
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga HD DE" group-title="Германия",Sky Sport Bundesliga HD DE
-https://blacktulipstav.onrender.com/ch/719?key=000
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD DE" group-title="Германия",Sky Sport Bundesliga 1 HD DE
-https://blacktulipstav.onrender.com/ch/720?key=000
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 2 HD DE" group-title="Германия",Sky Sport Bundesliga 2 HD DE
-https://blacktulipstav.onrender.com/ch/721?key=000
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 3 HD DE" group-title="Германия",Sky Sport Bundesliga 3 HD DE
-https://blacktulipstav.onrender.com/ch/722?key=000
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 4 HD DE" group-title="Германия",Sky Sport Bundesliga 4 HD DE
-https://blacktulipstav.onrender.com/ch/723?key=000
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 5 HD DE" group-title="Германия",Sky Sport Bundesliga 5 HD DE
-https://blacktulipstav.onrender.com/ch/724?key=000
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 6 HD DE" group-title="Германия",Sky Sport Bundesliga 6 HD DE
-https://blacktulipstav.onrender.com/ch/725?key=000
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 7 HD DE" group-title="Германия",Sky Sport Bundesliga 7 HD DE
-https://blacktulipstav.onrender.com/ch/726?key=000
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 8 HD DE" group-title="Германия",Sky Sport Bundesliga 8 HD DE
-https://blacktulipstav.onrender.com/ch/727?key=000
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 9 HD DE" group-title="Германия",Sky Sport Bundesliga 9 HD DE
-https://blacktulipstav.onrender.com/ch/728?key=000
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 10 HD DE" group-title="Германия",Sky Sport Bundesliga 10 HD DE
-https://blacktulipstav.onrender.com/ch/729?key=000
 #EXTINF:-1 tvg-name="Sport 1 HD DE" group-title="Германия",Sport 1 HD DE
 https://blacktulipstav.onrender.com/ch/730?key=000
 #EXTINF:-1 tvg-name="DF1 HD DE" group-title="Германия",DF1 HD DE
@@ -4341,22 +4263,16 @@ https://blacktulipstav.onrender.com/ch/734?key=000
 https://blacktulipstav.onrender.com/ch/735?key=000
 #EXTINF:-1 tvg-name="SPORTDIGITAL FUSSBALL HD DE" group-title="Германия",SPORTDIGITAL FUSSBALL HD DE
 https://blacktulipstav.onrender.com/ch/736?key=000
-#EXTINF:-1 tvg-name="Red Bull TV Motorsport HD DE" group-title="Германия",Red Bull TV Motorsport HD DE
-https://blacktulipstav.onrender.com/ch/737?key=000
 #EXTINF:-1 tvg-name="ЗВЕЗДА Плюс HD" group-title=""Кино.HD"",ЗВЕЗДА Плюс HD
 https://blacktulipstav.onrender.com/ch/740?key=000
 #EXTINF:-1 tvg-name="Театр" group-title="Россия",Театр
 https://blacktulipstav.onrender.com/ch/741?key=000
-#EXTINF:-1 tvg-name="E! HD IL" group-title="Россия",E! HD IL
-https://blacktulipstav.onrender.com/ch/742?key=000
 #EXTINF:-1 tvg-name="ТБН" group-title="Познаю.Tв",ТБН
 https://blacktulipstav.onrender.com/ch/743?key=000
 #EXTINF:-1 tvg-name="Совершенно Секретно" group-title="Россия",Совершенно Секретно
 https://blacktulipstav.onrender.com/ch/744?key=000
 #EXTINF:-1 tvg-name="Тайны Галактики" group-title="Познаю.Tв",Тайны Галактики
 https://blacktulipstav.onrender.com/ch/745?key=000
-#EXTINF:-1 tvg-name="CNN US" group-title="Россия",CNN US
-https://blacktulipstav.onrender.com/ch/746?key=000
 #EXTINF:-1 tvg-name="Fashion&Style 4K" group-title="Россия",Fashion&Style 4K
 https://blacktulipstav.onrender.com/ch/747?key=000
 #EXTINF:-1 tvg-name="ИНСАЙТ ТВ UHD" group-title="Россия",ИНСАЙТ ТВ UHD
