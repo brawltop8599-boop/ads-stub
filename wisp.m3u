@@ -3543,7 +3543,7 @@ http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/713/stream.m3u8
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/84/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="890" tvg-name="HGTV HD" tvg-logo="https://tvgram.xyz/img/channel/890.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/890/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",HGTV HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/890/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="80" tvg-name="Discovery CEE HD" tvg-logo="https://tvgram.xyz/img/channel/80.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/80/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Discovery CEE HD
+#EXTINF:-1 group-title="АрхивТв" tvg-id="80" tvg-name="Discovery CEE HD" tvg-logo="https://tvgram.xyz/img/channel/80.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/80/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Discovery
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/80/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="247" tvg-name="365 Дней" tvg-logo="https://tvgram.xyz/img/channel/247.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/247/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",365 Дней
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/247/stream.m3u8
@@ -3587,15 +3587,15 @@ http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2051/stream.m3u8
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/14/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="268" tvg-name="Дождь HD" tvg-logo="https://tvgram.xyz/img/channel/268.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/268/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Дождь HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/268/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="172" tvg-name="Eurosport 1 CEE НD" tvg-logo="https://tvgram.xyz/img/channel/172.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/172/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Eurosport 1 CEE НD
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/172.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/172/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Eurosport 1 НD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/172/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="173" tvg-name="Eurosport 2 CEE HD" tvg-logo="https://tvgram.xyz/img/channel/173.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/173/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Eurosport 2 CEE HD
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/173.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/173/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Eurosport 2 HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/173/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="181" tvg-name="Setanta Sports 1 HD" tvg-logo="https://tvgram.xyz/img/channel/181.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/181/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Setanta Sports 1 HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/181/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="182" tvg-name="Setanta Sports 2 HD" tvg-logo="https://tvgram.xyz/img/channel/182.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/182/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Setanta Sports 2 HD
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/182.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/182/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Setanta Sports 2 HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/182/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="186" tvg-name="Setanta Sports HD (UA)" tvg-logo="https://tvgram.xyz/img/channel/186.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/186/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Setanta Sports HD (UA)
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/186.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/186/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Setanta Sports HD 
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/186/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="264" tvg-name="Матч Премьер HD" tvg-logo="https://tvgram.xyz/img/channel/264.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/264/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Матч Премьер HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/264/stream.m3u8
@@ -3647,101 +3647,54 @@ http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/25/stream.m3u8
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/33/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/1291.png",Кино UHD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1291/stream.m3u8
-
-#EXTINF:-1 group-title="АрхивТв" tvg-id="150" tvg-name=".black" tvg-logo="https://tvgram.xyz/img/channel/150.png",.black
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1894" tvg-name=".red" tvg-logo="https://tvgram.xyz/img/channel/1894.png",.red
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1894/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="152" tvg-name=".sci-fi" tvg-logo="https://tvgram.xyz/img/channel/152.png",.sci-fi
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/152/stream.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="493" tvg-name="1+1 Марафон HD" tvg-logo="https://tvgram.xyz/img/channel/493.png",1+1 Марафон HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/493/stream.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="49" tvg-name="1+1 Украна HD (UA)" tvg-logo="https://tvgram.xyz/img/channel/49.png",1+1 Украна HD (UA)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/49/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="403" tvg-name="1HD Music" tvg-logo="https://tvgram.xyz/img/channel/403.png",1HD Music
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/403/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1553" tvg-name="21 TV (AM)" tvg-logo="https://tvgram.xyz/img/channel/1553.png",21 TV (AM)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1553/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1539" tvg-name="2x2 (+2)" tvg-logo="https://tvgram.xyz/img/channel/1539.png",2x2 (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1539/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="1078" tvg-name="2x2 (+4)" tvg-logo="https://tvgram.xyz/img/channel/1078.png",2x2 (+4)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1078/stream.m3u8
-
-#EXTINF:-1 group-title="АрхивТв" tvg-id="468" tvg-name="5TV (AM)" tvg-logo="https://tvgram.xyz/img/channel/468.png",5TV (AM)
-
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/468.png",5TV (AM)
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/468/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="968" tvg-name="7 TV" tvg-logo="https://tvgram.xyz/img/channel/968.png",7 TV
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/968/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="141" tvg-name="A1" tvg-logo="https://tvgram.xyz/img/channel/141.png",A1
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/141/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="423" tvg-name="A2" tvg-logo="https://tvgram.xyz/img/channel/423.png",A2
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/423/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="2948" tvg-name="Ale Kino!+ (PL)" tvg-logo="https://tvgram.xyz/img/channel/2948.png",Ale Kino!+ (PL)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2948/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="710" tvg-name="Amedia Hit" tvg-logo="https://tvgram.xyz/img/channel/710.png",Amedia Hit
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/710/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="140" tvg-name="Amedia Premium HD" tvg-logo="https://tvgram.xyz/img/channel/140.png",Amedia Premium HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/140/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="202" tvg-name="Ani" tvg-logo="https://tvgram.xyz/img/channel/202.png",Ani
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/202/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="96" tvg-name="Animal Planet CEE HD" tvg-logo="https://tvgram.xyz/img/channel/96.png",Animal Planet CEE HD
-
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/96.png",Animal Planet HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/96/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="1052" tvg-name="Armenia Premium HD (AM)" tvg-logo="https://tvgram.xyz/img/channel/1052.png",Armenia Premium HD (AM)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1052/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="2661" tvg-name="Armenia TV HD (AM)" tvg-logo="https://tvgram.xyz/img/channel/2661.png",Armenia TV HD (AM)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2661/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="224" tvg-name="BBC World News" tvg-logo="https://tvgram.xyz/img/channel/224.png",BBC World News
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/224/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1988" tvg-name="Big Planet" tvg-logo="https://tvgram.xyz/img/channel/1988.png",Big Planet
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1988/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="683" tvg-name="Bollywood HD" tvg-logo="https://tvgram.xyz/img/channel/683.png",Bollywood HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/683/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="207" tvg-name="Bridge TV" tvg-logo="https://tvgram.xyz/img/channel/207.png",Bridge TV
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/207/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="206" tvg-name="Bridge TV Classic" tvg-logo="https://tvgram.xyz/img/channel/206.png",Bridge TV Classic
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/206/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="205" tvg-name="Bridge TV Delux HD" tvg-logo="https://tvgram.xyz/img/channel/205.png",Bridge TV Delux HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/205/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="208" tvg-name="Bridge TV Hits" tvg-logo="https://tvgram.xyz/img/channel/208.png",Bridge TV Hits
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/208/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="209" tvg-name="Bridge TV Русский хит" tvg-logo="https://tvgram.xyz/img/channel/209.png",Bridge TV Русский хит
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/209/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1901" tvg-name="Bridge TV Фрэш" tvg-logo="https://tvgram.xyz/img/channel/1901.png",Bridge TV Фрэш
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1901/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1100" tvg-name="Bridge TV Шлягер" tvg-logo="https://tvgram.xyz/img/channel/1100.png",Bridge TV Шлягер
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1100/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="2067" tvg-name="Canal+ Sport 2 HD (PL)" tvg-logo="https://tvgram.xyz/img/channel/2067.png",Canal+ Sport 2 HD (PL)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2067/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="706" tvg-name="Cartoonito" tvg-logo="https://tvgram.xyz/img/channel/706.png",Cartoonito
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/706/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="2165" tvg-name="Curiosity Stream HD" tvg-logo="https://tvgram.xyz/img/channel/2165.png",Curiosity Stream HD
@@ -3750,383 +3703,206 @@ http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2165/stream.m3u8
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/101/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="210" tvg-name="Europa Plus TV" tvg-logo="https://tvgram.xyz/img/channel/210.png",Europa Plus TV
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/210/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="1677" tvg-name="Eurosport 1 HD (DE)" tvg-logo="https://tvgram.xyz/img/channel/1677.png",Eurosport 1 HD (DE)
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1677/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="180" tvg-name="Extreme Sports" tvg-logo="https://tvgram.xyz/img/channel/180.png",Extreme Sports
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/180/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="2158" tvg-name="FAMILY JAM HD" tvg-logo="https://tvgram.xyz/img/channel/2158.png",FAMILY JAM HD
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/2158.png",FAMILY JAM HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2158/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="547" tvg-name="FAN HD" tvg-logo="https://tvgram.xyz/img/channel/547.png",FAN HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/547/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="694" tvg-name="FlixSnip" tvg-logo="https://tvgram.xyz/img/channel/694.png",FlixSnip
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/694/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="121" tvg-name="Food Network HD" tvg-logo="https://tvgram.xyz/img/channel/121.png",Food Network HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/121/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="120" tvg-name="FoodTime HD" tvg-logo="https://tvgram.xyz/img/channel/120.png",FoodTime HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/120/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="534" tvg-name="FX HD" tvg-logo="https://tvgram.xyz/img/channel/534.png",FX HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/534/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="535" tvg-name="FX Life HD" tvg-logo="https://tvgram.xyz/img/channel/535.png",FX Life HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/535/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1054" tvg-name="Galaxy TV" tvg-logo="https://tvgram.xyz/img/channel/1054.png",Galaxy TV
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1054/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="2958" tvg-name="GDS TV (GE)" tvg-logo="https://tvgram.xyz/img/channel/2958.png",GDS TV (GE)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2958/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="201" tvg-name="Gulli Girl" tvg-logo="https://tvgram.xyz/img/channel/201.png",Gulli Girl
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/201/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="594" tvg-name="H1 HD (AM)" tvg-logo="https://tvgram.xyz/img/channel/594.png",H1 HD (AM)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/594/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="85" tvg-name="H1 News HD (AM)" tvg-logo="https://tvgram.xyz/img/channel/85.png",H1 News HD (AM)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/85/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="2642" tvg-name="H2 AM HD" tvg-logo="https://tvgram.xyz/img/channel/2642.png",H2 AM HD
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2642/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="249" tvg-name="HDL HD" tvg-logo="https://tvgram.xyz/img/channel/249.png",HDL HD
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/249/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1121" tvg-name="History 2 HD" tvg-logo="https://tvgram.xyz/img/channel/1121.png",History 2 HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1121/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="163" tvg-name="Hollywood HD" tvg-logo="https://tvgram.xyz/img/channel/163.png",Hollywood HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/163/stream.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="45" tvg-name="ICTV HD (UA)" tvg-logo="https://tvgram.xyz/img/channel/45.png",ICTV HD (UA)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/45/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="266" tvg-name="KHL" tvg-logo="https://tvgram.xyz/img/channel/266.png",KHL
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/266/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="267" tvg-name="KHL Prime HD" tvg-logo="https://tvgram.xyz/img/channel/267.png",KHL Prime HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/267/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1973" tvg-name="KinoJAM 1 HD" tvg-logo="https://tvgram.xyz/img/channel/1973.png",KinoJAM 1 HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1973/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1974" tvg-name="Kinojam 2 HD" tvg-logo="https://tvgram.xyz/img/channel/1974.png",Kinojam 2 HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1974/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="474" tvg-name="Kronehit HD" tvg-logo="https://tvgram.xyz/img/channel/474.png",Kronehit HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/474/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="670" tvg-name="MCM Top Russia" tvg-logo="https://tvgram.xyz/img/channel/670.png",MCM Top Russia
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/670/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="2536" tvg-name="Megogo Спорт HD (UA)" tvg-logo="https://tvgram.xyz/img/channel/2536.png",Megogo Спорт HD (UA)
-
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/2536.png",Megogo Спорт HD 
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2536/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="518" tvg-name="MMA" tvg-logo="https://tvgram.xyz/img/channel/518.png",MMA
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/518/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="198" tvg-name="Nick Jr" tvg-logo="https://tvgram.xyz/img/channel/198.png",Nick Jr
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/198/stream.m3u8
-
-#EXTINF:-1 group-title="АрхивТв" tvg-id="2965" tvg-name="NIKI Junior HD (UA)" tvg-logo="https://tvgram.xyz/img/channel/2965.png",NIKI Junior HD (UA)
-
+#EXTINF:-1 group-title="АрхивТв" tvg-id="2965" tvg-name="NIKI Junior HD (UA)" tvg-logo="https://tvgram.xyz/img/channel/2965.png",NIKI Junior HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2965/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="598" tvg-name="Ocko Expres (CZ)" tvg-logo="https://tvgram.xyz/img/channel/598.png",Ocko Expres (CZ)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/598/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="599" tvg-name="Ocko Star (CZ)" tvg-logo="https://tvgram.xyz/img/channel/599.png",Ocko Star (CZ)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/599/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="579" tvg-name="Ocko TV (CZ)" tvg-logo="https://tvgram.xyz/img/channel/579.png",Ocko TV (CZ)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/579/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="178" tvg-name="Qazsport HD" tvg-logo="https://tvgram.xyz/img/channel/178.png",Qazsport HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/178/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="346" tvg-name="RTG HD" tvg-logo="https://tvgram.xyz/img/channel/346.png",RTG HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/346/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="26" tvg-name="RTVI" tvg-logo="https://tvgram.xyz/img/channel/26.png",RTVI
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/26/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="217" tvg-name="RU.TV" tvg-logo="https://tvgram.xyz/img/channel/217.png",RU.TV
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/217/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="2166" tvg-name="Scream" tvg-logo="https://tvgram.xyz/img/channel/2166.png",Scream
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2166/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="1897" tvg-name="Setanta Qazaqstan HD (KZ)" tvg-logo="https://tvgram.xyz/img/channel/1897.png",Setanta Qazaqstan HD (KZ)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1897/stream.m3u8
-
-#EXTINF:-1 group-title="АрхивТв" tvg-id="2857" tvg-name="Setanta Sports 1 Lietuva HD (LV)" tvg-logo="https://tvgram.xyz/img/channel/2857.png",Setanta Sports 1 Lietuva HD (LV)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2857/stream.m3u8
-
-#EXTINF:-1 group-title="АрхивТв" tvg-id="2868" tvg-name="Setanta Sports 2 Lietuva HD (LV)" tvg-logo="https://tvgram.xyz/img/channel/2868.png",Setanta Sports 2 Lietuva HD (LV)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2868/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="2891" tvg-name="Setanta Sports 3 HD (GE)" tvg-logo="https://tvgram.xyz/img/channel/2891.png",Setanta Sports 3 HD (GE)
-
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/2891.png",Setanta Sports 3 HD 
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2891/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="1898" tvg-name="Setanta Sports HD (MD)" tvg-logo="https://tvgram.xyz/img/channel/1898.png",Setanta Sports HD (MD)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1898/stream.m3u8
-
-#EXTINF:-1 group-title="АрхивТв" tvg-id="187" tvg-name="Setanta Sports+ HD (UA)" tvg-logo="https://tvgram.xyz/img/channel/187.png",Setanta Sports+ HD (UA)
-
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/187.png",Setanta Sports+ HD 
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/187/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="650" tvg-name="Shant Kids HD (AM)" tvg-logo="https://tvgram.xyz/img/channel/650.png",Shant Kids HD (AM)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/650/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="1062" tvg-name="Shant Premium HD (AM)" tvg-logo="https://tvgram.xyz/img/channel/1062.png",Shant Premium HD (AM)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1062/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="1426" tvg-name="Shant Serial HD (AM)" tvg-logo="https://tvgram.xyz/img/channel/1426.png",Shant Serial HD (AM)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1426/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="715" tvg-name="Shot" tvg-logo="https://tvgram.xyz/img/channel/715.png",Shot
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/715/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="329" tvg-name="SKY folk TV" tvg-logo="https://tvgram.xyz/img/channel/329.png",SKY folk TV
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/329/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1305" tvg-name="Star Family HD" tvg-logo="https://tvgram.xyz/img/channel/1305.png",Star Family HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1305/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="2036" tvg-name="START Air" tvg-logo="https://tvgram.xyz/img/channel/2036.png",START Air
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2036/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1975" tvg-name="START World" tvg-logo="https://tvgram.xyz/img/channel/1975.png",START World
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1975/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1999" tvg-name="Terra HD" tvg-logo="https://tvgram.xyz/img/channel/1999.png",Terra HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1999/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="193" tvg-name="TiJi Россия" tvg-logo="https://tvgram.xyz/img/channel/193.png",TiJi Россия
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/193/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="110" tvg-name="Travel + adventure HD" tvg-logo="https://tvgram.xyz/img/channel/110.png",Travel + adventure HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/110/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="109" tvg-name="Travel Channel HD" tvg-logo="https://tvgram.xyz/img/channel/109.png",Travel Channel HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/109/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="103" tvg-name="Viasat Nature-History HD" tvg-logo="https://tvgram.xyz/img/channel/103.png",Viasat Nature-History HD
-
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/103.png",Viju Nature
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/103/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1193" tvg-name="Viasat Sport HD" tvg-logo="https://tvgram.xyz/img/channel/1193.png",Viasat Sport HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1193/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="138" tvg-name="ViP Serial HD" tvg-logo="https://tvgram.xyz/img/channel/138.png",ViP Serial HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/138/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="122" tvg-name="Авто 24" tvg-logo="https://tvgram.xyz/img/channel/122.png",Авто 24
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/122/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="123" tvg-name="Авто плюс" tvg-logo="https://tvgram.xyz/img/channel/123.png",Авто плюс
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/123/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="294" tvg-name="Архыз 24 HD (Черкесск)" tvg-logo="https://tvgram.xyz/img/channel/294.png",Архыз 24 HD (Черкесск)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/294/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="177" tvg-name="Беларусь 5 HD" tvg-logo="https://tvgram.xyz/img/channel/177.png",Беларусь 5 HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/177/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="433" tvg-name="Бобёр" tvg-logo="https://tvgram.xyz/img/channel/433.png",Бобёр
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/433/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="183" tvg-name="Бокс ТВ" tvg-logo="https://tvgram.xyz/img/channel/183.png",Бокс ТВ
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/183/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="1478" tvg-name="БСТ 24 HD (Братск)" tvg-logo="https://tvgram.xyz/img/channel/1478.png",БСТ 24 HD (Братск)
-
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/1478.png",БСТ 24 HD 
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1478/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="199" tvg-name="В гостях у сказки" tvg-logo="https://tvgram.xyz/img/channel/199.png",В гостях у сказки
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/199/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="97" tvg-name="В мире животных HD" tvg-logo="https://tvgram.xyz/img/channel/97.png",В мире животных HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/97/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="828" tvg-name="Ветта 24 (Пермь)" tvg-logo="https://tvgram.xyz/img/channel/828.png",Ветта 24 (Пермь)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/828/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="1226" tvg-name="Витрина ТВ" tvg-logo="https://tvgram.xyz/img/channel/1226.png",Витрина ТВ
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1226/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="39" tvg-name="Вопросы и ответы" tvg-logo="https://tvgram.xyz/img/channel/39.png",Вопросы и ответы
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/39/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1977" tvg-name="Время Далекое и Близкое" tvg-logo="https://tvgram.xyz/img/channel/1977.png",Время Далекое и Близкое
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1977/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1123" tvg-name="Глазами туриста HD" tvg-logo="https://tvgram.xyz/img/channel/1123.png",Глазами туриста HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1123/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1271" tvg-name="ГТРК Краснодар" tvg-logo="https://tvgram.xyz/img/channel/1271.png",ГТРК Краснодар
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1271/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="627" tvg-name="Губерния (Хабаровск)" tvg-logo="https://tvgram.xyz/img/channel/627.png",Губерния (Хабаровск)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/627/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="2157" tvg-name="ДЕТЕКТИВ JAM HD" tvg-logo="https://tvgram.xyz/img/channel/2157.png",ДЕТЕКТИВ JAM HD
-
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/2157.png",ДЕТЕКТИВ JAM HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2157/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="684" tvg-name="Детский мир" tvg-logo="https://tvgram.xyz/img/channel/684.png",Детский мир
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/684/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="114" tvg-name="Диалоги о рыбалке" tvg-logo="https://tvgram.xyz/img/channel/114.png",Диалоги о рыбалке
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/114/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="115" tvg-name="Дикая охота HD" tvg-logo="https://tvgram.xyz/img/channel/115.png",Дикая охота HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/115/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="116" tvg-name="Дикая рыбалка HD" tvg-logo="https://tvgram.xyz/img/channel/116.png",Дикая рыбалка HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/116/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="717" tvg-name="Дикий" tvg-logo="https://tvgram.xyz/img/channel/717.png",Дикий
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/717/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="100" tvg-name="Доктор" tvg-logo="https://tvgram.xyz/img/channel/100.png",Доктор
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/100/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="660" tvg-name="Домашние животные" tvg-logo="https://tvgram.xyz/img/channel/660.png",Домашние животные
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/660/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1493" tvg-name="Домашний (+2)" tvg-logo="https://tvgram.xyz/img/channel/1493.png",Домашний (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1493/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1001" tvg-name="Домашний (+4)" tvg-logo="https://tvgram.xyz/img/channel/1001.png",Домашний (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1001/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1538" tvg-name="Домашний (+7)" tvg-logo="https://tvgram.xyz/img/channel/1538.png",Домашний (+7)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1538/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="750" tvg-name="Дорама" tvg-logo="https://tvgram.xyz/img/channel/750.png",Дорама
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/750/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="691" tvg-name="ЕвроКино" tvg-logo="https://tvgram.xyz/img/channel/691.png",ЕвроКино
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/691/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="716" tvg-name="Жара TV" tvg-logo="https://tvgram.xyz/img/channel/716.png",Жара TV
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/716/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="119" tvg-name="Живая Планета" tvg-logo="https://tvgram.xyz/img/channel/119.png",Живая Планета
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/119/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="736" tvg-name="Звезда (+2)" tvg-logo="https://tvgram.xyz/img/channel/736.png",Звезда (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/736/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1541" tvg-name="Звезда (+4)" tvg-logo="https://tvgram.xyz/img/channel/1541.png",Звезда (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1541/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1542" tvg-name="Звезда (+7)" tvg-logo="https://tvgram.xyz/img/channel/1542.png",Звезда (+7)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1542/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1784" tvg-name="ЗВЕЗДА Плюс" tvg-logo="https://tvgram.xyz/img/channel/1784.png",ЗВЕЗДА Плюс
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1784/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="686" tvg-name="Известия" tvg-logo="https://tvgram.xyz/img/channel/686.png",Известия
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/686/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="693" tvg-name="Иллюзион +" tvg-logo="https://tvgram.xyz/img/channel/693.png",Иллюзион +
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/693/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="256" tvg-name="Индийское кино" tvg-logo="https://tvgram.xyz/img/channel/256.png",Индийское кино
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/256/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="105" tvg-name="История" tvg-logo="https://tvgram.xyz/img/channel/105.png",История
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/105/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="732" tvg-name="Карусель (+2)" tvg-logo="https://tvgram.xyz/img/channel/732.png",Карусель (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/732/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1499" tvg-name="Карусель (+4)" tvg-logo="https://tvgram.xyz/img/channel/1499.png",Карусель (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1499/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1500" tvg-name="Карусель (+7)" tvg-logo="https://tvgram.xyz/img/channel/1500.png",Карусель (+7)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1500/stream.m3u8
-
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1563" tvg-name="КиноСат" tvg-logo="https://tvgram.xyz/img/channel/1563.png",КиноСат
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1563/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="250" tvg-name="Киносемья" tvg-logo="https://tvgram.xyz/img/channel/250.png",Киносемья
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/250/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="431" tvg-name="Киносерия" tvg-logo="https://tvgram.xyz/img/channel/431.png",Киносерия
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/431/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="286" tvg-name="Киноужас HD" tvg-logo="https://tvgram.xyz/img/channel/286.png",Киноужас HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/286/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="139" tvg-name="Комедийное HD" tvg-logo="https://tvgram.xyz/img/channel/139.png",Комедийное HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/139/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="370" tvg-name="Красная линия" tvg-logo="https://tvgram.xyz/img/channel/370.png",Красная линия
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/370/stream.m3u8
-
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="248" tvg-name="Кухня ТВ" tvg-logo="https://tvgram.xyz/img/channel/248.png",Кухня ТВ
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/248/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="489" tvg-name="Любимое кино" tvg-logo="https://tvgram.xyz/img/channel/489.png",Любимое кино
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/489/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="220" tvg-name="Ля-минор" tvg-logo="https://tvgram.xyz/img/channel/220.png",Ля-минор
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/220/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="99" tvg-name="Мама" tvg-logo="https://tvgram.xyz/img/channel/99.png",Мама
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/99/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1887" tvg-name="МАТЧ! БОЕЦ HD" tvg-logo="https://tvgram.xyz/img/channel/1887.png",МАТЧ! БОЕЦ HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1887/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="258" tvg-name="Матч! Игра HD" tvg-logo="https://tvgram.xyz/img/channel/258.png",Матч! Игра HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/258/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1188" tvg-name="Матч! Планета" tvg-logo="https://tvgram.xyz/img/channel/1188.png",Матч! Планета
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1188/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1903" tvg-name="Матч! Страна HD" tvg-logo="https://tvgram.xyz/img/channel/1903.png",Матч! Страна HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1903/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="18" tvg-name="Мир" tvg-logo="https://tvgram.xyz/img/channel/18.png",Мир
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/18/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="352" tvg-name="Мир (+4)" tvg-logo="https://tvgram.xyz/img/channel/352.png",Мир (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/352/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="353" tvg-name="Мир (+7)" tvg-logo="https://tvgram.xyz/img/channel/353.png",Мир (+7)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/353/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="288" tvg-name="Мир 24 HD" tvg-logo="https://tvgram.xyz/img/channel/288.png",Мир 24 HD
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/288/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="652" tvg-name="Мир Баскетбола" tvg-logo="https://tvgram.xyz/img/channel/652.png",Мир Баскетбола
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/652/stream.m3u8
-
-#EXTINF:-1 group-title="АрхивТв" tvg-id="226" tvg-name="Москва 24" tvg-logo="https://tvgram.xyz/img/channel/226.png",Москва 24
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/226/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="106" tvg-name="Моя планета" tvg-logo="https://tvgram.xyz/img/channel/106.png",Моя планета
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/106/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="411" tvg-name="МТВ (Волгоград) HD" tvg-logo="https://tvgram.xyz/img/channel/411.png",МТВ (Волгоград) HD
@@ -4134,204 +3910,120 @@ http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/411/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1545" tvg-name="Муз ТВ (+2)" tvg-logo="https://tvgram.xyz/img/channel/1545.png",Муз ТВ (+2)
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1545/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1546" tvg-name="Муз ТВ (+4)" tvg-logo="https://tvgram.xyz/img/channel/1546.png",Муз ТВ (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1546/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1547" tvg-name="Муз ТВ (+7)" tvg-logo="https://tvgram.xyz/img/channel/1547.png",Муз ТВ (+7)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1547/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="214" tvg-name="Музыка Первого" tvg-logo="https://tvgram.xyz/img/channel/214.png",Музыка Первого
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/214/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="195" tvg-name="Мульт и музыка" tvg-logo="https://tvgram.xyz/img/channel/195.png",Мульт и музыка
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/195/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="491" tvg-name="Надежда ТВ HD" tvg-logo="https://tvgram.xyz/img/channel/491.png",Надежда ТВ HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/491/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="437" tvg-name="Настоящее Время HD" tvg-logo="https://tvgram.xyz/img/channel/437.png",Настоящее Время HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/437/stream.m3u8
-
 #EXTINF:-1 group-title="Украина" tvg-id="46" tvg-name="Новый канал HD (UA)" tvg-logo="https://tvgram.xyz/img/channel/46.png",Новый канал HD (UA)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/46/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="739" tvg-name="НТВ Стиль" tvg-logo="https://tvgram.xyz/img/channel/739.png",НТВ Стиль
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/739/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="2052" tvg-name="ОТР HD" tvg-logo="https://tvgram.xyz/img/channel/2052.png",ОТР HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2052/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="112" tvg-name="Охота и рыбалка" tvg-logo="https://tvgram.xyz/img/channel/112.png",Охота и рыбалка
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/112/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="113" tvg-name="Охотник и рыболов HD" tvg-logo="https://tvgram.xyz/img/channel/113.png",Охотник и рыболов HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/113/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="321" tvg-name="ПАНОРАМА ТВ HD" tvg-logo="https://tvgram.xyz/img/channel/321.png",ПАНОРАМА ТВ HD
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/321/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="128" tvg-name="Премиальное HD" tvg-logo="https://tvgram.xyz/img/channel/128.png",Премиальное HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/128/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1370" tvg-name="Про Любовь HD" tvg-logo="https://tvgram.xyz/img/channel/1370.png",Про Любовь HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1370/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1506" tvg-name="Пятница! (+2)" tvg-logo="https://tvgram.xyz/img/channel/1506.png",Пятница! (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1506/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1507" tvg-name="Пятница! (+4)" tvg-logo="https://tvgram.xyz/img/channel/1507.png",Пятница! (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1507/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1593" tvg-name="Пятница! (+7)" tvg-logo="https://tvgram.xyz/img/channel/1593.png",Пятница! (+7)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1593/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1594" tvg-name="Пятый канал (+4)" tvg-logo="https://tvgram.xyz/img/channel/1594.png",Пятый канал (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1594/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1595" tvg-name="Пятый канал (+7)" tvg-logo="https://tvgram.xyz/img/channel/1595.png",Пятый канал (+7)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1595/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="338" tvg-name="Радио Шансон HD" tvg-logo="https://tvgram.xyz/img/channel/338.png",Радио Шансон HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/338/stream.m3u8
-
-#EXTINF:-1 group-title="АрхивТв" tvg-id="335" tvg-name="Регион 29 HD (Архангельск)" tvg-logo="https://tvgram.xyz/img/channel/335.png",Регион 29 HD (Архангельск)
-
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/335/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1397" tvg-name="Романтичное HD" tvg-logo="https://tvgram.xyz/img/channel/1397.png",Романтичное HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1397/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1578" tvg-name="Россия К (+2)" tvg-logo="https://tvgram.xyz/img/channel/1578.png",Россия К (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1578/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1579" tvg-name="Россия К (+4)" tvg-logo="https://tvgram.xyz/img/channel/1579.png",Россия К (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1579/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1580" tvg-name="Россия К (+7)" tvg-logo="https://tvgram.xyz/img/channel/1580.png",Россия К (+7)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1580/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="2050" tvg-name="Россия К HD" tvg-logo="https://tvgram.xyz/img/channel/2050.png",Россия К HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2050/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="144" tvg-name="Русский иллюзион" tvg-logo="https://tvgram.xyz/img/channel/144.png",Русский иллюзион
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/144/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="941" tvg-name="С1 (Сургут)" tvg-logo="https://tvgram.xyz/img/channel/941.png",С1 (Сургут)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/941/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="480" tvg-name="Санкт-Петербург" tvg-logo="https://tvgram.xyz/img/channel/480.png",Санкт-Петербург
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/480/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="2013" tvg-name="Сапфир HD" tvg-logo="https://tvgram.xyz/img/channel/2013.png",Сапфир HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2013/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="679" tvg-name="Совершенно секретно" tvg-logo="https://tvgram.xyz/img/channel/679.png",Совершенно секретно
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/679/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="276" tvg-name="Союз" tvg-logo="https://tvgram.xyz/img/channel/276.png",Союз
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/276/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="2116" tvg-name="Спортивный HD" tvg-logo="https://tvgram.xyz/img/channel/2116.png",Спортивный HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2116/stream.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="47" tvg-name="СТБ HD (UA)" tvg-logo="https://tvgram.xyz/img/channel/47.png",СТБ HD (UA)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/47/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1510" tvg-name="СТС (+2)" tvg-logo="https://tvgram.xyz/img/channel/1510.png",СТС (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1510/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1511" tvg-name="СТС (+4)" tvg-logo="https://tvgram.xyz/img/channel/1511.png",СТС (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1511/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1512" tvg-name="СТС (+7)" tvg-logo="https://tvgram.xyz/img/channel/1512.png",СТС (+7)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1512/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="682" tvg-name="СТС Kids HD" tvg-logo="https://tvgram.xyz/img/channel/682.png",СТС Kids HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/682/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="23" tvg-name="СТС Love" tvg-logo="https://tvgram.xyz/img/channel/23.png",СТС Love
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/23/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1581" tvg-name="СТС Love (+2)" tvg-logo="https://tvgram.xyz/img/channel/1581.png",СТС Love (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1581/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1583" tvg-name="Суббота! (+2)" tvg-logo="https://tvgram.xyz/img/channel/1583.png",Суббота! (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1583/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1584" tvg-name="Суббота! (+7)" tvg-logo="https://tvgram.xyz/img/channel/1584.png",Суббота! (+7)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1584/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="966" tvg-name="Сургут 86" tvg-logo="https://tvgram.xyz/img/channel/966.png",Сургут 86
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/966/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="2418" tvg-name="ТВ 21" tvg-logo="https://tvgram.xyz/img/channel/2418.png",ТВ 21
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2418/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1513" tvg-name="ТВ3 (+2)" tvg-logo="https://tvgram.xyz/img/channel/1513.png",ТВ3 (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1513/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1514" tvg-name="ТВ3 (+4)" tvg-logo="https://tvgram.xyz/img/channel/1514.png",ТВ3 (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1514/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1515" tvg-name="ТВ3 (+7)" tvg-logo="https://tvgram.xyz/img/channel/1515.png",ТВ3 (+7)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1515/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1156" tvg-name="ТВОЁ ТВ HD" tvg-logo="https://tvgram.xyz/img/channel/1156.png",ТВОЁ ТВ HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1156/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1585" tvg-name="ТВЦ (+4)" tvg-logo="https://tvgram.xyz/img/channel/1585.png",ТВЦ (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1585/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1586" tvg-name="ТВЦ (+7)" tvg-logo="https://tvgram.xyz/img/channel/1586.png",ТВЦ (+7)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1586/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="707" tvg-name="ТелеКафе" tvg-logo="https://tvgram.xyz/img/channel/707.png",ТелеКафе
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/707/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="93" tvg-name="Техно 24" tvg-logo="https://tvgram.xyz/img/channel/93.png",Техно 24
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/93/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="2144" tvg-name="Тип Топ HD" tvg-logo="https://tvgram.xyz/img/channel/2144.png",Тип Топ HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2144/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="221" tvg-name="ТНТ Music" tvg-logo="https://tvgram.xyz/img/channel/221.png",ТНТ Music
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/221/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="36" tvg-name="ТНТ4" tvg-logo="https://tvgram.xyz/img/channel/36.png",ТНТ4
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/36/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1588" tvg-name="ТНТ4 (+4)" tvg-logo="https://tvgram.xyz/img/channel/1588.png",ТНТ4 (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1588/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1589" tvg-name="ТНТ4 (+7)" tvg-logo="https://tvgram.xyz/img/channel/1589.png",ТНТ4 (+7)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1589/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1288" tvg-name="ТНТ4 HD" tvg-logo="https://tvgram.xyz/img/channel/1288.png",ТНТ4 HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1288/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="405" tvg-name="Три Ангела HD" tvg-logo="https://tvgram.xyz/img/channel/405.png",Три Ангела HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/405/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="189" tvg-name="Уникум" tvg-logo="https://tvgram.xyz/img/channel/189.png",Уникум
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/189/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="661" tvg-name="Усадьба" tvg-logo="https://tvgram.xyz/img/channel/661.png",Усадьба
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/661/stream.m3u8
