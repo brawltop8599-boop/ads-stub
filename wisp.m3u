@@ -2661,7 +2661,7 @@ http://lb.wisp.cat/lb0/Svynka_Peppa_HD/video.m3u8
 http://lb.wisp.cat/lb0/SemeinoeKino_HD_KZ/video.m3u8
 #EXTINF:-1 group-title="Украина" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/77.png" tvg-id="sonce-ua",Сонце
 http://lb.wisp.cat/lb0/Sonce/video.m3u8
- tvg-logo="https://i.ibb.co/MCPX1NK/1.png"#EXTINF:-1 group-title="Разное" tvg-id="tvoetv_sonce_plus",Сонце+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Разное" tvg-id="tvoetv_sonce_plus",Сонце+
 http://lb.wisp.cat/lb0/Sonce_plus/video.m3u8
 #EXTINF:-1 group-title="Спорт"  tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/56.png" tvg-id="sport1-ua",Arena 1
 http://lb.wisp.cat/lb0/Sport1/video.m3u8
@@ -3185,7 +3185,7 @@ https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1285&key=00
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1286&key=000
 #EXTINF:-1 tvg-name="Калейдоскоп ТВ" group-title="РезервТв",Калейдоскоп ТВ
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1287&key=000
-#EXTINF:-1 tvg-name="Зоопарк" group-title="РезервТв",Зоопарк
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",Зоопарк
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1288&key=000
 #EXTINF:-1 tvg-name="Иллюзион+" group-title="РезервТв",Иллюзион+
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1289&key=000
@@ -3217,7 +3217,7 @@ https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1752&key=00
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1753&key=000
 #EXTINF:-1 tvg-name="ТНТ" group-title="РезервТв",ТНТ
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1754&key=000
-#EXTINF:-1 tvg-name="МУЗ" group-title="РезервТв",МУЗ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",МУЗ
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1755&key=000
 #EXTINF:-1 tvg-name="Брянская Губерния" group-title="РезервТв",Брянская Губерния
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1219&key=000
@@ -3229,7 +3229,7 @@ https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1214&key=00
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1220&key=000
 #EXTINF:-1 tvg-name="2x2" group-title="РезервТв",2x2
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1221&key=000
-#EXTINF:-1 tvg-name="Ю-ТВ" group-title="РезервТв",Ю-ТВ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",Ю
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1223&key=000
 #EXTINF:-1 tvg-name="ТНТ Music" group-title="РезервТв",ТНТ Music
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1225&key=000
@@ -3241,20 +3241,16 @@ https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1232&key=00
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1236&key=000
 #EXTINF:-1 tvg-name="Европа Плюс ТВ" group-title="РезервТв",Европа Плюс ТВ
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1242&key=000
-#EXTINF:-1 tvg-name="Мир 24" group-title="РезервТв",Мир 24
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1245&key=000
-#EXTINF:-1 tvg-name="Sci-Fi" group-title="РезервТв",Sci-Fi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",Sci-Fi
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1246&key=000
 #EXTINF:-1 tvg-name=".Red" group-title="РезервТв",.Red
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1247&key=000
-#EXTINF:-1 tvg-name="Конный мир" group-title="РезервТв",Конный мир
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",Легенда
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1248&key=000
 #EXTINF:-1 tvg-name="РБК" group-title="РезервТв",РБК
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1249&key=000
-#EXTINF:-1 tvg-name="Союз" group-title="Религиозные",Союз
+#EXTINF:-1 tvg-name="Союз" group-title="РезервТв",Союз
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1251&key=000
-#EXTINF:-1 tvg-name="RT" group-title="РезервТв",RT
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1567&key=000
 #EXTINF:-1 tvg-name="СОЛНЦЕ" group-title="РезервТв",СОЛНЦЕ
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1254&key=000
 #EXTINF:-1 tvg-name="Индия" group-title="РезервТв",Индия
@@ -3277,7 +3273,7 @@ https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1268&key=00
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1274&key=000
 #EXTINF:-1 tvg-name="RTG TV" group-title="РезервТв",RTG TV
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1275&key=000
-#EXTINF:-1 tvg-name="Tiji TV" group-title="РезервТв",Tiji TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",Tiji TV
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1276&key=000
 #EXTINF:-1 tvg-name="Футбол" group-title="РезервТв",Футбол
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1277&key=000
@@ -3295,9 +3291,9 @@ https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1293&key=00
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1308&key=000
 #EXTINF:-1 tvg-name="Мультиландия" group-title="РезервТв",Мультиландия
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1309&key=000
-#EXTINF:-1 tvg-name="Совершенно Секретно" group-title="РезервТв",Совершенно Секретно
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",Совершенно Секретно
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1310&key=000
-#EXTINF:-1 tvg-name="Россия HD" group-title="РезервТв",Россия HD
+#EXTINF:-1 group-title="РезервТв",Россия 1 HD
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1312&key=000
 #EXTINF:-1 tvg-name="Первый HD" group-title="РезервТв",Первый HD
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1313&key=000
@@ -3315,8 +3311,6 @@ https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1350&key=00
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1342&key=000
 #EXTINF:-1 tvg-name="МАТЧ! Арена" group-title="РезервТв",МАТЧ! Арена
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1341&key=000
-#EXTINF:-1 tvg-name="Вместе-РФ" group-title="Политические",Вместе-РФ
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1366&key=000
 #EXTINF:-1 tvg-name="Наше новое кино" group-title="РезервТв",Наше новое кино
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1375&key=000
 #EXTINF:-1 tvg-name="Родное кино" group-title="РезервТв",Родное кино
@@ -3355,21 +3349,19 @@ https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1507&key=00
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1454&key=000
 #EXTINF:-1 tvg-name="8 Канал" group-title="РезервТв",8 Канал
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1451&key=000
-#EXTINF:-1 tvg-name="Red HD" group-title="РезервТв",Red HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",Red HD
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1465&key=000
 #EXTINF:-1 tvg-name="Любимое Кино" group-title="РезервТв",Любимое Кино
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F897&key=000
-#EXTINF:-1 tvg-name="Шансон ТВ" group-title="РезервТв",Шансон ТВ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",Шансон ТВ
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F927&key=000
 #EXTINF:-1 tvg-name="Суббота!" group-title="РезервТв",Суббота!
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1849&key=000
 #EXTINF:-1 tvg-name="ПОБЕДА" group-title="РезервТв",ПОБЕДА
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1108&key=000
-#EXTINF:-1 tvg-name="Курай-ТВ" group-title="РезервТв",Курай-ТВ
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1470&key=000
 #EXTINF:-1 tvg-name="Про Бизнес" group-title="РезервТв",Про Бизнес
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1473&key=000
-#EXTINF:-1 tvg-name="ЕГЭ ТВ" group-title="РезервТв",ЕГЭ ТВ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",ЕГЭ ТВ
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1519&key=000
 #EXTINF:-1 tvg-name="Шаян ТВ" group-title="РезервТв",Шаян ТВ
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1476&key=000
@@ -3377,16 +3369,12 @@ https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1476&key=00
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1479&key=000
 #EXTINF:-1 tvg-name="RUSSIAN MUSICBOX" group-title="РезервТв",RUSSIAN MUSICBOX
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1483&key=000
-#EXTINF:-1 tvg-name="Смайлик" group-title="РезервТв",Смайлик
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",Смайлик
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1486&key=000
-#EXTINF:-1 tvg-name="Travel+Adventure" group-title="РезервТв",Travel+Adventure
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1487&key=000
 #EXTINF:-1 tvg-name="Travel+Adventure HD" group-title="РезервТв",Travel+Adventure HD
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1493&key=000
 #EXTINF:-1 tvg-name="Народная Музыка" group-title="РезервТв",Народная Музыка
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1855&key=000
-#EXTINF:-1 tvg-name="Открытый мир" group-title="РезервТв",Открытый мир
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1521&key=000
 #EXTINF:-1 tvg-name="78" group-title="РезервТв",78
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1526&key=000
 #EXTINF:-1 tvg-name="КВН ТВ" group-title="РезервТв",КВН ТВ
@@ -3395,14 +3383,10 @@ https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1530&key=00
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1538&key=000
 #EXTINF:-1 tvg-name="BRIDGE TV DELUXE" group-title="РезервТв",BRIDGE TV DELUXE
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1551&key=000
-#EXTINF:-1 tvg-name="Живи!" group-title="РезервТв",Живи!
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",Живи!
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1552&key=000
-#EXTINF:-1 tvg-name="В гостях у сказки HD" group-title="РезервТв",В гостях у сказки HD
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1860&key=000
 #EXTINF:-1 tvg-name="Bridge Rock" group-title="РезервТв",Bridge Rock
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1862&key=000
-#EXTINF:-1 tvg-name="ТНВ-Татарстан" group-title="РезервТв",ТНВ-Татарстан
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1584&key=000
 #EXTINF:-1 tvg-name="Бокс ТВ" group-title="РезервТв",Бокс ТВ
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1588&key=000
 #EXTINF:-1 tvg-name="Первый Вегетарианский" group-title="РезервТв",Первый Вегетарианский
@@ -3413,7 +3397,7 @@ https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1778&key=00
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1780&key=000
 #EXTINF:-1 tvg-name="M-1 Global" group-title="РезервТв",M-1 Global
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1781&key=000
-#EXTINF:-1 tvg-name="Усадьба-ТВ" group-title="РезервТв",Усадьба-ТВ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",Усадьба
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1786&key=000
 #EXTINF:-1 tvg-name="Luxury HD" group-title="РезервТв",Luxury HD
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1791&key=000
@@ -3439,49 +3423,9 @@ https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1816&key=00
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1817&key=000
 #EXTINF:-1 tvg-name="Мосфильм. Золотая коллекция" group-title="РезервТв",Мосфильм. Золотая коллекция
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1823&key=000
-#EXTINF:-1 tvg-name="CTC Kids HD" group-title="РезервТв",CTC Kids HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",CTC Kids HD
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1843&key=000
 #EXTINF:-1 tvg-name="BRIDGE TV ШЛЯГЕР" group-title="РезервТв",BRIDGE TV ШЛЯГЕР
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1845&key=000
 #EXTINF:-1 tvg-name="САПФИР HD" group-title="РезервТв",САПФИР HD
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1846&key=000
-#EXTINF:-1 tvg-name="Первый канал" group-title="РезервТв",Первый канал
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1717&key=000
-#EXTINF:-1 tvg-name="РОССИЯ 1" group-title="РезервТв",РОССИЯ 1
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1718&key=000
-#EXTINF:-1 tvg-name="Матч! ТВ" group-title="РезервТв",Матч! ТВ
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1719&key=000
-#EXTINF:-1 tvg-name="НТВ" group-title="РезервТв",НТВ
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1720&key=000
-#EXTINF:-1 tvg-name="Пятый Канал" group-title="РезервТв",Пятый Канал
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1721&key=000
-#EXTINF:-1 tvg-name="Россия Культура" group-title="РезервТв",Россия Культура
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1722&key=000
-#EXTINF:-1 tvg-name="Россия 24" group-title="РезервТв",Россия 24
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1723&key=000
-#EXTINF:-1 tvg-name="Карусель" group-title="РезервТв",Карусель
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1724&key=000
-#EXTINF:-1 tvg-name="ОТР" group-title="РезервТв",ОТР
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1725&key=000
-#EXTINF:-1 tvg-name="ТВ Центр" group-title="РезервТв",ТВ Центр
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1726&key=000
-#EXTINF:-1 tvg-name="РенТВ" group-title="РезервТв",РенТВ
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1727&key=000
-#EXTINF:-1 tvg-name="СПАС" group-title="РезервТв",СПАС
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1728&key=000
-#EXTINF:-1 tvg-name="СТС" group-title="РезервТв",СТС
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1729&key=000
-#EXTINF:-1 tvg-name="Домашний" group-title="РезервТв",Домашний
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1730&key=000
-#EXTINF:-1 tvg-name="ТВ-3" group-title="РезервТв",ТВ-3
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1731&key=000
-#EXTINF:-1 tvg-name="Звезда" group-title="РезервТв",Звезда
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1732&key=000
-#EXTINF:-1 tvg-name="МИР" group-title="РезервТв",МИР
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1733&key=000
-#EXTINF:-1 tvg-name="ТНТ" group-title="РезервТв",ТНТ
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1734&key=000
-#EXTINF:-1 tvg-name="МУЗ" group-title="РезервТв",МУЗ
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1735&key=000
-#EXTINF:-1 tvg-name="Пятница" group-title="РезервТв",Пятница
-https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1736&key=000
