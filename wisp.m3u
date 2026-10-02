@@ -3429,8 +3429,6 @@ https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1843&key=00
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1845&key=000
 #EXTINF:-1 tvg-name="САПФИР HD" group-title="РезервТв",САПФИР HD
 https://video-qtjn.onrender.com/play?cmd=ffrt%20http%3A%2F%2F%2Fch%2F1846&key=000
-#EXTINF:-1 group-title="АрхивТв" tvg-id="574" tvg-name="Viju TV1000 HD" tvg-logo="https://tvgram.xyz/img/channel/574.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/574/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Viju TV1000 HD
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/574/stream.m3u
 #EXTINF:-1 group-title="АрхивТв" tvg-id="899" tvg-name="Viju TV1000 Русское HD" tvg-logo="https://tvgram.xyz/img/channel/899.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/899/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Viju TV1000 Русское HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/899/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="137" tvg-name="ViP Comedy HD" tvg-logo="https://tvgram.xyz/img/channel/137.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/137/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",ViP Comedy HD
@@ -3443,8 +3441,6 @@ http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/135/stream.m3u8
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/161/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="162" tvg-name="Дом кино Премиум HD" tvg-logo="https://tvgram.xyz/img/channel/162.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/162/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Дом кино Премиум HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/162/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="1291" tvg-name="КИНО UHD 4K" tvg-logo="https://tvgram.xyz/img/channel/1291.png",КИНО UHD 4K
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1291/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="476" tvg-name="Кино ТВ" tvg-logo="https://tvgram.xyz/img/channel/476.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/476/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Кино ТВ
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/476/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="131" tvg-name="Кинокомедия" tvg-logo="https://tvgram.xyz/img/channel/131.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/131/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Кинокомедия
@@ -3491,7 +3487,7 @@ http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2369/stream.m3u8
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/251/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="252" tvg-name="Кинохит" tvg-logo="https://tvgram.xyz/img/channel/252.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/252/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Кинохит
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/252/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="87" tvg-name="TLC HD CEE" tvg-logo="https://tvgram.xyz/img/channel/87.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/87/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",TLC HD CEE
+#EXTINF:-1 group-title="АрхивТв" tvg-id="87" tvg-name="TLC HD CEE" tvg-logo="https://tvgram.xyz/img/channel/87.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/87/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",TLC HD 
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/87/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="257" tvg-name="Мужское кино" tvg-logo="https://tvgram.xyz/img/channel/257.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/257/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Мужское кино
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/257/stream.m3u8
@@ -3517,7 +3513,7 @@ http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/164/stream.m3u8
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/737/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="108" tvg-name="Приключения HD" tvg-logo="https://tvgram.xyz/img/channel/108.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/108/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Приключения HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/108/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="38" tvg-name="Сарафан ТВ" tvg-logo="https://tvgram.xyz/img/channel/38.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/38/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Сарафан ТВ
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/38.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/38/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Сарафан
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/38/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="2300" tvg-name="Советская киноклассика HD" tvg-logo="https://tvgram.xyz/img/channel/2300.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2300/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Советская киноклассика HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2300/stream.m3u8
@@ -3539,7 +3535,7 @@ http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/20/stream.m3u8
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/95/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="91" tvg-name="National Geographic HD" tvg-logo="https://tvgram.xyz/img/channel/91.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/91/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",National Geographic HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/91/stream.m3u8
-#EXTINF:-1 group-title="АрхивТв" tvg-id="86" tvg-name="Investigation Discovery HD CEE" tvg-logo="https://tvgram.xyz/img/channel/86.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/86/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Investigation Discovery HD CEE
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/86.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/86/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Investigation Discovery HD 
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/86/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="713" tvg-name="Кто есть кто" tvg-logo="https://tvgram.xyz/img/channel/713.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/713/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Кто есть кто
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/713/stream.m3u8
@@ -3580,110 +3576,78 @@ http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1509/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="13" tvg-name="СТС HD" tvg-logo="https://tvgram.xyz/img/channel/13.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/13/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",СТС HD
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/13/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="255" tvg-name="Родное кино" tvg-logo="https://tvgram.xyz/img/channel/255.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/255/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Родное кино
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/255/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="27" tvg-name="Суббота!" tvg-logo="https://tvgram.xyz/img/channel/27.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/27/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Суббота!
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/27/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="668" tvg-name="ТВЦ (+2)" tvg-logo="https://tvgram.xyz/img/channel/668.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/668/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",ТВЦ (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/668/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="2051" tvg-name="ТВЦ HD" tvg-logo="https://tvgram.xyz/img/channel/2051.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2051/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",ТВЦ HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2051/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="14" tvg-name="Домашний" tvg-logo="https://tvgram.xyz/img/channel/14.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/14/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Домашний
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/14/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="268" tvg-name="Дождь HD" tvg-logo="https://tvgram.xyz/img/channel/268.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/268/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Дождь HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/268/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="172" tvg-name="Eurosport 1 CEE НD" tvg-logo="https://tvgram.xyz/img/channel/172.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/172/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Eurosport 1 CEE НD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/172/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="173" tvg-name="Eurosport 2 CEE HD" tvg-logo="https://tvgram.xyz/img/channel/173.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/173/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Eurosport 2 CEE HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/173/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="181" tvg-name="Setanta Sports 1 HD" tvg-logo="https://tvgram.xyz/img/channel/181.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/181/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Setanta Sports 1 HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/181/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="182" tvg-name="Setanta Sports 2 HD" tvg-logo="https://tvgram.xyz/img/channel/182.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/182/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Setanta Sports 2 HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/182/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="186" tvg-name="Setanta Sports HD (UA)" tvg-logo="https://tvgram.xyz/img/channel/186.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/186/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Setanta Sports HD (UA)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/186/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="264" tvg-name="Матч Премьер HD" tvg-logo="https://tvgram.xyz/img/channel/264.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/264/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Матч Премьер HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/264/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="681" tvg-name="Матч! HD" tvg-logo="https://tvgram.xyz/img/channel/681.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/681/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Матч! HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/681/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="259" tvg-name="Матч! Арена HD" tvg-logo="https://tvgram.xyz/img/channel/259.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/259/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Матч! Арена HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/259/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="261" tvg-name="Матч! Футбол 1 HD" tvg-logo="https://tvgram.xyz/img/channel/261.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/261/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Матч! Футбол 1 HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/261/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="262" tvg-name="Матч! Футбол 2 HD" tvg-logo="https://tvgram.xyz/img/channel/262.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/262/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Матч! Футбол 2 HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/262/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="263" tvg-name="Матч! Футбол 3 HD" tvg-logo="https://tvgram.xyz/img/channel/263.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/263/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Матч! Футбол 3 HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/263/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="40" tvg-name="Первый канал (+2)" tvg-logo="https://tvgram.xyz/img/channel/40.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/40/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Первый канал (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/40/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="287" tvg-name="Первый канал (+6)" tvg-logo="https://tvgram.xyz/img/channel/287.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/287/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Первый канал (+6)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/287/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1" tvg-name="Первый канал HD" tvg-logo="https://tvgram.xyz/img/channel/1.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Первый канал HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="43" tvg-name="Первый канал HD (+4)" tvg-logo="https://tvgram.xyz/img/channel/43.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/43/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Первый канал HD (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/43/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="782" tvg-name="Победа" tvg-logo="https://tvgram.xyz/img/channel/782.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/782/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Победа
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/782/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="923" tvg-name="Пятница! HD" tvg-logo="https://tvgram.xyz/img/channel/923.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/923/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Пятница! HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/923/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="5" tvg-name="Пятый канал" tvg-logo="https://tvgram.xyz/img/channel/5.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/5/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Пятый канал
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/5/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="738" tvg-name="Пятый канал (+2)" tvg-logo="https://tvgram.xyz/img/channel/738.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/738/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Пятый канал (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/738/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="727" tvg-name="Россия 1 (+2)" tvg-logo="https://tvgram.xyz/img/channel/727.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/727/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Россия 1 (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/727/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1714" tvg-name="Россия 1 (+4)" tvg-logo="https://tvgram.xyz/img/channel/1714.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1714/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Россия 1 (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1714/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="337" tvg-name="Россия 1 (+6)" tvg-logo="https://tvgram.xyz/img/channel/337.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/337/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Россия 1 (+6)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/337/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="21" tvg-name="Россия 1 HD" tvg-logo="https://tvgram.xyz/img/channel/21.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/21/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Россия 1 HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/21/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="42" tvg-name="ТНТ (+2)" tvg-logo="https://tvgram.xyz/img/channel/42.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/42/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",ТНТ (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/42/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1516" tvg-name="ТНТ (+4)" tvg-logo="https://tvgram.xyz/img/channel/1516.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1516/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",ТНТ (+4)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1516/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1517" tvg-name="ТНТ (+7)" tvg-logo="https://tvgram.xyz/img/channel/1517.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1517/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",ТНТ (+7)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1517/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="19" tvg-name="ТНТ HD" tvg-logo="https://tvgram.xyz/img/channel/19.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/19/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",ТНТ HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/19/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="25" tvg-name="Че" tvg-logo="https://tvgram.xyz/img/channel/25.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/25/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Че
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/25/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="33" tvg-name="Ю" tvg-logo="https://tvgram.xyz/img/channel/33.png" catchup-source="http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/33/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="17",Ю
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/33/stream.m3u8
+#EXTINF:-1 group-title="АрхивТв" tvg-logo="https://tvgram.xyz/img/channel/1291.png",Кино UHD
+http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1291/stream.m3u8
+
 #EXTINF:-1 group-title="АрхивТв" tvg-id="150" tvg-name=".black" tvg-logo="https://tvgram.xyz/img/channel/150.png",.black
 
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1894" tvg-name=".red" tvg-logo="https://tvgram.xyz/img/channel/1894.png",.red
@@ -3779,43 +3743,22 @@ http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1100/stream.m3u8
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2067/stream.m3u8
 
 #EXTINF:-1 group-title="АрхивТв" tvg-id="706" tvg-name="Cartoonito" tvg-logo="https://tvgram.xyz/img/channel/706.png",Cartoonito
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/706/stream.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="53" tvg-name="Channel 11 HD (IL)" tvg-logo="https://tvgram.xyz/img/channel/53.png",Channel 11 HD (IL)
-#EXTGRP:Израиль
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/53/stream.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="54" tvg-name="Channel 12 HD (IL)" tvg-logo="https://tvgram.xyz/img/channel/54.png",Channel 12 HD (IL)
-#EXTGRP:Израиль
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/54/stream.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="55" tvg-name="Channel 13 (IL)" tvg-logo="https://tvgram.xyz/img/channel/55.png",Channel 13 (IL)
-#EXTGRP:Израиль
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/55/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="2165" tvg-name="Curiosity Stream HD" tvg-logo="https://tvgram.xyz/img/channel/2165.png",Curiosity Stream HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2165/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="101" tvg-name="Da Vinci" tvg-logo="https://tvgram.xyz/img/channel/101.png",Da Vinci
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/101/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="210" tvg-name="Europa Plus TV" tvg-logo="https://tvgram.xyz/img/channel/210.png",Europa Plus TV
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/210/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1677" tvg-name="Eurosport 1 HD (DE)" tvg-logo="https://tvgram.xyz/img/channel/1677.png",Eurosport 1 HD (DE)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1677/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="180" tvg-name="Extreme Sports" tvg-logo="https://tvgram.xyz/img/channel/180.png",Extreme Sports
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/180/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="2158" tvg-name="FAMILY JAM HD" tvg-logo="https://tvgram.xyz/img/channel/2158.png",FAMILY JAM HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/2158/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="547" tvg-name="FAN HD" tvg-logo="https://tvgram.xyz/img/channel/547.png",FAN HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/547/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="694" tvg-name="FlixSnip" tvg-logo="https://tvgram.xyz/img/channel/694.png",FlixSnip
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/694/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="121" tvg-name="Food Network HD" tvg-logo="https://tvgram.xyz/img/channel/121.png",Food Network HD
 
@@ -4184,19 +4127,11 @@ http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/652/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="226" tvg-name="Москва 24" tvg-logo="https://tvgram.xyz/img/channel/226.png",Москва 24
 
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/226/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="106" tvg-name="Моя планета" tvg-logo="https://tvgram.xyz/img/channel/106.png",Моя планета
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/106/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="411" tvg-name="МТВ (Волгоград) HD" tvg-logo="https://tvgram.xyz/img/channel/411.png",МТВ (Волгоград) HD
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/411/stream.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-id="1709" tvg-name="МТРК (KZ)" tvg-logo="https://tvgram.xyz/img/channel/1709.png",МТРК (KZ)
-#EXTGRP:Казахстан
-http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1709/stream.m3u8
-
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1545" tvg-name="Муз ТВ (+2)" tvg-logo="https://tvgram.xyz/img/channel/1545.png",Муз ТВ (+2)
-
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1545/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1546" tvg-name="Муз ТВ (+4)" tvg-logo="https://tvgram.xyz/img/channel/1546.png",Муз ТВ (+4)
 
