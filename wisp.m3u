@@ -4041,3 +4041,1245 @@ http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1214/stream.m3u8
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1591/stream.m3u8
 #EXTINF:-1 group-title="АрхивТв" tvg-id="1592" tvg-name="Ю (+7)" tvg-logo="https://tvgram.xyz/img/channel/1592.png",Ю (+7)
 http://45.141.56.225:80/25/61IGFnv631ZqLEbS83S4Nj28/1592/stream.m3u8
+#EXTINF:-1 tvg-name="Первый канал" group-title="Россия",Первый канал
+https://blacktulipstav.onrender.com/ch/1?key=000
+#EXTINF:-1 tvg-name="Первый канал HD" group-title="Россия",Первый канал HD
+https://blacktulipstav.onrender.com/ch/2?key=000
+#EXTINF:-1 tvg-name="Первый канал (+4)" group-title="Россия",Первый канал (+4)
+https://blacktulipstav.onrender.com/ch/3?key=000
+#EXTINF:-1 tvg-name="Первый канал (+6)" group-title="Россия",Первый канал (+6)
+https://blacktulipstav.onrender.com/ch/4?key=000
+#EXTINF:-1 tvg-name="Россия 1 HD" group-title="Россия",Россия 1 HD
+https://blacktulipstav.onrender.com/ch/6?key=000
+#EXTINF:-1 tvg-name="Россия 1 (+4)" group-title="Россия",Россия 1 (+4)
+https://blacktulipstav.onrender.com/ch/7?key=000
+#EXTINF:-1 tvg-name="Россия 1 (+6)" group-title="Россия",Россия 1 (+6)
+https://blacktulipstav.onrender.com/ch/8?key=000
+#EXTINF:-1 tvg-name="РТР-Планета" group-title="Россия",РТР-Планета
+https://blacktulipstav.onrender.com/ch/9?key=000
+#EXTINF:-1 tvg-name="НТВ HD" group-title="Россия",НТВ HD
+https://blacktulipstav.onrender.com/ch/11?key=000
+#EXTINF:-1 tvg-name="НТВ (+4)" group-title="Россия",НТВ (+4)
+https://blacktulipstav.onrender.com/ch/12?key=000
+#EXTINF:-1 tvg-name="НТВ (+6)" group-title="Россия",НТВ (+6)
+https://blacktulipstav.onrender.com/ch/13?key=000
+#EXTINF:-1 tvg-name="НТВ Право" group-title="Россия",НТВ Право
+https://blacktulipstav.onrender.com/ch/14?key=000
+#EXTINF:-1 tvg-name="НТВ Мир" group-title="Россия",НТВ Мир
+https://blacktulipstav.onrender.com/ch/15?key=000
+#EXTINF:-1 tvg-name="НТВ Стиль" group-title="Россия",НТВ Стиль
+https://blacktulipstav.onrender.com/ch/16?key=000
+#EXTINF:-1 tvg-name="Дождь" group-title="Россия",Дождь
+https://blacktulipstav.onrender.com/ch/17?key=000
+#EXTINF:-1 tvg-name="ТВ Центр HD" group-title="Россия",ТВ Центр HD
+https://blacktulipstav.onrender.com/ch/18?key=000
+#EXTINF:-1 tvg-name="RTVI" group-title="Россия",RTVI
+https://blacktulipstav.onrender.com/ch/19?key=000
+#EXTINF:-1 tvg-name="ТНТ HD" group-title="Россия",ТНТ HD
+https://blacktulipstav.onrender.com/ch/21?key=000
+#EXTINF:-1 tvg-name="ТНТ (+4)" group-title="Россия",ТНТ (+4)
+https://blacktulipstav.onrender.com/ch/22?key=000
+#EXTINF:-1 tvg-name="ТНТ4" group-title="Россия",ТНТ4
+https://blacktulipstav.onrender.com/ch/23?key=000
+#EXTINF:-1 tvg-name="КВН ТВ" group-title="Россия",КВН ТВ
+https://blacktulipstav.onrender.com/ch/24?key=000
+#EXTINF:-1 tvg-name="RAZ 3 UA" group-title="Украина",RAZ 3 UA
+https://blacktulipstav.onrender.com/ch/25?key=000
+#EXTINF:-1 tvg-name="СТС HD" group-title="Россия",СТС HD
+https://blacktulipstav.onrender.com/ch/26?key=000
+#EXTINF:-1 tvg-name="СТС (+4)" group-title="Россия",СТС (+4)
+https://blacktulipstav.onrender.com/ch/27?key=000
+#EXTINF:-1 tvg-name="СТС Love" group-title="Россия",СТС Love
+https://blacktulipstav.onrender.com/ch/28?key=000
+#EXTINF:-1 tvg-name="РЕН ТВ HD" group-title="Россия",РЕН ТВ HD
+https://blacktulipstav.onrender.com/ch/30?key=000
+#EXTINF:-1 tvg-name="Мир HD" group-title="Россия",Мир HD
+https://blacktulipstav.onrender.com/ch/32?key=000
+#EXTINF:-1 tvg-name="Че!" group-title="Россия",Че!
+https://blacktulipstav.onrender.com/ch/34?key=000
+#EXTINF:-1 tvg-name="Перец International" group-title="Россия",Перец International
+https://blacktulipstav.onrender.com/ch/35?key=000
+#EXTINF:-1 tvg-name="Пятница! HD" group-title="Россия",Пятница! HD
+https://blacktulipstav.onrender.com/ch/36?key=000
+#EXTINF:-1 tvg-name="Суббота!" group-title="Россия",Суббота!
+https://blacktulipstav.onrender.com/ch/37?key=000
+#EXTINF:-1 tvg-name="Домашний" group-title="Россия",Домашний
+https://blacktulipstav.onrender.com/ch/38?key=000
+#EXTINF:-1 tvg-name="Домашний (+4)" group-title="Россия",Домашний (+4)
+https://blacktulipstav.onrender.com/ch/39?key=000
+#EXTINF:-1 tvg-name="Домашний International" group-title="Россия",Домашний International
+https://blacktulipstav.onrender.com/ch/40?key=000
+#EXTINF:-1 tvg-name="Сарафан" group-title="Россия",Сарафан
+https://blacktulipstav.onrender.com/ch/41?key=000
+#EXTINF:-1 tvg-name="Вопросы и ответы" group-title="Россия",Вопросы и ответы
+https://blacktulipstav.onrender.com/ch/42?key=000
+#EXTINF:-1 tvg-name="Пятый канал" group-title="Россия",Пятый канал
+https://blacktulipstav.onrender.com/ch/43?key=000
+#EXTINF:-1 tvg-name="Ю" group-title="Россия",Ю
+https://blacktulipstav.onrender.com/ch/44?key=000
+#EXTINF:-1 tvg-name="ТВ3 HD" group-title="Россия",ТВ3
+https://blacktulipstav.onrender.com/ch/45?key=000
+#EXTINF:-1 tvg-name="Россия К" group-title="Россия",Россия К
+https://blacktulipstav.onrender.com/ch/46?key=000
+#EXTINF:-1 tvg-name="РБК HD" group-title="Россия",РБК HD
+https://blacktulipstav.onrender.com/ch/47?key=000
+#EXTINF:-1 tvg-name="EuroNews" group-title="Россия",EuroNews
+https://blacktulipstav.onrender.com/ch/49?key=000
+#EXTINF:-1 tvg-name="RTД HD" group-title="Россия",RTД HD
+https://blacktulipstav.onrender.com/ch/50?key=000
+#EXTINF:-1 tvg-name="Центральное телевидение" group-title="Россия",Центральное телевидение
+https://blacktulipstav.onrender.com/ch/51?key=000
+#EXTINF:-1 tvg-name="Москва Доверие" group-title="Россия",Москва Доверие
+https://blacktulipstav.onrender.com/ch/52?key=000
+#EXTINF:-1 tvg-name="Москва 24" group-title="Россия",Москва 24
+https://blacktulipstav.onrender.com/ch/53?key=000
+#EXTINF:-1 tvg-name="Время" group-title="Россия",Время
+https://blacktulipstav.onrender.com/ch/54?key=000
+#EXTINF:-1 tvg-name="Ретро" group-title="Россия",Ретро
+https://blacktulipstav.onrender.com/ch/56?key=000
+#EXTINF:-1 tvg-name="ОТР HD" group-title="Россия",ОТР HD
+https://blacktulipstav.onrender.com/ch/57?key=000
+#EXTINF:-1 tvg-name="Известия" group-title="Россия",Известия
+https://blacktulipstav.onrender.com/ch/58?key=000
+#EXTINF:-1 tvg-name="Eurosport 1 HD" group-title="Спорт",Eurosport 1 HD
+https://blacktulipstav.onrender.com/ch/64?key=000
+#EXTINF:-1 tvg-name="Eurosport 2 HD" group-title="Спорт",Eurosport 2 HD
+https://blacktulipstav.onrender.com/ch/66?key=000
+#EXTINF:-1 tvg-name="viju+ Sport HD" group-title="Спорт",viju+ Sport HD
+https://blacktulipstav.onrender.com/ch/67?key=000
+#EXTINF:-1 tvg-name="МАТЧ! ФУТБОЛ 1 HD" group-title="Спорт",МАТЧ! ФУТБОЛ 1 HD
+https://blacktulipstav.onrender.com/ch/69?key=000
+#EXTINF:-1 tvg-name="МАТЧ! ФУТБОЛ 2 HD" group-title="Спорт",МАТЧ! ФУТБОЛ 2 HD
+https://blacktulipstav.onrender.com/ch/71?key=000
+#EXTINF:-1 tvg-name="МАТЧ! ФУТБОЛ 3 HD" group-title="Спорт",МАТЧ! ФУТБОЛ 3 HD
+https://blacktulipstav.onrender.com/ch/73?key=000
+#EXTINF:-1 tvg-name="МАТЧ! ПРЕМЬЕР HD" group-title="Спорт",МАТЧ! ПРЕМЬЕР HD
+https://blacktulipstav.onrender.com/ch/74?key=000
+#EXTINF:-1 tvg-name="МАТЧ! HD" group-title="Спорт",МАТЧ! HD
+https://blacktulipstav.onrender.com/ch/76?key=000
+#EXTINF:-1 tvg-name="МАТЧ! АРЕНА HD" group-title="Спорт",МАТЧ! АРЕНА HD
+https://blacktulipstav.onrender.com/ch/77?key=000
+#EXTINF:-1 tvg-name="МАТЧ! СТРАНА HD" group-title="Спорт",МАТЧ! СТРАНА HD
+https://blacktulipstav.onrender.com/ch/78?key=000
+#EXTINF:-1 tvg-name="МАТЧ! ИГРА HD" group-title="Спорт",МАТЧ! ИГРА HD
+https://blacktulipstav.onrender.com/ch/79?key=000
+#EXTINF:-1 tvg-name="МАТЧ! ПЛАНЕТА" group-title="Спорт",МАТЧ! ПЛАНЕТА
+https://blacktulipstav.onrender.com/ch/80?key=000
+#EXTINF:-1 tvg-name="Okko Спорт. Футбол HD" group-title="Спорт",Okko Спорт. Футбол HD
+https://blacktulipstav.onrender.com/ch/81?key=000
+#EXTINF:-1 tvg-name="Okko Прайм HD" group-title="Спорт",Okko Прайм HD
+https://blacktulipstav.onrender.com/ch/82?key=000
+#EXTINF:-1 tvg-name="Okko Спорт HD" group-title="Спорт",Okko Спорт HD
+https://blacktulipstav.onrender.com/ch/83?key=000
+#EXTINF:-1 tvg-name="Старт HD" group-title="Спорт",Старт HD
+https://blacktulipstav.onrender.com/ch/84?key=000
+#EXTINF:-1 tvg-name="Старт Триумф HD" group-title="Спорт",Старт Триумф HD
+https://blacktulipstav.onrender.com/ch/85?key=000
+#EXTINF:-1 tvg-name="ТВ Спорт HD" group-title="Спорт",ТВ Спорт HD
+https://blacktulipstav.onrender.com/ch/86?key=000
+#EXTINF:-1 tvg-name="Trace Sport Stars HD" group-title="Спорт",Trace Sport Stars HD
+https://blacktulipstav.onrender.com/ch/87?key=000
+#EXTINF:-1 tvg-name="Волейбол HD" group-title="Спорт",Волейбол HD
+https://blacktulipstav.onrender.com/ch/88?key=000
+#EXTINF:-1 tvg-name="Футбол HD" group-title="Спорт",Футбол HD
+https://blacktulipstav.onrender.com/ch/89?key=000
+#EXTINF:-1 tvg-name="Sport 1 UA" group-title="Спорт",Sport 1 UA
+https://blacktulipstav.onrender.com/ch/104?key=000
+#EXTINF:-1 tvg-name="Sport 2 UA" group-title="Спорт",Sport 2 UA
+https://blacktulipstav.onrender.com/ch/105?key=000
+#EXTINF:-1 tvg-name="KHL Prime HD" group-title="Спорт",KHL Prime HD
+https://blacktulipstav.onrender.com/ch/106?key=000
+#EXTINF:-1 tvg-name="KHL" group-title="Спорт",KHL
+https://blacktulipstav.onrender.com/ch/107?key=000
+#EXTINF:-1 tvg-name="Русский Экстрим HD" group-title="Спорт",Русский Экстрим HD
+https://blacktulipstav.onrender.com/ch/108?key=000
+#EXTINF:-1 tvg-name="МАТЧ! БОЕЦ HD" group-title="Спорт",МАТЧ! БОЕЦ HD
+https://blacktulipstav.onrender.com/ch/109?key=000
+#EXTINF:-1 tvg-name="БОКС ТВ" group-title="Спорт",БОКС ТВ
+https://blacktulipstav.onrender.com/ch/110?key=000
+#EXTINF:-1 tvg-name="MMA‑TV.com HD" group-title="Спорт",MMA‑TV.com HD
+https://blacktulipstav.onrender.com/ch/111?key=000
+#EXTINF:-1 tvg-name="UDAR HD" group-title="Спорт",UDAR HD
+https://blacktulipstav.onrender.com/ch/112?key=000
+#EXTINF:-1 tvg-name="Авто Плюс HD" group-title="Спорт",Авто Плюс HD
+https://blacktulipstav.onrender.com/ch/113?key=000
+#EXTINF:-1 tvg-name="BOX AutoTrend HD" group-title="Россия",BOX AutoTrend HD
+https://blacktulipstav.onrender.com/ch/114?key=000
+#EXTINF:-1 tvg-name="Extreme Sports Channel" group-title="Спорт",Extreme Sports Channel
+https://blacktulipstav.onrender.com/ch/115?key=000
+#EXTINF:-1 tvg-name="Иллюзион+ HD" group-title="КиноЗал",Иллюзион+ HD
+https://blacktulipstav.onrender.com/ch/141?key=000
+#EXTINF:-1 tvg-name="Еврокино HD" group-title="КиноЗал",Еврокино HD
+https://blacktulipstav.onrender.com/ch/142?key=000
+#EXTINF:-1 tvg-name="Okko TV HD" group-title="КиноЗал",Okko TV HD
+https://blacktulipstav.onrender.com/ch/143?key=000
+#EXTINF:-1 tvg-name="AMEDIA 1" group-title="КиноЗал",AMEDIA 1
+https://blacktulipstav.onrender.com/ch/145?key=000
+#EXTINF:-1 tvg-name="День Победы HD" group-title="Познаю.Tв",День Победы HD
+https://blacktulipstav.onrender.com/ch/146?key=000
+#EXTINF:-1 tvg-name="ПОБЕДА HD" group-title="КиноЗал",ПОБЕДА HD
+https://blacktulipstav.onrender.com/ch/147?key=000
+#EXTINF:-1 tvg-name="Звезда HD" group-title="Россия",Звезда HD
+https://blacktulipstav.onrender.com/ch/148?key=000
+#EXTINF:-1 tvg-name="Патриот" group-title="Россия",Патриот
+https://blacktulipstav.onrender.com/ch/149?key=000
+#EXTINF:-1 tvg-name="ИНДИЙСКОЕ КИНО" group-title="КиноЗал",ИНДИЙСКОЕ КИНО
+https://blacktulipstav.onrender.com/ch/150?key=000
+#EXTINF:-1 tvg-name="КИНОХИТ HD" group-title="КиноЗал",КИНОХИТ HD
+https://blacktulipstav.onrender.com/ch/151?key=000
+#EXTINF:-1 tvg-name="КИНОМИКС HD" group-title="КиноЗал",КИНОМИКС HD
+https://blacktulipstav.onrender.com/ch/152?key=000
+#EXTINF:-1 tvg-name="КИНОСВИДАНИЕ HD" group-title="КиноЗал",КИНОСВИДАНИЕ HD
+https://blacktulipstav.onrender.com/ch/153?key=000
+#EXTINF:-1 tvg-name="КИНОСЕРИЯ HD" group-title="КиноЗал",КИНОСЕРИЯ HD
+https://blacktulipstav.onrender.com/ch/154?key=000
+#EXTINF:-1 tvg-name="Русский Иллюзион HD" group-title="КиноЗал",Русский Иллюзион HD
+https://blacktulipstav.onrender.com/ch/155?key=000
+#EXTINF:-1 tvg-name="Кинопоказ HD" group-title="КиноЗал",Кинопоказ HD
+https://blacktulipstav.onrender.com/ch/156?key=000
+#EXTINF:-1 tvg-name="Кино ТВ HD" group-title="КиноЗал",Кино ТВ HD
+https://blacktulipstav.onrender.com/ch/157?key=000
+#EXTINF:-1 tvg-name="КИНОКОМЕДИЯ HD" group-title="КиноЗал",КИНОКОМЕДИЯ HD
+https://blacktulipstav.onrender.com/ch/158?key=000
+#EXTINF:-1 tvg-name="Дом Кино" group-title="КиноЗал",Дом Кино
+https://blacktulipstav.onrender.com/ch/159?key=000
+#EXTINF:-1 tvg-name="РОДНОЕ КИНО" group-title="КиноЗал",РОДНОЕ КИНО
+https://blacktulipstav.onrender.com/ch/160?key=000
+#EXTINF:-1 tvg-name="НАШЕ НОВОЕ КИНО" group-title="КиноЗал",НАШЕ НОВОЕ КИНО
+https://blacktulipstav.onrender.com/ch/161?key=000
+#EXTINF:-1 tvg-name="КИНОСЕМЬЯ" group-title="КиноЗал",КИНОСЕМЬЯ
+https://blacktulipstav.onrender.com/ch/162?key=000
+#EXTINF:-1 tvg-name="КИНОУЖАС HD" group-title="КиноЗал",КИНОУЖАС HD
+https://blacktulipstav.onrender.com/ch/163?key=000
+#EXTINF:-1 tvg-name="FAN HD" group-title="КиноЗал",FAN HD
+https://blacktulipstav.onrender.com/ch/164?key=000
+#EXTINF:-1 tvg-name="viju TV1000 HD" group-title="КиноЗал",viju TV1000 HD
+https://blacktulipstav.onrender.com/ch/165?key=000
+#EXTINF:-1 tvg-name="viju TV1000 action HD" group-title="КиноЗал",viju TV1000 action HD
+https://blacktulipstav.onrender.com/ch/166?key=000
+#EXTINF:-1 tvg-name="viju TV1000 русское HD" group-title="КиноЗал",viju TV1000 русское HD
+https://blacktulipstav.onrender.com/ch/167?key=000
+#EXTINF:-1 tvg-name="FX" group-title="КиноЗал",FX
+https://blacktulipstav.onrender.com/ch/168?key=000
+#EXTINF:-1 tvg-name="FX Life HD" group-title="КиноЗал",FX Life HD
+https://blacktulipstav.onrender.com/ch/169?key=000
+#EXTINF:-1 tvg-name="НСТ " group-title="КиноЗал",НСТ 
+https://blacktulipstav.onrender.com/ch/170?key=000
+#EXTINF:-1 tvg-name="Индия" group-title="КиноЗал",Индия
+https://blacktulipstav.onrender.com/ch/171?key=000
+#EXTINF:-1 tvg-name="МУЖСКОЕ КИНО HD" group-title="КиноЗал",МУЖСКОЕ КИНО HD
+https://blacktulipstav.onrender.com/ch/173?key=000
+#EXTINF:-1 tvg-name="Русский роман HD" group-title="КиноЗал",Русский роман HD
+https://blacktulipstav.onrender.com/ch/174?key=000
+#EXTINF:-1 tvg-name="Русский детектив" group-title="КиноЗал",Русский детектив
+https://blacktulipstav.onrender.com/ch/175?key=000
+#EXTINF:-1 tvg-name="Русский бестселлер" group-title="КиноЗал",Русский бестселлер
+https://blacktulipstav.onrender.com/ch/176?key=000
+#EXTINF:-1 tvg-name="Наше HD" group-title="КиноЗал",Наше HD
+https://blacktulipstav.onrender.com/ch/177?key=000
+#EXTINF:-1 tvg-name="НТВ Сериал" group-title="КиноЗал",НТВ Сериал
+https://blacktulipstav.onrender.com/ch/178?key=000
+#EXTINF:-1 tvg-name="НТВ Хит" group-title="Россия",НТВ Хит
+https://blacktulipstav.onrender.com/ch/179?key=000
+#EXTINF:-1 tvg-name=".sci-fi HD" group-title="КиноЗал",.sci-fi HD
+https://blacktulipstav.onrender.com/ch/180?key=000
+#EXTINF:-1 tvg-name="Феникс+ Кино HD" group-title="КиноЗал",Феникс+ Кино HD
+https://blacktulipstav.onrender.com/ch/181?key=000
+#EXTINF:-1 tvg-name="TVMChannel" group-title="Россия",TVMChannel
+https://blacktulipstav.onrender.com/ch/182?key=000
+#EXTINF:-1 tvg-name="Kernel TV Новинки HD" group-title="КиноЗал",Kernel TV Новинки HD
+https://blacktulipstav.onrender.com/ch/183?key=000
+#EXTINF:-1 tvg-name="Kernel TV Счастливого нового года HD" group-title="КиноЗал",Kernel TV Счастливого нового года HD
+https://blacktulipstav.onrender.com/ch/184?key=000
+#EXTINF:-1 tvg-name="Kernel TV Марвел сериалы HD" group-title="КиноЗал",Kernel TV Марвел сериалы HD
+https://blacktulipstav.onrender.com/ch/185?key=000
+#EXTINF:-1 tvg-name="Kernel TV Интерны HD" group-title="КиноЗал",Kernel TV Интерны HD
+https://blacktulipstav.onrender.com/ch/186?key=000
+#EXTINF:-1 tvg-name="Kernel TV Сваты HD" group-title="КиноЗал",Kernel TV Сваты HD
+https://blacktulipstav.onrender.com/ch/187?key=000
+#EXTINF:-1 tvg-name="Kernel TV Космос HD" group-title="КиноЗал",Kernel TV Космос HD
+https://blacktulipstav.onrender.com/ch/188?key=000
+#EXTINF:-1 tvg-name="Kernel TV Комедия HD" group-title="КиноЗал",Kernel TV Комедия HD
+https://blacktulipstav.onrender.com/ch/189?key=000
+#EXTINF:-1 tvg-name="Kernel TV Доктор HD" group-title="КиноЗал",Kernel TV Доктор HD
+https://blacktulipstav.onrender.com/ch/190?key=000
+#EXTINF:-1 tvg-name="Kernel TV Герой HD" group-title="КиноЗал",Kernel TV Герой HD
+https://blacktulipstav.onrender.com/ch/191?key=000
+#EXTINF:-1 tvg-name="Kernel TV Время HD" group-title="КиноЗал",Kernel TV Время HD
+https://blacktulipstav.onrender.com/ch/192?key=000
+#EXTINF:-1 tvg-name="Kernel TV Бумажный дом HD" group-title="КиноЗал",Kernel TV Бумажный дом HD
+https://blacktulipstav.onrender.com/ch/193?key=000
+#EXTINF:-1 tvg-name="БубOKKO тв HD" group-title="Детки.Тв",БубOKKO тв HD
+https://blacktulipstav.onrender.com/ch/144?key=000
+#EXTINF:-1 tvg-name="Kernel TV Аладдин HD" group-title="Детки.Тв",Kernel TV Аладдин HD
+https://blacktulipstav.onrender.com/ch/194?key=000
+#EXTINF:-1 tvg-name="Kernel TV Алиса HD" group-title="Детки.Тв",Kernel TV Алиса HD
+https://blacktulipstav.onrender.com/ch/195?key=000
+#EXTINF:-1 tvg-name="Kernel TV Аниме HD" group-title="Детки.Тв",Kernel TV Аниме HD
+https://blacktulipstav.onrender.com/ch/196?key=000
+#EXTINF:-1 tvg-name="Kernel TV Барбоскины HD" group-title="Детки.Тв",Kernel TV Барбоскины HD
+https://blacktulipstav.onrender.com/ch/197?key=000
+#EXTINF:-1 tvg-name="Kernel TV Бен 10 HD" group-title="Детки.Тв",Kernel TV Бен 10 HD
+https://blacktulipstav.onrender.com/ch/198?key=000
+#EXTINF:-1 tvg-name="Kernel TV Буба HD" group-title="Детки.Тв",Kernel TV Буба HD
+https://blacktulipstav.onrender.com/ch/199?key=000
+#EXTINF:-1 tvg-name="Kernel TV Винни и его друзья HD" group-title="Детки.Тв",Kernel TV Винни и его друзья HD
+https://blacktulipstav.onrender.com/ch/200?key=000
+#EXTINF:-1 tvg-name="Kernel TV Гравити Фолз HD" group-title="Детки.Тв",Kernel TV Гравити Фолз HD
+https://blacktulipstav.onrender.com/ch/201?key=000
+#EXTINF:-1 tvg-name="Kernel TV Губка Боб Квадратные Штаны HD" group-title="Детки.Тв",Kernel TV Губка Боб Квадратные Штаны HD
+https://blacktulipstav.onrender.com/ch/202?key=000
+#EXTINF:-1 tvg-name="Kernel TV Драконы и всадники Олуха HD" group-title="Детки.Тв",Kernel TV Драконы и всадники Олуха HD
+https://blacktulipstav.onrender.com/ch/203?key=000
+#EXTINF:-1 tvg-name="Kernel TV Звёздные войны HD" group-title="Детки.Тв",Kernel TV Звёздные войны HD
+https://blacktulipstav.onrender.com/ch/204?key=000
+#EXTINF:-1 tvg-name="Kernel TV Команда Турбо HD" group-title="Детки.Тв",Kernel TV Команда Турбо HD
+https://blacktulipstav.onrender.com/ch/205?key=000
+#EXTINF:-1 tvg-name="Kernel TV Скорость HD" group-title="Детки.Тв",Kernel TV Скорость HD
+https://blacktulipstav.onrender.com/ch/206?key=000
+#EXTINF:-1 tvg-name="Kernel TV Роботы HD" group-title="Детки.Тв",Kernel TV Роботы HD
+https://blacktulipstav.onrender.com/ch/207?key=000
+#EXTINF:-1 tvg-name="Kernel TV Лего HD" group-title="Детки.Тв",Kernel TV Лего HD
+https://blacktulipstav.onrender.com/ch/208?key=000
+#EXTINF:-1 tvg-name="Kernel TV Леди Баг и супер Кот HD" group-title="Детки.Тв",Kernel TV Леди Баг и супер Кот HD
+https://blacktulipstav.onrender.com/ch/209?key=000
+#EXTINF:-1 tvg-name="Kernel TV Лило и Стич HD" group-title="Детки.Тв",Kernel TV Лило и Стич HD
+https://blacktulipstav.onrender.com/ch/210?key=000
+#EXTINF:-1 tvg-name="Kernel TV Лунтик HD" group-title="Детки.Тв",Kernel TV Лунтик HD
+https://blacktulipstav.onrender.com/ch/211?key=000
+#EXTINF:-1 tvg-name="Kernel TV Люк путешественник во времени HD" group-title="Детки.Тв",Kernel TV Люк путешественник во времени HD
+https://blacktulipstav.onrender.com/ch/212?key=000
+#EXTINF:-1 tvg-name="Kernel TV Магия HD" group-title="Детки.Тв",Kernel TV Магия HD
+https://blacktulipstav.onrender.com/ch/213?key=000
+#EXTINF:-1 tvg-name="Kernel TV Маша и Медведь HD" group-title="Детки.Тв",Kernel TV Маша и Медведь HD
+https://blacktulipstav.onrender.com/ch/214?key=000
+#EXTINF:-1 tvg-name="Kernel TV Ми-ми-мишки HD" group-title="Детки.Тв",Kernel TV Ми-ми-мишки HD
+https://blacktulipstav.onrender.com/ch/215?key=000
+#EXTINF:-1 tvg-name="Kernel TV МиниФорс HD" group-title="Детки.Тв",Kernel TV МиниФорс HD
+https://blacktulipstav.onrender.com/ch/216?key=000
+#EXTINF:-1 tvg-name="Kernel TV Мой маленький Пони HD" group-title="Детки.Тв",Kernel TV Мой маленький Пони HD
+https://blacktulipstav.onrender.com/ch/217?key=000
+#EXTINF:-1 tvg-name="Kernel TV Пушистики HD" group-title="Детки.Тв",Kernel TV Пушистики HD
+https://blacktulipstav.onrender.com/ch/218?key=000
+#EXTINF:-1 tvg-name="Kernel TV Русалочка HD" group-title="Детки.Тв",Kernel TV Русалочка HD
+https://blacktulipstav.onrender.com/ch/219?key=000
+#EXTINF:-1 tvg-name="Kernel TV Смешарики HD" group-title="Детки.Тв",Kernel TV Смешарики HD
+https://blacktulipstav.onrender.com/ch/220?key=000
+#EXTINF:-1 tvg-name="Kernel TV Сонник Бум HD" group-title="Детки.Тв",Kernel TV Сонник Бум HD
+https://blacktulipstav.onrender.com/ch/221?key=000
+#EXTINF:-1 tvg-name="Kernel TV Супер крылья HD" group-title="Детки.Тв",Kernel TV Супер крылья HD
+https://blacktulipstav.onrender.com/ch/222?key=000
+#EXTINF:-1 tvg-name="Kernel TV Тимон и Пумба HD" group-title="Детки.Тв",Kernel TV Тимон и Пумба HD
+https://blacktulipstav.onrender.com/ch/223?key=000
+#EXTINF:-1 tvg-name="Kernel TV Том и Джерри HD" group-title="Детки.Тв",Kernel TV Том и Джерри HD
+https://blacktulipstav.onrender.com/ch/224?key=000
+#EXTINF:-1 tvg-name="Kernel TV Утиные истории HD" group-title="Детки.Тв",Kernel TV Утиные истории HD
+https://blacktulipstav.onrender.com/ch/225?key=000
+#EXTINF:-1 tvg-name="Kernel TV Фиксики HD" group-title="Детки.Тв",Kernel TV Фиксики HD
+https://blacktulipstav.onrender.com/ch/226?key=000
+#EXTINF:-1 tvg-name="Kernel TV Футурама HD" group-title="Детки.Тв",Kernel TV Футурама HD
+https://blacktulipstav.onrender.com/ch/228?key=000
+#EXTINF:-1 tvg-name="Kernel TV Царевны HD" group-title="Детки.Тв",Kernel TV Царевны HD
+https://blacktulipstav.onrender.com/ch/229?key=000
+#EXTINF:-1 tvg-name="Kernel TV Человек-паук HD" group-title="Детки.Тв",Kernel TV Человек-паук HD
+https://blacktulipstav.onrender.com/ch/230?key=000
+#EXTINF:-1 tvg-name="Kernel TV Черепашки ниндзя HD" group-title="Детки.Тв",Kernel TV Черепашки ниндзя HD
+https://blacktulipstav.onrender.com/ch/231?key=000
+#EXTINF:-1 tvg-name="Kernel TV Чип и Дейл HD" group-title="Детки.Тв",Kernel TV Чип и Дейл HD
+https://blacktulipstav.onrender.com/ch/232?key=000
+#EXTINF:-1 tvg-name="Kernel TV Чёрный плащ HD" group-title="Детки.Тв",Kernel TV Чёрный плащ HD
+https://blacktulipstav.onrender.com/ch/233?key=000
+#EXTINF:-1 tvg-name="Kernel TV Щенячий патруль HD" group-title="Детки.Тв",Kernel TV Щенячий патруль HD
+https://blacktulipstav.onrender.com/ch/234?key=000
+#EXTINF:-1 tvg-name="Kernel TV Подружки HD" group-title="Детки.Тв",Kernel TV Подружки HD
+https://blacktulipstav.onrender.com/ch/235?key=000
+#EXTINF:-1 tvg-name="Kernel TV Малыш HD" group-title="Детки.Тв",Kernel TV Малыш HD
+https://blacktulipstav.onrender.com/ch/236?key=000
+#EXTINF:-1 tvg-name="СТС Kids HD" group-title="Детки.Тв",СТС Kids HD
+https://blacktulipstav.onrender.com/ch/237?key=000
+#EXTINF:-1 tvg-name="Рыжий" group-title="Детки.Тв",Рыжий
+https://blacktulipstav.onrender.com/ch/238?key=000
+#EXTINF:-1 tvg-name="В гостях у сказки HD" group-title="Детки.Тв",В гостях у сказки HD
+https://blacktulipstav.onrender.com/ch/239?key=000
+#EXTINF:-1 tvg-name="Мама " group-title="Детки.Тв",Мама 
+https://blacktulipstav.onrender.com/ch/240?key=000
+#EXTINF:-1 tvg-name="2x2 HD" group-title="Детки.Тв",2x2 HD
+https://blacktulipstav.onrender.com/ch/241?key=000
+#EXTINF:-1 tvg-name="Солнце" group-title="Детки.Тв",Солнце
+https://blacktulipstav.onrender.com/ch/242?key=000
+#EXTINF:-1 tvg-name="Cartoonito" group-title="Детки.Тв",Cartoonito
+https://blacktulipstav.onrender.com/ch/243?key=000
+#EXTINF:-1 tvg-name="Cartoon Network HD" group-title="Детки.Тв",Cartoon Network HD
+https://blacktulipstav.onrender.com/ch/244?key=000
+#EXTINF:-1 tvg-name="Nickelodeon HD" group-title="Детки.Тв",Nickelodeon HD
+https://blacktulipstav.onrender.com/ch/246?key=000
+#EXTINF:-1 tvg-name="Nick Jr." group-title="Детки.Тв",Nick Jr.
+https://blacktulipstav.onrender.com/ch/247?key=000
+#EXTINF:-1 tvg-name="Мультиландия" group-title="Детки.Тв",Мультиландия
+https://blacktulipstav.onrender.com/ch/248?key=000
+#EXTINF:-1 tvg-name="Карусель HD" group-title="Детки.Тв",Карусель HD
+https://blacktulipstav.onrender.com/ch/250?key=000
+#EXTINF:-1 tvg-name="TiJi" group-title="Детки.Тв",TiJi
+https://blacktulipstav.onrender.com/ch/251?key=000
+#EXTINF:-1 tvg-name="Gulli Girl" group-title="Детки.Тв",Gulli Girl
+https://blacktulipstav.onrender.com/ch/252?key=000
+#EXTINF:-1 tvg-name="Детский" group-title="Детки.Тв",Детский
+https://blacktulipstav.onrender.com/ch/253?key=000
+#EXTINF:-1 tvg-name="Мультимузыка" group-title="Детки.Тв",Мультимузыка
+https://blacktulipstav.onrender.com/ch/254?key=000
+#EXTINF:-1 tvg-name="Лёва HD" group-title="Детки.Тв",Лёва HD
+https://blacktulipstav.onrender.com/ch/255?key=000
+#EXTINF:-1 tvg-name="Мульт HD" group-title="Детки.Тв",Мульт HD
+https://blacktulipstav.onrender.com/ch/256?key=000
+#EXTINF:-1 tvg-name="КиноМульт" group-title="Детки.Тв",КиноМульт
+https://blacktulipstav.onrender.com/ch/257?key=000
+#EXTINF:-1 tvg-name="CineMan Cartoons 90 HD" group-title="Детки.Тв",CineMan Cartoons 90 HD
+https://blacktulipstav.onrender.com/ch/258?key=000
+#EXTINF:-1 tvg-name="CineMan Cartoons BIG HD" group-title="Детки.Тв",CineMan Cartoons BIG HD
+https://blacktulipstav.onrender.com/ch/259?key=000
+#EXTINF:-1 tvg-name="CineMan Cartoons Short HD" group-title="Детки.Тв",CineMan Cartoons Short HD
+https://blacktulipstav.onrender.com/ch/260?key=000
+#EXTINF:-1 tvg-name="BCU Kids HD" group-title="Детки.Тв",BCU Kids HD
+https://blacktulipstav.onrender.com/ch/262?key=000
+#EXTINF:-1 tvg-name="BCU Kids+ HD" group-title="Детки.Тв",BCU Kids+ HD
+https://blacktulipstav.onrender.com/ch/263?key=000
+#EXTINF:-1 tvg-name="BCU Мультсериал HD" group-title="Детки.Тв",BCU Мультсериал HD
+https://blacktulipstav.onrender.com/ch/264?key=000
+#EXTINF:-1 tvg-name="BCU Little HD" group-title="Детки.Тв",BCU Little HD
+https://blacktulipstav.onrender.com/ch/265?key=000
+#EXTINF:-1 tvg-name="Капитан Фантастика HD" group-title="Детки.Тв",Капитан Фантастика HD
+https://blacktulipstav.onrender.com/ch/266?key=000
+#EXTINF:-1 tvg-name="MM Tom and Jerry HD" group-title="Детки.Тв",MM Tom and Jerry HD
+https://blacktulipstav.onrender.com/ch/506?key=000
+#EXTINF:-1 tvg-name="MM Walt Disney HD" group-title="Детки.Тв",MM Walt Disney HD
+https://blacktulipstav.onrender.com/ch/507?key=000
+#EXTINF:-1 tvg-name="MM Honey HD" group-title="Детки.Тв",MM Honey HD
+https://blacktulipstav.onrender.com/ch/508?key=000
+#EXTINF:-1 tvg-name="MM Smile HD" group-title="Детки.Тв",MM Smile HD
+https://blacktulipstav.onrender.com/ch/509?key=000
+#EXTINF:-1 tvg-name="MM Lesson HD" group-title="Детки.Тв",MM Lesson HD
+https://blacktulipstav.onrender.com/ch/510?key=000
+#EXTINF:-1 tvg-name="MM Гриффины HD" group-title="Детки.Тв",MM Гриффины HD
+https://blacktulipstav.onrender.com/ch/511?key=000
+#EXTINF:-1 tvg-name="MS TOONS HD" group-title="Детки.Тв",MS TOONS HD
+https://blacktulipstav.onrender.com/ch/512?key=000
+#EXTINF:-1 tvg-name="MM USSR Мультфильм HD" group-title="Детки.Тв",MM USSR Мультфильм HD
+https://blacktulipstav.onrender.com/ch/497?key=000
+#EXTINF:-1 tvg-name="MM Live Planet HD" group-title="Россия",MM Live Planet HD
+https://blacktulipstav.onrender.com/ch/498?key=000
+#EXTINF:-1 tvg-name="MM Relax HD" group-title="Россия",MM Relax HD
+https://blacktulipstav.onrender.com/ch/499?key=000
+#EXTINF:-1 tvg-name="MM Experiment HD" group-title="Россия",MM Experiment HD
+https://blacktulipstav.onrender.com/ch/500?key=000
+#EXTINF:-1 tvg-name="MM Микромир HD" group-title="Россия",MM Микромир HD
+https://blacktulipstav.onrender.com/ch/501?key=000
+#EXTINF:-1 tvg-name="MM Макромир HD" group-title="Россия",MM Макромир HD
+https://blacktulipstav.onrender.com/ch/502?key=000
+#EXTINF:-1 tvg-name="MM Мегамир HD" group-title="Россия",MM Мегамир HD
+https://blacktulipstav.onrender.com/ch/503?key=000
+#EXTINF:-1 tvg-name="MM Открытия HD" group-title="Россия",MM Открытия HD
+https://blacktulipstav.onrender.com/ch/504?key=000
+#EXTINF:-1 tvg-name="Кухня HD" group-title="Россия",Кухня HD
+https://blacktulipstav.onrender.com/ch/267?key=000
+#EXTINF:-1 tvg-name="Еда" group-title="Россия",Еда
+https://blacktulipstav.onrender.com/ch/268?key=000
+#EXTINF:-1 tvg-name="FoodTime HD" group-title="Россия",FoodTime HD
+https://blacktulipstav.onrender.com/ch/269?key=000
+#EXTINF:-1 tvg-name="BOX Gurman HD" group-title="Россия",BOX Gurman HD
+https://blacktulipstav.onrender.com/ch/271?key=000
+#EXTINF:-1 tvg-name="Телекафе" group-title="Россия",Телекафе
+https://blacktulipstav.onrender.com/ch/272?key=000
+#EXTINF:-1 tvg-name="Загородный" group-title="Россия",Загородный
+https://blacktulipstav.onrender.com/ch/273?key=000
+#EXTINF:-1 tvg-name="Ностальгия" group-title="Россия",Ностальгия
+https://blacktulipstav.onrender.com/ch/274?key=000
+#EXTINF:-1 tvg-name="Драйв HD" group-title="Спорт",Драйв HD
+https://blacktulipstav.onrender.com/ch/275?key=000
+#EXTINF:-1 tvg-name="TLC HD" group-title="Познаю.Tв",TLC HD
+https://blacktulipstav.onrender.com/ch/276?key=000
+#EXTINF:-1 tvg-name="HGTV HD" group-title="Познаю.Tв",HGTV HD
+https://blacktulipstav.onrender.com/ch/277?key=000
+#EXTINF:-1 tvg-name="Animal Planet HD" group-title="Познаю.Tв",Animal Planet HD
+https://blacktulipstav.onrender.com/ch/279?key=000
+#EXTINF:-1 tvg-name="Discovery Channel HD" group-title="Познаю.Tв",Discovery Channel HD
+https://blacktulipstav.onrender.com/ch/281?key=000
+#EXTINF:-1 tvg-name="Investigation Discovery HD" group-title="Познаю.Tв",Investigation Discovery HD
+https://blacktulipstav.onrender.com/ch/282?key=000
+#EXTINF:-1 tvg-name="TERRA HD" group-title="Познаю.Tв",TERRA HD
+https://blacktulipstav.onrender.com/ch/283?key=000
+#EXTINF:-1 tvg-name="National Geographic Wild HD" group-title="Познаю.Tв",National Geographic Wild HD
+https://blacktulipstav.onrender.com/ch/285?key=000
+#EXTINF:-1 tvg-name="National Geographic HD" group-title="Познаю.Tв",National Geographic HD
+https://blacktulipstav.onrender.com/ch/286?key=000
+#EXTINF:-1 tvg-name="Домашние животные" group-title="Познаю.Tв",Домашние животные
+https://blacktulipstav.onrender.com/ch/288?key=000
+#EXTINF:-1 tvg-name="Лапки Live" group-title="Россия",Лапки Live
+https://blacktulipstav.onrender.com/ch/289?key=000
+#EXTINF:-1 tvg-name="История" group-title="Познаю.Tв",История
+https://blacktulipstav.onrender.com/ch/290?key=000
+#EXTINF:-1 tvg-name="Travel Channel HD" group-title="Познаю.Tв",Travel Channel HD
+https://blacktulipstav.onrender.com/ch/292?key=000
+#EXTINF:-1 tvg-name="Телепутешествия HD" group-title="Познаю.Tв",Телепутешествия HD
+https://blacktulipstav.onrender.com/ch/293?key=000
+#EXTINF:-1 tvg-name="Travel+Adventure HD" group-title="Познаю.Tв",Travel+Adventure HD
+https://blacktulipstav.onrender.com/ch/294?key=000
+#EXTINF:-1 tvg-name="BOX Travel HD" group-title="Россия",BOX Travel HD
+https://blacktulipstav.onrender.com/ch/295?key=000
+#EXTINF:-1 tvg-name="BOX Travel Premiere HD" group-title="Россия",BOX Travel Premiere HD
+https://blacktulipstav.onrender.com/ch/296?key=000
+#EXTINF:-1 tvg-name="BOX Docu HD" group-title="Россия",BOX Docu HD
+https://blacktulipstav.onrender.com/ch/297?key=000
+#EXTINF:-1 tvg-name="BOX Stories HD" group-title="Россия",BOX Stories HD
+https://blacktulipstav.onrender.com/ch/298?key=000
+#EXTINF:-1 tvg-name="History HD" group-title="Познаю.Tв",History HD
+https://blacktulipstav.onrender.com/ch/299?key=000
+#EXTINF:-1 tvg-name="History 2 HD" group-title="Познаю.Tв",History 2 HD
+https://blacktulipstav.onrender.com/ch/300?key=000
+#EXTINF:-1 tvg-name="Нано HD" group-title="Познаю.Tв",Нано HD
+https://blacktulipstav.onrender.com/ch/301?key=000
+#EXTINF:-1 tvg-name="viju History HD" group-title="Познаю.Tв",viju History HD
+https://blacktulipstav.onrender.com/ch/302?key=000
+#EXTINF:-1 tvg-name="viju Explore HD" group-title="Познаю.Tв",viju Explore HD
+https://blacktulipstav.onrender.com/ch/303?key=000
+#EXTINF:-1 tvg-name="viju Nature HD" group-title="Познаю.Tв",viju Nature HD
+https://blacktulipstav.onrender.com/ch/304?key=000
+#EXTINF:-1 tvg-name="Da Vinci" group-title="Познаю.Tв",Da Vinci
+https://blacktulipstav.onrender.com/ch/305?key=000
+#EXTINF:-1 tvg-name="ТОЧКА.РФ" group-title="Разное",ТОЧКА.РФ
+https://blacktulipstav.onrender.com/ch/306?key=000
+#EXTINF:-1 tvg-name="365 дней ТВ HD" group-title="Познаю.Tв",365 дней ТВ HD
+https://blacktulipstav.onrender.com/ch/307?key=000
+#EXTINF:-1 tvg-name="Океан HD" group-title="Познаю.Tв",Океан HD
+https://blacktulipstav.onrender.com/ch/308?key=000
+#EXTINF:-1 tvg-name="Живая природа HD" group-title="Познаю.Tв",Живая природа HD
+https://blacktulipstav.onrender.com/ch/309?key=000
+#EXTINF:-1 tvg-name="Охота и Рыбалка HD" group-title="Познаю.Tв",Охота и Рыбалка HD
+https://blacktulipstav.onrender.com/ch/310?key=000
+#EXTINF:-1 tvg-name="Охотник и Рыболов HD" group-title="Познаю.Tв",Охотник и Рыболов HD
+https://blacktulipstav.onrender.com/ch/311?key=000
+#EXTINF:-1 tvg-name="Дикий" group-title="Познаю.Tв",Дикий
+https://blacktulipstav.onrender.com/ch/312?key=000
+#EXTINF:-1 tvg-name="Дикая охота HD" group-title="Познаю.Tв",Дикая охота HD
+https://blacktulipstav.onrender.com/ch/313?key=000
+#EXTINF:-1 tvg-name="Дикая рыбалка HD" group-title="Россия",Дикая рыбалка HD
+https://blacktulipstav.onrender.com/ch/314?key=000
+#EXTINF:-1 tvg-name="БОБЁР" group-title="Познаю.Tв",БОБЁР
+https://blacktulipstav.onrender.com/ch/315?key=000
+#EXTINF:-1 tvg-name="Т24" group-title="Разное",Т24
+https://blacktulipstav.onrender.com/ch/316?key=000
+#EXTINF:-1 tvg-name="Russian Travel Guide HD" group-title="Познаю.Tв",Russian Travel Guide HD
+https://blacktulipstav.onrender.com/ch/317?key=000
+#EXTINF:-1 tvg-name="Моя планета HD" group-title="Познаю.Tв",Моя планета HD
+https://blacktulipstav.onrender.com/ch/319?key=000
+#EXTINF:-1 tvg-name="The Explorers" group-title="Познаю.Tв",The Explorers
+https://blacktulipstav.onrender.com/ch/320?key=000
+#EXTINF:-1 tvg-name="Психология21" group-title="Познаю.Tв",Психология21
+https://blacktulipstav.onrender.com/ch/321?key=000
+#EXTINF:-1 tvg-name="Доктор HD" group-title="Познаю.Tв",Доктор HD
+https://blacktulipstav.onrender.com/ch/322?key=000
+#EXTINF:-1 tvg-name="ЖИВИ!" group-title="Спорт",ЖИВИ!
+https://blacktulipstav.onrender.com/ch/323?key=000
+#EXTINF:-1 tvg-name="Наука HD" group-title="Познаю.Tв",Наука HD
+https://blacktulipstav.onrender.com/ch/324?key=000
+#EXTINF:-1 tvg-name="КТО ЕСТЬ КТО" group-title="Познаю.Tв",КТО ЕСТЬ КТО
+https://blacktulipstav.onrender.com/ch/325?key=000
+#EXTINF:-1 tvg-name="Здоровое ТВ" group-title="Познаю.Tв",Здоровое ТВ
+https://blacktulipstav.onrender.com/ch/326?key=000
+#EXTINF:-1 tvg-name="Усадьба" group-title="Познаю.Tв",Усадьба
+https://blacktulipstav.onrender.com/ch/327?key=000
+#EXTINF:-1 tvg-name="Оружие" group-title="Разное",Оружие
+https://blacktulipstav.onrender.com/ch/328?key=000
+#EXTINF:-1 tvg-name="Арсенал HD" group-title="Разное",Арсенал HD
+https://blacktulipstav.onrender.com/ch/329?key=000
+#EXTINF:-1 tvg-name="Zooпарк HD" group-title="Россия",Zooпарк HD
+https://blacktulipstav.onrender.com/ch/330?key=000
+#EXTINF:-1 tvg-name="Приключения HD" group-title="Россия",Приключения HD
+https://blacktulipstav.onrender.com/ch/331?key=000
+#EXTINF:-1 tvg-name="English Class HD" group-title="Познаю.Tв",English Class HD
+https://blacktulipstav.onrender.com/ch/332?key=000
+#EXTINF:-1 tvg-name="KinoLiving HD" group-title="Россия",KinoLiving HD
+https://blacktulipstav.onrender.com/ch/333?key=000
+#EXTINF:-1 tvg-name="Успех" group-title="Познаю.Tв",Успех
+https://blacktulipstav.onrender.com/ch/334?key=000
+#EXTINF:-1 tvg-name="Продвижение" group-title="Россия",Продвижение
+https://blacktulipstav.onrender.com/ch/335?key=000
+#EXTINF:-1 tvg-name="Суспільне Спорт HD UA" group-title="Украина",Суспільне Спорт HD UA
+https://blacktulipstav.onrender.com/ch/339?key=000
+#EXTINF:-1 tvg-name="UPL.TV UA" group-title="Украина",UPL.TV UA
+https://blacktulipstav.onrender.com/ch/341?key=000
+#EXTINF:-1 tvg-name="НТН HD UA" group-title="Украина",НТН HD UA
+https://blacktulipstav.onrender.com/ch/346?key=000
+#EXTINF:-1 tvg-name="2+2 HD UA" group-title="Украина",2+2 HD UA
+https://blacktulipstav.onrender.com/ch/351?key=000
+#EXTINF:-1 tvg-name="ТЕТ HD UA" group-title="Украина",ТЕТ HD UA
+https://blacktulipstav.onrender.com/ch/354?key=000
+#EXTINF:-1 tvg-name="ICTV 2 HD UA" group-title="Украина",ICTV 2 HD UA
+https://blacktulipstav.onrender.com/ch/356?key=000
+#EXTINF:-1 tvg-name="SHOT TV HD" group-title="Украина",SHOT TV HD
+https://blacktulipstav.onrender.com/ch/360?key=000
+#EXTINF:-1 tvg-name="Мега HD UA" group-title="Украина",Мега HD UA
+https://blacktulipstav.onrender.com/ch/361?key=000
+#EXTINF:-1 tvg-name="ОЦЕ UA" group-title="Украина",ОЦЕ UA
+https://blacktulipstav.onrender.com/ch/362?key=000
+#EXTINF:-1 tvg-name="К1 HD UA" group-title="Украина",К1 HD UA
+https://blacktulipstav.onrender.com/ch/363?key=000
+#EXTINF:-1 tvg-name="К2 HD UA" group-title="Украина",К2 HD UA
+https://blacktulipstav.onrender.com/ch/364?key=000
+#EXTINF:-1 tvg-name="Enter-фільм HD UA" group-title="Украина",Enter-фільм HD UA
+https://blacktulipstav.onrender.com/ch/365?key=000
+#EXTINF:-1 tvg-name="Бігуді UA" group-title="Украина",Бігуді UA
+https://blacktulipstav.onrender.com/ch/366?key=000
+#EXTINF:-1 tvg-name="Bolt HD UA" group-title="Украина",Bolt HD UA
+https://blacktulipstav.onrender.com/ch/367?key=000
+#EXTINF:-1 tvg-name="Star Cinema HD UA" group-title="Украина",Star Cinema HD UA
+https://blacktulipstav.onrender.com/ch/368?key=000
+#EXTINF:-1 tvg-name="Ararat AM" group-title="Украина",Ararat AM
+https://blacktulipstav.onrender.com/ch/373?key=000
+#EXTINF:-1 tvg-name="Беларусь 1 HD BY" group-title="Разное",Беларусь 1 HD BY
+https://blacktulipstav.onrender.com/ch/374?key=000
+#EXTINF:-1 tvg-name="Беларусь 2 HD BY" group-title="Разное",Беларусь 2 HD BY
+https://blacktulipstav.onrender.com/ch/375?key=000
+#EXTINF:-1 tvg-name="Беларусь 3 HD BY" group-title="Разное",Беларусь 3 HD BY
+https://blacktulipstav.onrender.com/ch/376?key=000
+#EXTINF:-1 tvg-name="Беларусь 5 HD BY" group-title="Разное",Беларусь 5 HD BY
+https://blacktulipstav.onrender.com/ch/377?key=000
+#EXTINF:-1 tvg-name="Беларусь 24 BY" group-title="Разное",Беларусь 24 BY
+https://blacktulipstav.onrender.com/ch/378?key=000
+#EXTINF:-1 tvg-name="ОНТ HD BY" group-title="Разное",ОНТ HD BY
+https://blacktulipstav.onrender.com/ch/379?key=000
+#EXTINF:-1 tvg-name="СТВ HD BY" group-title="Разное",СТВ HD BY
+https://blacktulipstav.onrender.com/ch/380?key=000
+#EXTINF:-1 tvg-name="Kinoteatr UZ" group-title="Разное",Kinoteatr UZ
+https://blacktulipstav.onrender.com/ch/390?key=000
+#EXTINF:-1 tvg-name="Kavkasia GE" group-title=""Разное"",Kavkasia GE
+https://blacktulipstav.onrender.com/ch/408?key=000
+#EXTINF:-1 tvg-name="viju+ Comedy HD" group-title="КиноЗал",viju+ Comedy HD
+https://blacktulipstav.onrender.com/ch/414?key=000
+#EXTINF:-1 tvg-name="viju+ Megahit HD" group-title="КиноЗал",viju+ Megahit HD
+https://blacktulipstav.onrender.com/ch/415?key=000
+#EXTINF:-1 tvg-name="viju+ Premiere HD" group-title="КиноЗал",viju+ Premiere HD
+https://blacktulipstav.onrender.com/ch/416?key=000
+#EXTINF:-1 tvg-name="viju+ Serial HD" group-title="КиноЗал",viju+ Serial HD
+https://blacktulipstav.onrender.com/ch/417?key=000
+#EXTINF:-1 tvg-name="Шокирующее HD" group-title="КиноЗал",Шокирующее HD
+https://blacktulipstav.onrender.com/ch/418?key=000
+#EXTINF:-1 tvg-name="Комедийное HD" group-title="КиноЗал",Комедийное HD
+https://blacktulipstav.onrender.com/ch/419?key=000
+#EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD" group-title="КиноЗал",КИНОПРЕМЬЕРА HD
+https://blacktulipstav.onrender.com/ch/420?key=000
+#EXTINF:-1 tvg-name="AMEDIA Premium HD" group-title="КиноЗал",AMEDIA Premium HD
+https://blacktulipstav.onrender.com/ch/421?key=000
+#EXTINF:-1 tvg-name="AMEDIA 1 HD" group-title="КиноЗал",AMEDIA 1 HD
+https://blacktulipstav.onrender.com/ch/422?key=000
+#EXTINF:-1 tvg-name="Премиальное HD" group-title="КиноЗал",Премиальное HD
+https://blacktulipstav.onrender.com/ch/423?key=000
+#EXTINF:-1 tvg-name="Душевное HD" group-title="КиноЗал",Душевное HD
+https://blacktulipstav.onrender.com/ch/424?key=000
+#EXTINF:-1 tvg-name="Любимое HD" group-title="КиноЗал",Любимое HD
+https://blacktulipstav.onrender.com/ch/425?key=000
+#EXTINF:-1 tvg-name="Дом Кино Премиум HD" group-title="КиноЗал",Дом Кино Премиум HD
+https://blacktulipstav.onrender.com/ch/426?key=000
+#EXTINF:-1 tvg-name="Остросюжетное HD" group-title="КиноЗал",Остросюжетное HD
+https://blacktulipstav.onrender.com/ch/427?key=000
+#EXTINF:-1 tvg-name="AMEDIA Hit HD" group-title="КиноЗал",AMEDIA Hit HD
+https://blacktulipstav.onrender.com/ch/428?key=000
+#EXTINF:-1 tvg-name="FX HD" group-title="КиноЗал",FX HD
+https://blacktulipstav.onrender.com/ch/429?key=000
+#EXTINF:-1 tvg-name="САПФИР HD" group-title="КиноЗал",САПФИР HD
+https://blacktulipstav.onrender.com/ch/430?key=000
+#EXTINF:-1 tvg-name="Комедия" group-title="КиноЗал",Комедия
+https://blacktulipstav.onrender.com/ch/431?key=000
+#EXTINF:-1 tvg-name="Hollywood HD" group-title="КиноЗал",Hollywood HD
+https://blacktulipstav.onrender.com/ch/432?key=000
+#EXTINF:-1 tvg-name="FilmBox + festival HD" group-title="КиноЗал",FilmBox + festival HD
+https://blacktulipstav.onrender.com/ch/433?key=000
+#EXTINF:-1 tvg-name="Мир сериала HD" group-title="КиноЗал",Мир сериала HD
+https://blacktulipstav.onrender.com/ch/434?key=000
+#EXTINF:-1 tvg-name=".black HD" group-title="КиноЗал",.black HD
+https://blacktulipstav.onrender.com/ch/435?key=000
+#EXTINF:-1 tvg-name="О!" group-title="Детки.Тв",О!
+https://blacktulipstav.onrender.com/ch/436?key=000
+#EXTINF:-1 tvg-name="Мосфильм. Золотая коллекция HD" group-title="КиноЗал",Мосфильм. Золотая коллекция HD
+https://blacktulipstav.onrender.com/ch/437?key=000
+#EXTINF:-1 tvg-name="MM NewFilm 1 HD" group-title="КиноЗал",MM NewFilm 1 HD
+https://blacktulipstav.onrender.com/ch/438?key=000
+#EXTINF:-1 tvg-name="MM NewFilm 2 HD" group-title="КиноЗал",MM NewFilm 2 HD
+https://blacktulipstav.onrender.com/ch/439?key=000
+#EXTINF:-1 tvg-name="MM NewFilm 3 HD" group-title="КиноЗал",MM NewFilm 3 HD
+https://blacktulipstav.onrender.com/ch/440?key=000
+#EXTINF:-1 tvg-name="MM NewFilm RU HD" group-title="КиноЗал",MM NewFilm RU HD
+https://blacktulipstav.onrender.com/ch/441?key=000
+#EXTINF:-1 tvg-name="MM Боевик HD" group-title="КиноЗал",MM Боевик HD
+https://blacktulipstav.onrender.com/ch/442?key=000
+#EXTINF:-1 tvg-name="MM Катастрофа HD" group-title="КиноЗал",MM Катастрофа HD
+https://blacktulipstav.onrender.com/ch/443?key=000
+#EXTINF:-1 tvg-name="MM Комедия HD" group-title="КиноЗал",MM Комедия HD
+https://blacktulipstav.onrender.com/ch/444?key=000
+#EXTINF:-1 tvg-name="MM Супергерои HD" group-title="КиноЗал",MM Супергерои HD
+https://blacktulipstav.onrender.com/ch/445?key=000
+#EXTINF:-1 tvg-name="MM Ужасы HD" group-title="КиноЗал",MM Ужасы HD
+https://blacktulipstav.onrender.com/ch/446?key=000
+#EXTINF:-1 tvg-name="MM Love HD" group-title="КиноЗал",MM Love HD
+https://blacktulipstav.onrender.com/ch/447?key=000
+#EXTINF:-1 tvg-name="MM UFO HD" group-title="КиноЗал",MM UFO HD
+https://blacktulipstav.onrender.com/ch/448?key=000
+#EXTINF:-1 tvg-name="MM История HD" group-title="КиноЗал",MM История HD
+https://blacktulipstav.onrender.com/ch/449?key=000
+#EXTINF:-1 tvg-name="MM Киберпанк HD" group-title="КиноЗал",MM Киберпанк HD
+https://blacktulipstav.onrender.com/ch/450?key=000
+#EXTINF:-1 tvg-name="MM Кунг-Фу HD" group-title="КиноЗал",MM Кунг-Фу HD
+https://blacktulipstav.onrender.com/ch/451?key=000
+#EXTINF:-1 tvg-name="MM Семейный 1 HD" group-title="КиноЗал",MM Семейный 1 HD
+https://blacktulipstav.onrender.com/ch/452?key=000
+#EXTINF:-1 tvg-name="MM Семейный 2 HD" group-title="КиноЗал",MM Семейный 2 HD
+https://blacktulipstav.onrender.com/ch/453?key=000
+#EXTINF:-1 tvg-name="MM Спорт HD" group-title="КиноЗал",MM Спорт HD
+https://blacktulipstav.onrender.com/ch/454?key=000
+#EXTINF:-1 tvg-name="MM Фобия HD" group-title="КиноЗал",MM Фобия HD
+https://blacktulipstav.onrender.com/ch/455?key=000
+#EXTINF:-1 tvg-name="MM Celebrity HD" group-title="КиноЗал",MM Celebrity HD
+https://blacktulipstav.onrender.com/ch/456?key=000
+#EXTINF:-1 tvg-name="MM Агата Кристи HD" group-title="КиноЗал",MM Агата Кристи HD
+https://blacktulipstav.onrender.com/ch/458?key=000
+#EXTINF:-1 tvg-name="MM Вестерн HD" group-title="КиноЗал",MM Вестерн HD
+https://blacktulipstav.onrender.com/ch/459?key=000
+#EXTINF:-1 tvg-name="MM Грайндхаус HD" group-title="КиноЗал",MM Грайндхаус HD
+https://blacktulipstav.onrender.com/ch/460?key=000
+#EXTINF:-1 tvg-name="MM Затмение HD" group-title="КиноЗал",MM Затмение HD
+https://blacktulipstav.onrender.com/ch/461?key=000
+#EXTINF:-1 tvg-name="MM Квартирник HD" group-title="КиноЗал",MM Квартирник HD
+https://blacktulipstav.onrender.com/ch/462?key=000
+#EXTINF:-1 tvg-name="MM Криминал HD" group-title="КиноЗал",MM Криминал HD
+https://blacktulipstav.onrender.com/ch/463?key=000
+#EXTINF:-1 tvg-name="MM Мифология HD" group-title="КиноЗал",MM Мифология HD
+https://blacktulipstav.onrender.com/ch/464?key=000
+#EXTINF:-1 tvg-name="MM Нуар HD" group-title="КиноЗал",MM Нуар HD
+https://blacktulipstav.onrender.com/ch/465?key=000
+#EXTINF:-1 tvg-name="MM Погружение HD" group-title="КиноЗал",MM Погружение HD
+https://blacktulipstav.onrender.com/ch/466?key=000
+#EXTINF:-1 tvg-name="MM Синематограф HD" group-title="КиноЗал",MM Синематограф HD
+https://blacktulipstav.onrender.com/ch/467?key=000
+#EXTINF:-1 tvg-name="MM Скорость HD" group-title="КиноЗал",MM Скорость HD
+https://blacktulipstav.onrender.com/ch/468?key=000
+#EXTINF:-1 tvg-name="MM Стивен Кинг HD" group-title="КиноЗал",MM Стивен Кинг HD
+https://blacktulipstav.onrender.com/ch/469?key=000
+#EXTINF:-1 tvg-name="MM Триллер HD" group-title="КиноЗал",MM Триллер HD
+https://blacktulipstav.onrender.com/ch/470?key=000
+#EXTINF:-1 tvg-name="MM Ужастик HD" group-title="КиноЗал",MM Ужастик HD
+https://blacktulipstav.onrender.com/ch/471?key=000
+#EXTINF:-1 tvg-name="MM Фантастика HD" group-title="КиноЗал",MM Фантастика HD
+https://blacktulipstav.onrender.com/ch/472?key=000
+#EXTINF:-1 tvg-name="MM Приключения HD" group-title="КиноЗал",MM Приключения HD
+https://blacktulipstav.onrender.com/ch/473?key=000
+#EXTINF:-1 tvg-name="MM Translation HD" group-title="КиноЗал",MM Translation HD
+https://blacktulipstav.onrender.com/ch/474?key=000
+#EXTINF:-1 tvg-name="MM Драма HD" group-title="КиноЗал",MM Драма HD
+https://blacktulipstav.onrender.com/ch/475?key=000
+#EXTINF:-1 tvg-name="MM Кинофестиваль HD" group-title="КиноЗал",MM Кинофестиваль HD
+https://blacktulipstav.onrender.com/ch/476?key=000
+#EXTINF:-1 tvg-name="MM Flip UHD" group-title="КиноЗал",MM Flip UHD
+https://blacktulipstav.onrender.com/ch/477?key=000
+#EXTINF:-1 tvg-name="MM 007 HD" group-title="КиноЗал",MM 007 HD
+https://blacktulipstav.onrender.com/ch/478?key=000
+#EXTINF:-1 tvg-name="MM Сваты HD" group-title="КиноЗал",MM Сваты HD
+https://blacktulipstav.onrender.com/ch/479?key=000
+#EXTINF:-1 tvg-name="MM Воронины HD" group-title="КиноЗал",MM Воронины HD
+https://blacktulipstav.onrender.com/ch/480?key=000
+#EXTINF:-1 tvg-name="MM Полицейский с Рублёвки HD" group-title="КиноЗал",MM Полицейский с Рублёвки HD
+https://blacktulipstav.onrender.com/ch/481?key=000
+#EXTINF:-1 tvg-name="MM Роскино" group-title="КиноЗал",MM Роскино
+https://blacktulipstav.onrender.com/ch/482?key=000
+#EXTINF:-1 tvg-name="MM Крутые 90-е HD" group-title="КиноЗал",MM Крутые 90-е HD
+https://blacktulipstav.onrender.com/ch/483?key=000
+#EXTINF:-1 tvg-name="MM OldSchool HD" group-title="КиноЗал",MM OldSchool HD
+https://blacktulipstav.onrender.com/ch/484?key=000
+#EXTINF:-1 tvg-name="MM Ситком HD" group-title="КиноЗал",MM Ситком HD
+https://blacktulipstav.onrender.com/ch/485?key=000
+#EXTINF:-1 tvg-name="MM Ситком 2.0 HD" group-title="КиноЗал",MM Ситком 2.0 HD
+https://blacktulipstav.onrender.com/ch/486?key=000
+#EXTINF:-1 tvg-name="MM Classic HD" group-title="КиноЗал",MM Classic HD
+https://blacktulipstav.onrender.com/ch/487?key=000
+#EXTINF:-1 tvg-name="MM Ужасы Classic HD" group-title="КиноЗал",MM Ужасы Classic HD
+https://blacktulipstav.onrender.com/ch/488?key=000
+#EXTINF:-1 tvg-name="MM Комедия Classic HD" group-title="КиноЗал",MM Комедия Classic HD
+https://blacktulipstav.onrender.com/ch/489?key=000
+#EXTINF:-1 tvg-name="MM Боевик Classic HD" group-title="КиноЗал",MM Боевик Classic HD
+https://blacktulipstav.onrender.com/ch/490?key=000
+#EXTINF:-1 tvg-name="MM USSR Драма HD" group-title="КиноЗал",MM USSR Драма HD
+https://blacktulipstav.onrender.com/ch/491?key=000
+#EXTINF:-1 tvg-name="MM USSR 1941-1945 HD" group-title="КиноЗал",MM USSR 1941-1945 HD
+https://blacktulipstav.onrender.com/ch/492?key=000
+#EXTINF:-1 tvg-name="MM USSR Приключения HD" group-title="КиноЗал",MM USSR Приключения HD
+https://blacktulipstav.onrender.com/ch/493?key=000
+#EXTINF:-1 tvg-name="MM USSR Сказки HD" group-title="КиноЗал",MM USSR Сказки HD
+https://blacktulipstav.onrender.com/ch/494?key=000
+#EXTINF:-1 tvg-name="MM USSR Комедия HD" group-title="КиноЗал",MM USSR Комедия HD
+https://blacktulipstav.onrender.com/ch/495?key=000
+#EXTINF:-1 tvg-name="MM USSR Детектив HD" group-title="КиноЗал",MM USSR Детектив HD
+https://blacktulipstav.onrender.com/ch/496?key=000
+#EXTINF:-1 tvg-name="MS ANIMATED HD" group-title="КиноЗал",MS ANIMATED HD
+https://blacktulipstav.onrender.com/ch/513?key=000
+#EXTINF:-1 tvg-name="MS CRIME HD" group-title="КиноЗал",MS CRIME HD
+https://blacktulipstav.onrender.com/ch/514?key=000
+#EXTINF:-1 tvg-name="MS PRISONS HD" group-title="КиноЗал",MS PRISONS HD
+https://blacktulipstav.onrender.com/ch/515?key=000
+#EXTINF:-1 tvg-name="MS YOUNG BLOOD HD" group-title="КиноЗал",MS YOUNG BLOOD HD
+https://blacktulipstav.onrender.com/ch/516?key=000
+#EXTINF:-1 tvg-name="MS MAGIC 4K" group-title="КиноЗал",MS MAGIC 4K
+https://blacktulipstav.onrender.com/ch/517?key=000
+#EXTINF:-1 tvg-name="GoldLine Короткие истории HD" group-title="КиноЗал",GoldLine Короткие истории HD
+https://blacktulipstav.onrender.com/ch/518?key=000
+#EXTINF:-1 tvg-name="GoldLine Улика HD" group-title="КиноЗал",GoldLine Улика HD
+https://blacktulipstav.onrender.com/ch/519?key=000
+#EXTINF:-1 tvg-name="GoldLine Паранормальное HD" group-title="КиноЗал",GoldLine Паранормальное HD
+https://blacktulipstav.onrender.com/ch/520?key=000
+#EXTINF:-1 tvg-name="GoldLine Остров HD" group-title="КиноЗал",GoldLine Остров HD
+https://blacktulipstav.onrender.com/ch/521?key=000
+#EXTINF:-1 tvg-name="GoldLine Голые и cмешные HD" group-title="КиноЗал",GoldLine Голые и cмешные HD
+https://blacktulipstav.onrender.com/ch/522?key=000
+#EXTINF:-1 tvg-name="GoldLine Психо HD" group-title="КиноЗал",GoldLine Психо HD
+https://blacktulipstav.onrender.com/ch/523?key=000
+#EXTINF:-1 tvg-name="GoldLine Сериалы HD" group-title="КиноЗал",GoldLine Сериалы HD
+https://blacktulipstav.onrender.com/ch/524?key=000
+#EXTINF:-1 tvg-name="GoldLine Выживание HD" group-title="КиноЗал",GoldLine Выживание HD
+https://blacktulipstav.onrender.com/ch/525?key=000
+#EXTINF:-1 tvg-name="GoldLine Детектив HD" group-title="КиноЗал",GoldLine Детектив HD
+https://blacktulipstav.onrender.com/ch/526?key=000
+#EXTINF:-1 tvg-name="GoldLine Невский HD" group-title="КиноЗал",GoldLine Невский HD
+https://blacktulipstav.onrender.com/ch/527?key=000
+#EXTINF:-1 tvg-name="GoldLine VHS HD" group-title="КиноЗал",GoldLine VHS HD
+https://blacktulipstav.onrender.com/ch/528?key=000
+#EXTINF:-1 tvg-name="GoldLine Civilizations HD" group-title="Познаю.Tв",GoldLine Civilizations HD
+https://blacktulipstav.onrender.com/ch/529?key=000
+#EXTINF:-1 tvg-name="CineMan HD" group-title="КиноЗал",CineMan HD
+https://blacktulipstav.onrender.com/ch/530?key=000
+#EXTINF:-1 tvg-name="CineMan TOP HD" group-title="КиноЗал",CineMan TOP HD
+https://blacktulipstav.onrender.com/ch/531?key=000
+#EXTINF:-1 tvg-name="CineMan Marvel HD" group-title="КиноЗал",CineMan Marvel HD
+https://blacktulipstav.onrender.com/ch/532?key=000
+#EXTINF:-1 tvg-name="CineMan Триллер HD" group-title="КиноЗал",CineMan Триллер HD
+https://blacktulipstav.onrender.com/ch/533?key=000
+#EXTINF:-1 tvg-name="CineMan Мелодрама HD" group-title="КиноЗал",CineMan Мелодрама HD
+https://blacktulipstav.onrender.com/ch/534?key=000
+#EXTINF:-1 tvg-name="CineMan Катастрофы HD" group-title="КиноЗал",CineMan Катастрофы HD
+https://blacktulipstav.onrender.com/ch/535?key=000
+#EXTINF:-1 tvg-name="CineMan Комедийные сериалы HD" group-title="КиноЗал",CineMan Комедийные сериалы HD
+https://blacktulipstav.onrender.com/ch/536?key=000
+#EXTINF:-1 tvg-name="CineMan MiniSeries HD" group-title="КиноЗал",CineMan MiniSeries HD
+https://blacktulipstav.onrender.com/ch/537?key=000
+#EXTINF:-1 tvg-name="CineMan Ужасы HD" group-title="КиноЗал",CineMan Ужасы HD
+https://blacktulipstav.onrender.com/ch/538?key=000
+#EXTINF:-1 tvg-name="CineMan Premium HD" group-title="КиноЗал",CineMan Premium HD
+https://blacktulipstav.onrender.com/ch/539?key=000
+#EXTINF:-1 tvg-name="CineMan Симпсоны HD" group-title="КиноЗал",CineMan Симпсоны HD
+https://blacktulipstav.onrender.com/ch/540?key=000
+#EXTINF:-1 tvg-name="CineMan Сваты HD" group-title="КиноЗал",CineMan Сваты HD
+https://blacktulipstav.onrender.com/ch/541?key=000
+#EXTINF:-1 tvg-name="CineMan VHS HD" group-title="КиноЗал",CineMan VHS HD
+https://blacktulipstav.onrender.com/ch/542?key=000
+#EXTINF:-1 tvg-name="CineMan Emergency Room HD" group-title="КиноЗал",CineMan Emergency Room HD
+https://blacktulipstav.onrender.com/ch/543?key=000
+#EXTINF:-1 tvg-name="CineMan Ментовские войны HD" group-title="КиноЗал",CineMan Ментовские войны HD
+https://blacktulipstav.onrender.com/ch/544?key=000
+#EXTINF:-1 tvg-name="CineMan Лесник HD" group-title="КиноЗал",CineMan Лесник HD
+https://blacktulipstav.onrender.com/ch/545?key=000
+#EXTINF:-1 tvg-name="CineMan ПёС + ЛИХАЧ HD" group-title="КиноЗал",CineMan ПёС + ЛИХАЧ HD
+https://blacktulipstav.onrender.com/ch/546?key=000
+#EXTINF:-1 tvg-name="CineMan Расследование авиакатастроф HD" group-title=""Познаю.Tв"",CineMan Расследование авиакатастроф HD
+https://blacktulipstav.onrender.com/ch/547?key=000
+#EXTINF:-1 tvg-name="CineMan Криминальные Сериалы HD" group-title="КиноЗал",CineMan Криминальные Сериалы HD
+https://blacktulipstav.onrender.com/ch/548?key=000
+#EXTINF:-1 tvg-name="CineMan Военные Сериалы HD" group-title="КиноЗал",CineMan Военные Сериалы HD
+https://blacktulipstav.onrender.com/ch/549?key=000
+#EXTINF:-1 tvg-name="CineMan Фитнес HD" group-title=""Познаю.Tв"",CineMan Фитнес HD
+https://blacktulipstav.onrender.com/ch/550?key=000
+#EXTINF:-1 tvg-name="CineMan РуКино HD" group-title="КиноЗал",CineMan РуКино HD
+https://blacktulipstav.onrender.com/ch/551?key=000
+#EXTINF:-1 tvg-name="CineMan СССР HD" group-title="КиноЗал",CineMan СССР HD
+https://blacktulipstav.onrender.com/ch/552?key=000
+#EXTINF:-1 tvg-name="BCUMEDIA HD" group-title="КиноЗал",BCUMEDIA HD
+https://blacktulipstav.onrender.com/ch/553?key=000
+#EXTINF:-1 tvg-name="BCU Premiere HDR" group-title="КиноЗал",BCU Premiere HDR
+https://blacktulipstav.onrender.com/ch/554?key=000
+#EXTINF:-1 tvg-name="BCU Premiere 1 HDR" group-title="КиноЗал",BCU Premiere 1 HDR
+https://blacktulipstav.onrender.com/ch/555?key=000
+#EXTINF:-1 tvg-name="BCU Premiere 2 HDR" group-title="КиноЗал",BCU Premiere 2 HDR
+https://blacktulipstav.onrender.com/ch/556?key=000
+#EXTINF:-1 tvg-name="BCU Premiere 3 HDR" group-title="КиноЗал",BCU Premiere 3 HDR
+https://blacktulipstav.onrender.com/ch/557?key=000
+#EXTINF:-1 tvg-name="BCU Fantastic HDR" group-title="КиноЗал",BCU Fantastic HDR
+https://blacktulipstav.onrender.com/ch/558?key=000
+#EXTINF:-1 tvg-name="BCU FilMystic HDR" group-title="КиноЗал",BCU FilMystic HDR
+https://blacktulipstav.onrender.com/ch/559?key=000
+#EXTINF:-1 tvg-name="BCU Marvel HDR" group-title="КиноЗал",BCU Marvel HDR
+https://blacktulipstav.onrender.com/ch/560?key=000
+#EXTINF:-1 tvg-name="BCU Action HDR" group-title="КиноЗал",BCU Action HDR
+https://blacktulipstav.onrender.com/ch/561?key=000
+#EXTINF:-1 tvg-name="BCU Comedy HD" group-title="КиноЗал",BCU Comedy HD
+https://blacktulipstav.onrender.com/ch/562?key=000
+#EXTINF:-1 tvg-name="BCU Cosmo HDR" group-title="КиноЗал",BCU Cosmo HDR
+https://blacktulipstav.onrender.com/ch/563?key=000
+#EXTINF:-1 tvg-name="BCU Cinema HD" group-title="КиноЗал",BCU Cinema HD
+https://blacktulipstav.onrender.com/ch/564?key=000
+#EXTINF:-1 tvg-name="BCU Cinema+ HD" group-title="КиноЗал",BCU Cinema+ HD
+https://blacktulipstav.onrender.com/ch/565?key=000
+#EXTINF:-1 tvg-name="BCU Catastrophe HD" group-title="КиноЗал",BCU Catastrophe HD
+https://blacktulipstav.onrender.com/ch/566?key=000
+#EXTINF:-1 tvg-name="BCU Romantic HD" group-title="КиноЗал",BCU Romantic HD
+https://blacktulipstav.onrender.com/ch/567?key=000
+#EXTINF:-1 tvg-name="BCU History HD" group-title="КиноЗал",BCU History HD
+https://blacktulipstav.onrender.com/ch/568?key=000
+#EXTINF:-1 tvg-name="BCU Stars HD" group-title="КиноЗал",BCU Stars HD
+https://blacktulipstav.onrender.com/ch/569?key=000
+#EXTINF:-1 tvg-name="BCU Criminal HD" group-title="КиноЗал",BCU Criminal HD
+https://blacktulipstav.onrender.com/ch/570?key=000
+#EXTINF:-1 tvg-name="BCU Reality HD" group-title="КиноЗал",BCU Reality HD
+https://blacktulipstav.onrender.com/ch/571?key=000
+#EXTINF:-1 tvg-name="BCU TruMotion HD" group-title="КиноЗал",BCU TruMotion HD
+https://blacktulipstav.onrender.com/ch/572?key=000
+#EXTINF:-1 tvg-name="BCU Kinorating HD" group-title="КиноЗал",BCU Kinorating HD
+https://blacktulipstav.onrender.com/ch/573?key=000
+#EXTINF:-1 tvg-name="BCU Survival HD" group-title="КиноЗал",BCU Survival HD
+https://blacktulipstav.onrender.com/ch/574?key=000
+#EXTINF:-1 tvg-name="BCU Russian HD" group-title="КиноЗал",BCU Russian HD
+https://blacktulipstav.onrender.com/ch/575?key=000
+#EXTINF:-1 tvg-name="BCU Russia 90s HD" group-title="КиноЗал",BCU Russia 90s HD
+https://blacktulipstav.onrender.com/ch/576?key=000
+#EXTINF:-1 tvg-name="BCU RUSerial HD" group-title="КиноЗал",BCU RUSerial HD
+https://blacktulipstav.onrender.com/ch/577?key=000
+#EXTINF:-1 tvg-name="BCU Сваты HD" group-title="КиноЗал",BCU Сваты HD
+https://blacktulipstav.onrender.com/ch/578?key=000
+#EXTINF:-1 tvg-name="BCU Fantasy HDR" group-title="КиноЗал",BCU Fantasy HDR
+https://blacktulipstav.onrender.com/ch/579?key=000
+#EXTINF:-1 tvg-name="BCU VHS HD" group-title="КиноЗал",BCU VHS HD
+https://blacktulipstav.onrender.com/ch/580?key=000
+#EXTINF:-1 tvg-name="BOX Spy HD" group-title="КиноЗал",BOX Spy HD
+https://blacktulipstav.onrender.com/ch/581?key=000
+#EXTINF:-1 tvg-name="BOX Fantasy HD" group-title="КиноЗал",BOX Fantasy HD
+https://blacktulipstav.onrender.com/ch/582?key=000
+#EXTINF:-1 tvg-name="BOX Zombie HD" group-title="КиноЗал",BOX Zombie HD
+https://blacktulipstav.onrender.com/ch/583?key=000
+#EXTINF:-1 tvg-name="BOX Western HD" group-title="КиноЗал",BOX Western HD
+https://blacktulipstav.onrender.com/ch/584?key=000
+#EXTINF:-1 tvg-name="BOX Serial HD" group-title="КиноЗал",BOX Serial HD
+https://blacktulipstav.onrender.com/ch/585?key=000
+#EXTINF:-1 tvg-name="BOX Cyber HD" group-title="КиноЗал",BOX Cyber HD
+https://blacktulipstav.onrender.com/ch/586?key=000
+#EXTINF:-1 tvg-name="BOX Memory HD" group-title="КиноЗал",BOX Memory HD
+https://blacktulipstav.onrender.com/ch/587?key=000
+#EXTINF:-1 tvg-name="BOX M.Serial HD" group-title="КиноЗал",BOX M.Serial HD
+https://blacktulipstav.onrender.com/ch/588?key=000
+#EXTINF:-1 tvg-name="BOX Gangster HD" group-title="КиноЗал",BOX Gangster HD
+https://blacktulipstav.onrender.com/ch/589?key=000
+#EXTINF:-1 tvg-name="BOX Oscar HD" group-title="КиноЗал",BOX Oscar HD
+https://blacktulipstav.onrender.com/ch/590?key=000
+#EXTINF:-1 tvg-name="BOX Ghost HD" group-title="КиноЗал",BOX Ghost HD
+https://blacktulipstav.onrender.com/ch/591?key=000
+#EXTINF:-1 tvg-name="BOX Franchise HD" group-title="КиноЗал",BOX Franchise HD
+https://blacktulipstav.onrender.com/ch/592?key=000
+#EXTINF:-1 tvg-name="BOX Hybrid HD" group-title="КиноЗал",BOX Hybrid HD
+https://blacktulipstav.onrender.com/ch/593?key=000
+#EXTINF:-1 tvg-name="BOX Anime HD" group-title="КиноЗал",BOX Anime HD
+https://blacktulipstav.onrender.com/ch/594?key=000
+#EXTINF:-1 tvg-name="BOX Mayday HD" group-title="Познаю.Tв",BOX Mayday HD
+https://blacktulipstav.onrender.com/ch/595?key=000
+#EXTINF:-1 tvg-name="BOX Apocalypse HD" group-title="КиноЗал",BOX Apocalypse HD
+https://blacktulipstav.onrender.com/ch/596?key=000
+#EXTINF:-1 tvg-name="ARD Alpha DE" group-title="Германия",ARD Alpha DE
+https://blacktulipstav.onrender.com/ch/622?key=000
+#EXTINF:-1 tvg-name="Welt HD DE" group-title="Германия",Welt HD DE
+https://blacktulipstav.onrender.com/ch/623?key=000
+#EXTINF:-1 tvg-name="SIXX HD DE" group-title="Германия",SIXX HD DE
+https://blacktulipstav.onrender.com/ch/624?key=000
+#EXTINF:-1 tvg-name="ZDF HD DE" group-title="Германия",ZDF HD DE
+https://blacktulipstav.onrender.com/ch/625?key=000
+#EXTINF:-1 tvg-name="ZDFneo HD DE" group-title="Германия",ZDFneo HD DE
+https://blacktulipstav.onrender.com/ch/626?key=000
+#EXTINF:-1 tvg-name="ZDFinfo HD DE" group-title="Германия",ZDFinfo HD DE
+https://blacktulipstav.onrender.com/ch/627?key=000
+#EXTINF:-1 tvg-name="SWR Fernsehen BW HD DE" group-title="Германия",SWR Fernsehen BW HD DE
+https://blacktulipstav.onrender.com/ch/628?key=000
+#EXTINF:-1 tvg-name="SWR Fernsehen RP HD DE" group-title="Германия",SWR Fernsehen RP HD DE
+https://blacktulipstav.onrender.com/ch/629?key=000
+#EXTINF:-1 tvg-name="BR Fernsehen Süd HD DE" group-title="Германия",BR Fernsehen Süd HD DE
+https://blacktulipstav.onrender.com/ch/630?key=000
+#EXTINF:-1 tvg-name="SR Fernsehen HD DE" group-title="Германия",SR Fernsehen HD DE
+https://blacktulipstav.onrender.com/ch/631?key=000
+#EXTINF:-1 tvg-name="HR Fernsehen HD DE" group-title="Германия",HR Fernsehen HD DE
+https://blacktulipstav.onrender.com/ch/632?key=000
+#EXTINF:-1 tvg-name="rbb fernsehen Berlin HD DE" group-title="Германия",rbb fernsehen Berlin HD DE
+https://blacktulipstav.onrender.com/ch/633?key=000
+#EXTINF:-1 tvg-name="NIEDERBAYERN TV Landshut HD DE" group-title="Германия",NIEDERBAYERN TV Landshut HD DE
+https://blacktulipstav.onrender.com/ch/634?key=000
+#EXTINF:-1 tvg-name="Euronews Deutsch DE" group-title="Германия",Euronews Deutsch DE
+https://blacktulipstav.onrender.com/ch/635?key=000
+#EXTINF:-1 tvg-name="arte HD DE" group-title="Германия",arte HD DE
+https://blacktulipstav.onrender.com/ch/636?key=000
+#EXTINF:-1 tvg-name="VOX HD DE" group-title="Германия",VOX HD DE
+https://blacktulipstav.onrender.com/ch/637?key=000
+#EXTINF:-1 tvg-name="VOXup HD DE" group-title="Германия",VOXup HD DE
+https://blacktulipstav.onrender.com/ch/638?key=000
+#EXTINF:-1 tvg-name="Das Erste HD DE" group-title="Германия",Das Erste HD DE
+https://blacktulipstav.onrender.com/ch/639?key=000
+#EXTINF:-1 tvg-name="WDR HD DE" group-title="Германия",WDR HD DE
+https://blacktulipstav.onrender.com/ch/640?key=000
+#EXTINF:-1 tvg-name="a.tv HD DE" group-title="Германия",a.tv HD DE
+https://blacktulipstav.onrender.com/ch/641?key=000
+#EXTINF:-1 tvg-name="RTL HD DE" group-title="Германия",RTL HD DE
+https://blacktulipstav.onrender.com/ch/642?key=000
+#EXTINF:-1 tvg-name="RTL 2 HD DE" group-title="Германия",RTL 2 HD DE
+https://blacktulipstav.onrender.com/ch/643?key=000
+#EXTINF:-1 tvg-name="RTL Super HD DE" group-title="Германия",RTL Super HD DE
+https://blacktulipstav.onrender.com/ch/644?key=000
+#EXTINF:-1 tvg-name="RTL Nitro HD DE" group-title="Германия",RTL Nitro HD DE
+https://blacktulipstav.onrender.com/ch/645?key=000
+#EXTINF:-1 tvg-name="RTL Crime HD DE" group-title="Германия",RTL Crime HD DE
+https://blacktulipstav.onrender.com/ch/646?key=000
+#EXTINF:-1 tvg-name="RTL Passion HD DE" group-title="Германия",RTL Passion HD DE
+https://blacktulipstav.onrender.com/ch/647?key=000
+#EXTINF:-1 tvg-name="RTL Living HD DE" group-title="Германия",RTL Living HD DE
+https://blacktulipstav.onrender.com/ch/648?key=000
+#EXTINF:-1 tvg-name="RTLup DE" group-title="Германия",RTLup DE
+https://blacktulipstav.onrender.com/ch/649?key=000
+#EXTINF:-1 tvg-name="3sat HD DE" group-title="Германия",3sat HD DE
+https://blacktulipstav.onrender.com/ch/650?key=000
+#EXTINF:-1 tvg-name="n-tv HD DE" group-title="Германия",n-tv HD DE
+https://blacktulipstav.onrender.com/ch/651?key=000
+#EXTINF:-1 tvg-name="ProSieben HD DE" group-title="Германия",ProSieben HD DE
+https://blacktulipstav.onrender.com/ch/652?key=000
+#EXTINF:-1 tvg-name="ProSieben Maxx HD DE" group-title="Германия",ProSieben Maxx HD DE
+https://blacktulipstav.onrender.com/ch/653?key=000
+#EXTINF:-1 tvg-name="Comedy Central DE" group-title="Германия",Comedy Central DE
+https://blacktulipstav.onrender.com/ch/654?key=000
+#EXTINF:-1 tvg-name="KIKA HD DE" group-title="Германия",KIKA HD DE
+https://blacktulipstav.onrender.com/ch/655?key=000
+#EXTINF:-1 tvg-name="Sat.1 HD DE" group-title="Германия",Sat.1 HD DE
+https://blacktulipstav.onrender.com/ch/656?key=000
+#EXTINF:-1 tvg-name="SAT.1 GOLD DE" group-title="Германия",SAT.1 GOLD DE
+https://blacktulipstav.onrender.com/ch/657?key=000
+#EXTINF:-1 tvg-name="ORF 1 HD DE" group-title="Германия",ORF 1 HD DE
+https://blacktulipstav.onrender.com/ch/658?key=000
+#EXTINF:-1 tvg-name="ORF 2 HD DE" group-title="Германия",ORF 2 HD DE
+https://blacktulipstav.onrender.com/ch/659?key=000
+#EXTINF:-1 tvg-name="ONE HD DE" group-title="Германия",ONE HD DE
+https://blacktulipstav.onrender.com/ch/660?key=000
+#EXTINF:-1 tvg-name="HSE HD DE" group-title="Германия",HSE HD DE
+https://blacktulipstav.onrender.com/ch/661?key=000
+#EXTINF:-1 tvg-name="OUTtv HD DE" group-title="Германия",OUTtv HD DE
+https://blacktulipstav.onrender.com/ch/662?key=000
+#EXTINF:-1 tvg-name="Kabel Eins HD DE" group-title="Германия",Kabel Eins HD DE
+https://blacktulipstav.onrender.com/ch/663?key=000
+#EXTINF:-1 tvg-name="Kabel Eins Doku DE" group-title="Германия",Kabel Eins Doku DE
+https://blacktulipstav.onrender.com/ch/664?key=000
+#EXTINF:-1 tvg-name="N24 Doku HD DE" group-title="Германия",N24 Doku HD DE
+https://blacktulipstav.onrender.com/ch/665?key=000
+#EXTINF:-1 tvg-name="Anixe HD Serie DE" group-title="Германия",Anixe HD Serie DE
+https://blacktulipstav.onrender.com/ch/666?key=000
+#EXTINF:-1 tvg-name="ANIXE+ HD DE" group-title="Германия",ANIXE+ HD DE
+https://blacktulipstav.onrender.com/ch/667?key=000
+#EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE HD DE" group-title="Германия",SPIEGEL GESCHICHTE HD DE
+https://blacktulipstav.onrender.com/ch/668?key=000
+#EXTINF:-1 tvg-name="13th Street HD DE" group-title="Германия",13th Street HD DE
+https://blacktulipstav.onrender.com/ch/669?key=000
+#EXTINF:-1 tvg-name="AXN Black HD DE" group-title="Германия",AXN Black HD DE
+https://blacktulipstav.onrender.com/ch/670?key=000
+#EXTINF:-1 tvg-name="TELE 5 HD DE" group-title="Германия",TELE 5 HD DE
+https://blacktulipstav.onrender.com/ch/671?key=000
+#EXTINF:-1 tvg-name="SYFY HD DE" group-title="Германия",SYFY HD DE
+https://blacktulipstav.onrender.com/ch/672?key=000
+#EXTINF:-1 tvg-name="DMAX HD DE" group-title="Германия",DMAX HD DE
+https://blacktulipstav.onrender.com/ch/673?key=000
+#EXTINF:-1 tvg-name="Romance TV DE" group-title="Германия",Romance TV DE
+https://blacktulipstav.onrender.com/ch/674?key=000
+#EXTINF:-1 tvg-name="Warner TV Comedy HD DE" group-title="Германия",Warner TV Comedy HD DE
+https://blacktulipstav.onrender.com/ch/675?key=000
+#EXTINF:-1 tvg-name="wedo movies HD DE" group-title="Германия",wedo movies HD DE
+https://blacktulipstav.onrender.com/ch/676?key=000
+#EXTINF:-1 tvg-name="TOP SERIEN HD DE" group-title="Германия",TOP SERIEN HD DE
+https://blacktulipstav.onrender.com/ch/677?key=000
+#EXTINF:-1 tvg-name="Warner TV Film HD DE" group-title="Германия",Warner TV Film HD DE
+https://blacktulipstav.onrender.com/ch/678?key=000
+#EXTINF:-1 tvg-name="Warner TV Serie HD DE" group-title="Германия",Warner TV Serie HD DE
+https://blacktulipstav.onrender.com/ch/679?key=000
+#EXTINF:-1 tvg-name="INULTRA UHD DE" group-title="Германия",INULTRA UHD DE
+https://blacktulipstav.onrender.com/ch/680?key=000
+#EXTINF:-1 tvg-name="Disney Channel HD DE" group-title="Германия",Disney Channel HD DE
+https://blacktulipstav.onrender.com/ch/681?key=000
+#EXTINF:-1 tvg-name="TOGGO plus DE" group-title="Германия",TOGGO plus DE
+https://blacktulipstav.onrender.com/ch/682?key=000
+#EXTINF:-1 tvg-name="Nick/Comedy Central+1 DE" group-title="Германия",Nick/Comedy Central+1 DE
+https://blacktulipstav.onrender.com/ch/683?key=000
+#EXTINF:-1 tvg-name="sonnenklar.TV HD DE" group-title="Германия",sonnenklar.TV HD DE
+https://blacktulipstav.onrender.com/ch/684?key=000
+#EXTINF:-1 tvg-name="GEO Television HD DE" group-title="Германия",GEO Television HD DE
+https://blacktulipstav.onrender.com/ch/685?key=000
+#EXTINF:-1 tvg-name="DELUXE MUSIC HD DE" group-title="Германия",DELUXE MUSIC HD DE
+https://blacktulipstav.onrender.com/ch/687?key=000
+#EXTINF:-1 tvg-name="Stingray Classica HD DE" group-title="Германия",Stingray Classica HD DE
+https://blacktulipstav.onrender.com/ch/691?key=000
+#EXTINF:-1 tvg-name="Stingray iConcerts HD DE" group-title="Германия",Stingray iConcerts HD DE
+https://blacktulipstav.onrender.com/ch/692?key=000
+#EXTINF:-1 tvg-name="Stingray DJAZZ HD DE" group-title="Германия",Stingray DJAZZ HD DE
+https://blacktulipstav.onrender.com/ch/693?key=000
+#EXTINF:-1 tvg-name="MTV HD DE" group-title="Германия",MTV HD DE
+https://blacktulipstav.onrender.com/ch/695?key=000
+#EXTINF:-1 tvg-name="Jukebox HD DE" group-title="Германия",Jukebox HD DE
+https://blacktulipstav.onrender.com/ch/696?key=000
+#EXTINF:-1 tvg-name="Ballermann TV HD DE" group-title="Германия",Ballermann TV HD DE
+https://blacktulipstav.onrender.com/ch/697?key=000
+#EXTINF:-1 tvg-name="K-TV HD DE" group-title="Германия",K-TV HD DE
+https://blacktulipstav.onrender.com/ch/698?key=000
+#EXTINF:-1 tvg-name="SCHLAGER DELUXE HD DE" group-title="Германия",SCHLAGER DELUXE HD DE
+https://blacktulipstav.onrender.com/ch/701?key=000
+#EXTINF:-1 tvg-name="Sky Cinema Action HD DE" group-title="Германия",Sky Cinema Action HD DE
+https://blacktulipstav.onrender.com/ch/702?key=000
+#EXTINF:-1 tvg-name="Sky Cinema Feelgood HD DE" group-title="Германия",Sky Cinema Feelgood HD DE
+https://blacktulipstav.onrender.com/ch/703?key=000
+#EXTINF:-1 tvg-name="Sky Cinema Blockbuster HD DE" group-title="Германия",Sky Cinema Blockbuster HD DE
+https://blacktulipstav.onrender.com/ch/706?key=000
+#EXTINF:-1 tvg-name="Sky Atlantic HD DE" group-title="Германия",Sky Atlantic HD DE
+https://blacktulipstav.onrender.com/ch/707?key=000
+#EXTINF:-1 tvg-name="Sky Sport Mix HD DE" group-title="Германия",Sky Sport Mix HD DE
+https://blacktulipstav.onrender.com/ch/709?key=000
+#EXTINF:-1 tvg-name="Sky Sports F1 HD DE" group-title="Германия",Sky Sports F1 HD DE
+https://blacktulipstav.onrender.com/ch/710?key=000
+#EXTINF:-1 tvg-name="Sky Sport 1 HD DE" group-title="Германия",Sky Sport 1 HD DE
+https://blacktulipstav.onrender.com/ch/711?key=000
+#EXTINF:-1 tvg-name="Sport 1 HD DE" group-title="Германия",Sport 1 HD DE
+https://blacktulipstav.onrender.com/ch/730?key=000
+#EXTINF:-1 tvg-name="DF1 HD DE" group-title="Германия",DF1 HD DE
+https://blacktulipstav.onrender.com/ch/731?key=000
+#EXTINF:-1 tvg-name="Eurosport 1 HD DE" group-title="Германия",Eurosport 1 HD DE
+https://blacktulipstav.onrender.com/ch/732?key=000
+#EXTINF:-1 tvg-name="Red Bull TV DE" group-title="Германия",Red Bull TV DE
+https://blacktulipstav.onrender.com/ch/733?key=000
+#EXTINF:-1 tvg-name="DAZN 1 HD DE" group-title="Германия",DAZN 1 HD DE
+https://blacktulipstav.onrender.com/ch/734?key=000
+#EXTINF:-1 tvg-name="DAZN 2 HD DE" group-title="Германия",DAZN 2 HD DE
+https://blacktulipstav.onrender.com/ch/735?key=000
+#EXTINF:-1 tvg-name="SPORTDIGITAL FUSSBALL HD DE" group-title="Германия",SPORTDIGITAL FUSSBALL HD DE
+https://blacktulipstav.onrender.com/ch/736?key=000
+#EXTINF:-1 tvg-name="ЗВЕЗДА Плюс HD" group-title=""Кино.HD"",ЗВЕЗДА Плюс HD
+https://blacktulipstav.onrender.com/ch/740?key=000
+#EXTINF:-1 tvg-name="Театр" group-title="Россия",Театр
+https://blacktulipstav.onrender.com/ch/741?key=000
+#EXTINF:-1 tvg-name="ТБН" group-title="Познаю.Tв",ТБН
+https://blacktulipstav.onrender.com/ch/743?key=000
+#EXTINF:-1 tvg-name="Совершенно Секретно" group-title="Россия",Совершенно Секретно
+https://blacktulipstav.onrender.com/ch/744?key=000
+#EXTINF:-1 tvg-name="Тайны Галактики" group-title="Познаю.Tв",Тайны Галактики
+https://blacktulipstav.onrender.com/ch/745?key=000
+#EXTINF:-1 tvg-name="Fashion&Style 4K" group-title="Россия",Fashion&Style 4K
+https://blacktulipstav.onrender.com/ch/747?key=000
+#EXTINF:-1 tvg-name="ИНСАЙТ ТВ UHD" group-title="Россия",ИНСАЙТ ТВ UHD
+https://blacktulipstav.onrender.com/ch/748?key=000
+#EXTINF:-1 tvg-name="Наша сибирь 4K" group-title="Россия",Наша сибирь 4K
+https://blacktulipstav.onrender.com/ch/749?key=000
+#EXTINF:-1 tvg-name="Travelxp 4K" group-title="Россия",Travelxp 4K
+https://blacktulipstav.onrender.com/ch/750?key=000
+#EXTINF:-1 tvg-name="Quadro 4K" group-title="Россия",Quadro 4K
+https://blacktulipstav.onrender.com/ch/751?key=000
+#EXTINF:-1 tvg-name="KINO UHD" group-title="КиноЗал",KINO UHD
+https://blacktulipstav.onrender.com/ch/752?key=000
+#EXTINF:-1 tvg-name="CineMan Relax 4K" group-title="Познаю.Tв",CineMan Relax 4K
+https://blacktulipstav.onrender.com/ch/753?key=000
+#EXTINF:-1 tvg-name="CineMan CCCP 4K" group-title="КиноЗал",CineMan CCCP 4K
+https://blacktulipstav.onrender.com/ch/754?key=000
+#EXTINF:-1 tvg-name="CineMan Дубляж СССР HD" group-title="КиноЗал",CineMan Дубляж СССР HD
+https://blacktulipstav.onrender.com/ch/755?key=000
+#EXTINF:-1 tvg-name="CineMan OLD 4K" group-title="КиноЗал",CineMan OLD 4K
+https://blacktulipstav.onrender.com/ch/756?key=000
+#EXTINF:-1 tvg-name="BCU Kids 4K" group-title="Детки.Тв",BCU Kids 4K
+https://blacktulipstav.onrender.com/ch/757?key=000
+#EXTINF:-1 tvg-name="BCU Ultra 4K" group-title="КиноЗал",BCU Ultra 4K
+https://blacktulipstav.onrender.com/ch/758?key=000
+#EXTINF:-1 tvg-name="BCU Premiere Ultra 4K" group-title="КиноЗал",BCU Premiere Ultra 4K
+https://blacktulipstav.onrender.com/ch/759?key=000
+#EXTINF:-1 tvg-name="BOX Remast 4K" group-title="КиноЗал",BOX Remast 4K
+https://blacktulipstav.onrender.com/ch/760?key=000
+#EXTINF:-1 tvg-name="BOX Remast+ 4K" group-title="КиноЗал",BOX Remast+ 4K
+https://blacktulipstav.onrender.com/ch/761?key=000
+#EXTINF:-1 tvg-name="BOX Serial 4K" group-title="КиноЗал",BOX Serial 4K
+https://blacktulipstav.onrender.com/ch/762?key=000
+#EXTINF:-1 tvg-name="BOX Serial Premiere 4K" group-title="КиноЗал",BOX Serial Premiere 4K
+https://blacktulipstav.onrender.com/ch/763?key=000
+#EXTINF:-1 tvg-name="BOX Premiere 4K" group-title="КиноЗал",BOX Premiere 4K
+https://blacktulipstav.onrender.com/ch/764?key=000
+#EXTINF:-1 tvg-name="BOX UltraStars 4K" group-title="КиноЗал",BOX UltraStars 4K
+https://blacktulipstav.onrender.com/ch/765?key=000
+#EXTINF:-1 tvg-name="BOX Relax 4K" group-title="Познаю.Tв",BOX Relax 4K
+https://blacktulipstav.onrender.com/ch/766?key=000
+#EXTINF:-1 tvg-name="BOX Music 4K" group-title="Music.Тв",BOX Music 4K
+https://blacktulipstav.onrender.com/ch/767?key=000
+#EXTINF:-1 tvg-name="BOX Russian 4K" group-title="КиноЗал",BOX Russian 4K
+https://blacktulipstav.onrender.com/ch/769?key=000
+#EXTINF:-1 tvg-name="ETV+ HD EE" group-title="Разное",ETV+ HD EE
+https://blacktulipstav.onrender.com/ch/876?key=000
+#EXTINF:-1 tvg-name="Kanal 7 HD EE" group-title="Разное",Kanal 7 HD EE
+https://blacktulipstav.onrender.com/ch/886?key=000
+#EXTINF:-1 tvg-name="FX HD EE" group-title="Разное",FX HD EE
+https://blacktulipstav.onrender.com/ch/887?key=000
+#EXTINF:-1 tvg-name="My Hits EE" group-title="Разное",My Hits EE
+https://blacktulipstav.onrender.com/ch/888?key=000
+#EXTINF:-1 tvg-name="Kidzone Mini HD EE" group-title="Разное",Kidzone Mini HD EE
+https://blacktulipstav.onrender.com/ch/891?key=000
+#EXTINF:-1 tvg-name="Первый Евразия KZ" group-title="Разное",Первый Евразия KZ
+https://blacktulipstav.onrender.com/ch/896?key=000
+#EXTINF:-1 tvg-name="Отырар KZ" group-title="Разное",Отырар KZ
+https://blacktulipstav.onrender.com/ch/900?key=000
+#EXTINF:-1 tvg-name="Хабар HD KZ" group-title="Разное",Хабар HD KZ
+https://blacktulipstav.onrender.com/ch/905?key=000
+#EXTINF:-1 tvg-name="7 канал KZ" group-title="Разное",7 канал KZ
+https://blacktulipstav.onrender.com/ch/906?key=000
+#EXTINF:-1 tvg-name="31 канал KZ" group-title="Разное",31 канал KZ
+https://blacktulipstav.onrender.com/ch/907?key=000
+#EXTINF:-1 tvg-name="Твое ТВ KZ" group-title="Разное",Твое ТВ KZ
+https://blacktulipstav.onrender.com/ch/910?key=000
+#EXTINF:-1 tvg-name="Той Думан KZ" group-title="Разное",Той Думан KZ
+https://blacktulipstav.onrender.com/ch/913?key=000
+#EXTINF:-1 tvg-name="Новое Телевидение HD KZ" group-title="Разное",Новое Телевидение HD KZ
+https://blacktulipstav.onrender.com/ch/916?key=000
+#EXTINF:-1 tvg-name="ABAI TV KZ" group-title="Разное",ABAI TV KZ
+https://blacktulipstav.onrender.com/ch/920?key=000
+#EXTINF:-1 tvg-name="MANGYSTAY KZ" group-title="Разное",MANGYSTAY KZ
+https://blacktulipstav.onrender.com/ch/933?key=000
+#EXTINF:-1 tvg-name="Hit TV KZ" group-title="Разное",Hit TV KZ
+https://blacktulipstav.onrender.com/ch/936?key=000
+#EXTINF:-1 tvg-name="Кино Драма HD KZ" group-title="Разное",Кино Драма HD KZ
+https://blacktulipstav.onrender.com/ch/937?key=000
+#EXTINF:-1 tvg-name="КиноБоевик HD KZ" group-title="Разное",КиноБоевик HD KZ
+https://blacktulipstav.onrender.com/ch/938?key=000
+#EXTINF:-1 tvg-name="Премиум Кино HD KZ" group-title="Разное",Премиум Кино HD KZ
+https://blacktulipstav.onrender.com/ch/939?key=000
+#EXTINF:-1 tvg-name="Мировое Кино HD KZ" group-title="Разное",Мировое Кино HD KZ
+https://blacktulipstav.onrender.com/ch/940?key=000
+#EXTINF:-1 tvg-name="Семейное Кино HD KZ" group-title="Разное",Семейное Кино HD KZ
+https://blacktulipstav.onrender.com/ch/941?key=000
+#EXTINF:-1 tvg-name="Sport Plus Qazaqstan HD KZ" group-title="Разное",Sport Plus Qazaqstan HD KZ
+https://blacktulipstav.onrender.com/ch/942?key=000
+#EXTINF:-1 tvg-name="QFootball HD KZ" group-title="Разное",QFootball HD KZ
+https://blacktulipstav.onrender.com/ch/943?key=000
+#EXTINF:-1 tvg-name="QazSport HD KZ" group-title="Разное",QazSport HD KZ
+https://blacktulipstav.onrender.com/ch/944?key=000
+#EXTINF:-1 tvg-name="Q Arena HD KZ" group-title="Разное",Q Arena HD KZ
+https://blacktulipstav.onrender.com/ch/945?key=000
+#EXTINF:-1 tvg-name="Q League HD KZ" group-title="Разное",Q League HD KZ
+https://blacktulipstav.onrender.com/ch/946?key=000
+#EXTINF:-1 tvg-name="BeeTV Sport KZ" group-title="Разное",BeeTV Sport KZ
+https://blacktulipstav.onrender.com/ch/950?key=000
+#EXTINF:-1 tvg-name="BeeTV Series KZ" group-title="Разное",BeeTV Series KZ
+https://blacktulipstav.onrender.com/ch/951?key=000
+#EXTINF:-1 tvg-name="BeeTV Movies KZ" group-title="Разное",BeeTV Movies KZ
+https://blacktulipstav.onrender.com/ch/952?key=000
+#EXTINF:-1 tvg-name="BeeTV Орел и Решка KZ" group-title="Разное",BeeTV Орел и Решка KZ
+https://blacktulipstav.onrender.com/ch/953?key=000
+#EXTINF:-1 tvg-name="BeeTV Вещдок KZ" group-title="Разное",BeeTV Вещдок KZ
+https://blacktulipstav.onrender.com/ch/954?key=000
+#EXTINF:-1 tvg-name="BeeTV Семейные мелодрамы KZ" group-title="Разное",BeeTV Семейные мелодрамы KZ
+https://blacktulipstav.onrender.com/ch/955?key=000
+#EXTINF:-1 tvg-name="TV8 MD" group-title="Разное",TV8 MD
+https://blacktulipstav.onrender.com/ch/958?key=000
+#EXTINF:-1 tvg-name="Jurnal TV MD" group-title="Разное",Jurnal TV MD
+https://blacktulipstav.onrender.com/ch/959?key=000
+#EXTINF:-1 tvg-name="N4 MD" group-title="Разное",N4 MD
+https://blacktulipstav.onrender.com/ch/963?key=000
