@@ -3509,7 +3509,7 @@ https://o.sesn.workers.dev/o/ch1ccdb8/tv.m3u8
 https://o.sesn.workers.dev/o/ch00e0f4/tv.m3u8
 #EXTINF:-1 group-title="КиноЗал",AMEDIA 1
 https://o.sesn.workers.dev/o/cha1f5a1/tv.m3u8
-#EXTINF:-1 group-title="Наука",День Победы HD
+#EXTINF:-1 group-title="Разное",День Победы HD
 https://o.sesn.workers.dev/o/ch6505dd/tv.m3u8
 #EXTINF:-1 group-title="КиноЗал",ПОБЕДА HD
 https://o.sesn.workers.dev/o/che65f38/tv.m3u8
@@ -3753,14 +3753,12 @@ https://o.sesn.workers.dev/o/ch9cd185/tv.m3u8
 https://o.sesn.workers.dev/o/chd28181/tv.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Капитан Фантастика HD
 https://o.sesn.workers.dev/o/ch349fc2/tv.m3u8
-#EXTINF:-1 group-title="Россия",Кухня HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png"  group-title="Россия",Кухня HD
 https://o.sesn.workers.dev/o/ch01a349/tv.m3u8
 #EXTINF:-1 group-title="Россия",Еда
 https://o.sesn.workers.dev/o/ch139b39/tv.m3u8
 #EXTINF:-1 group-title="Россия",FoodTime HD
 https://o.sesn.workers.dev/o/ch0ec239/tv.m3u8
-#EXTINF:-1 group-title="Россия",Food Network HD
-https://o.sesn.workers.dev/o/chae1ae6/tv.m3u8
 #EXTINF:-1 group-title="Россия",BOX Gurman HD
 https://o.sesn.workers.dev/o/ch85f292/tv.m3u8
 #EXTINF:-1 group-title="Россия",Телекафе
@@ -3771,43 +3769,35 @@ https://o.sesn.workers.dev/o/ch8bcf74/tv.m3u8
 https://o.sesn.workers.dev/o/chbcfe4d/tv.m3u8
 #EXTINF:-1 group-title="Спорт",Драйв HD
 https://o.sesn.workers.dev/o/chae0384/tv.m3u8
-#EXTINF:-1 group-title="Наука",TLC HD
+#EXTINF:-1 group-title="Познаю.Tв",TLC HD
 https://o.sesn.workers.dev/o/ch126b23/tv.m3u8
-#EXTINF:-1 group-title="Наука",HGTV HD
+#EXTINF:-1 group-title="Познаю.Tв",HGTV HD
 https://o.sesn.workers.dev/o/ch756762/tv.m3u8
-#EXTINF:-1 group-title="Наука",Animal Planet
-https://o.sesn.workers.dev/o/ch74b270/tv.m3u8
-#EXTINF:-1 group-title="Наука",Animal Planet HD
+#EXTINF:-1 group-title="Познаю.Tв",Animal Planet HD
 https://o.sesn.workers.dev/o/chd7eb0a/tv.m3u8
-#EXTINF:-1 group-title="Наука",Discovery Channel
+#EXTINF:-1 group-title="Познаю.Tв",Discovery Channel
 https://o.sesn.workers.dev/o/ch483ae6/tv.m3u8
-#EXTINF:-1 group-title="Наука",Discovery Channel HD
+#EXTINF:-1 group-title="Познаю.Tв",Discovery Channel HD
 https://o.sesn.workers.dev/o/chfb9fc1/tv.m3u8
-#EXTINF:-1 group-title="Наука",Investigation Discovery HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png"  group-title="Познаю.Tв",Investigation Discovery HD
 https://o.sesn.workers.dev/o/ch0c13c3/tv.m3u8
-#EXTINF:-1 group-title="Наука",TERRA HD
+#EXTINF:-1 group-title="Познаю.Tв",TERRA HD
 https://o.sesn.workers.dev/o/ch0628ce/tv.m3u8
-#EXTINF:-1 group-title="Наука",National Geographic Wild
-https://o.sesn.workers.dev/o/ch7616a9/tv.m3u8
-#EXTINF:-1 group-title="Наука",National Geographic Wild HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png"  group-title="Познаю.Tв",National Geographic Wild HD
 https://o.sesn.workers.dev/o/che50296/tv.m3u8
-#EXTINF:-1 group-title="Наука",National Geographic HD
+#EXTINF:-1 group-title="Познаю.Tв",National Geographic HD
 https://o.sesn.workers.dev/o/ch8e6210/tv.m3u8
-#EXTINF:-1 group-title="Наука",National Geographic
-https://o.sesn.workers.dev/o/ch780e1b/tv.m3u8
-#EXTINF:-1 group-title="Наука",Домашние животные
+#EXTINF:-1 group-title="Познаю.Tв",Домашние животные
 https://o.sesn.workers.dev/o/chf698be/tv.m3u8
 #EXTINF:-1 group-title="Россия",Лапки Live
 https://o.sesn.workers.dev/o/chacd036/tv.m3u8
-#EXTINF:-1 group-title="Наука",История
+#EXTINF:-1 group-title="Познаю.Tв",История
 https://o.sesn.workers.dev/o/ch5ae82b/tv.m3u8
-#EXTINF:-1 group-title="Наука",Travel Channel
-https://o.sesn.workers.dev/o/ch55415e/tv.m3u8
-#EXTINF:-1 group-title="Наука",Travel Channel HD
+#EXTINF:-1 group-title="Познаю.Tв",Travel Channel HD
 https://o.sesn.workers.dev/o/ch7b3e3c/tv.m3u8
-#EXTINF:-1 group-title="Наука",Телепутешествия HD
+#EXTINF:-1 group-title="Познаю.Tв",Телепутешествия HD
 https://o.sesn.workers.dev/o/chbd8bb8/tv.m3u8
-#EXTINF:-1 group-title="Наука",Travel+Adventure HD
+#EXTINF:-1 group-title="Познаю.Tв",Travel+Adventure HD
 https://o.sesn.workers.dev/o/ch2d2bbe/tv.m3u8
 #EXTINF:-1 group-title="Россия",BOX Travel HD
 https://o.sesn.workers.dev/o/ch560bb9/tv.m3u8
@@ -3817,77 +3807,75 @@ https://o.sesn.workers.dev/o/ch7e3d20/tv.m3u8
 https://o.sesn.workers.dev/o/ch46d72a/tv.m3u8
 #EXTINF:-1 group-title="Россия",BOX Stories HD
 https://o.sesn.workers.dev/o/chf0ac19/tv.m3u8
-#EXTINF:-1 group-title="Наука",History HD
+#EXTINF:-1 group-title="Познаю.Tв",History HD
 https://o.sesn.workers.dev/o/ch68ac15/tv.m3u8
-#EXTINF:-1 group-title="Наука",History 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png"  group-title="Познаю.Tв",History 2 HD
 https://o.sesn.workers.dev/o/ch7d013b/tv.m3u8
-#EXTINF:-1 group-title="Наука",Нано HD
+#EXTINF:-1 group-title="Россия",Нано HD
 https://o.sesn.workers.dev/o/ch9d7c35/tv.m3u8
-#EXTINF:-1 group-title="Наука",viju History HD
+#EXTINF:-1 group-title="Познаю.Tв",viju History HD
 https://o.sesn.workers.dev/o/chddb7cc/tv.m3u8
-#EXTINF:-1 group-title="Наука",viju Explore HD
+#EXTINF:-1 group-title="Познаю.Tв",viju Explore HD
 https://o.sesn.workers.dev/o/chf43bed/tv.m3u8
-#EXTINF:-1 group-title="Наука",viju Nature HD
+#EXTINF:-1 group-title="Познаю.Tв",viju Nature HD
 https://o.sesn.workers.dev/o/chcb6737/tv.m3u8
-#EXTINF:-1 group-title="Наука",Da Vinci
+#EXTINF:-1 group-title="Познаю.Tв",Da Vinci
 https://o.sesn.workers.dev/o/cha55a8f/tv.m3u8
-#EXTINF:-1 group-title="Наука",ТОЧКА.РФ
+#EXTINF:-1 group-title="Россия",ТОЧКА.РФ
 https://o.sesn.workers.dev/o/cheea839/tv.m3u8
-#EXTINF:-1 group-title="Наука",365 дней ТВ HD
+#EXTINF:-1 group-title="Познаю.Tв",365 дней ТВ HD
 https://o.sesn.workers.dev/o/ch97f635/tv.m3u8
-#EXTINF:-1 group-title="Наука",Океан HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png"  group-title="Познаю.Tв",Океан HD
 https://o.sesn.workers.dev/o/ch2682b2/tv.m3u8
-#EXTINF:-1 group-title="Наука",Живая природа HD
+#EXTINF:-1 group-title="Познаю.Tв",Живая природа HD
 https://o.sesn.workers.dev/o/che9433c/tv.m3u8
-#EXTINF:-1 group-title="Наука",Охота и Рыбалка HD
+#EXTINF:-1 group-title="Познаю.Tв",Охота и Рыбалка HD
 https://o.sesn.workers.dev/o/ch19a262/tv.m3u8
-#EXTINF:-1 group-title="Наука",Охотник и Рыболов HD
+#EXTINF:-1 group-title="Познаю.Tв",Охотник и Рыболов HD
 https://o.sesn.workers.dev/o/ch078143/tv.m3u8
-#EXTINF:-1 group-title="Наука",Дикий
+#EXTINF:-1 group-title="Познаю.Tв",Дикий
 https://o.sesn.workers.dev/o/ch221e25/tv.m3u8
-#EXTINF:-1 group-title="Наука",Дикая охота HD
+#EXTINF:-1 group-title="Познаю.Tв",Дикая охота HD
 https://o.sesn.workers.dev/o/chb051b8/tv.m3u8
 #EXTINF:-1 group-title="Россия",Дикая рыбалка HD
 https://o.sesn.workers.dev/o/chbe3107/tv.m3u8
-#EXTINF:-1 group-title="Наука",БОБЁР
+#EXTINF:-1 group-title="Познаю.Tв",БОБЁР
 https://o.sesn.workers.dev/o/ch201c23/tv.m3u8
-#EXTINF:-1 group-title="Наука",Т24
+#EXTINF:-1 group-title="Познаю.Tв",Т24
 https://o.sesn.workers.dev/o/ch06d340/tv.m3u8
-#EXTINF:-1 group-title="Наука",Russian Travel Guide HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png"  group-title="Познаю.Tв",Russian Travel Guide HD
 https://o.sesn.workers.dev/o/chabee25/tv.m3u8
-#EXTINF:-1 group-title="Наука",Russian Travel Guide
-https://o.sesn.workers.dev/o/chd5db42/tv.m3u8
-#EXTINF:-1 group-title="Наука",Моя планета HD
+#EXTINF:-1 group-title="Познаю.Tв",Моя планета HD
 https://o.sesn.workers.dev/o/ch10850e/tv.m3u8
-#EXTINF:-1 group-title="Наука",The Explorers
+#EXTINF:-1 group-title="Познаю.Tв",The Explorers
 https://o.sesn.workers.dev/o/chf80836/tv.m3u8
-#EXTINF:-1 group-title="Наука",Психология21
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png"  group-title="Познаю.Tв",Психология21
 https://o.sesn.workers.dev/o/chfb3131/tv.m3u8
-#EXTINF:-1 group-title="Наука",Доктор HD
+#EXTINF:-1 group-title="Познаю.Tв",Доктор HD
 https://o.sesn.workers.dev/o/ch0eb297/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Спорт",ЖИВИ!
 https://o.sesn.workers.dev/o/ch7528f8/tv.m3u8
-#EXTINF:-1 group-title="Наука",Наука HD
+#EXTINF:-1 group-title="Познаю.Tв",Наука HD
 https://o.sesn.workers.dev/o/ch841538/tv.m3u8
-#EXTINF:-1 group-title="Наука",КТО ЕСТЬ КТО
+#EXTINF:-1 group-title="Познаю.Tв",КТО ЕСТЬ КТО
 https://o.sesn.workers.dev/o/ch89e137/tv.m3u8
-#EXTINF:-1 group-title="Наука",Здоровое ТВ
+#EXTINF:-1 group-title="Познаю.Tв",Здоровое ТВ
 https://o.sesn.workers.dev/o/ch9b6db9/tv.m3u8
-#EXTINF:-1 group-title="Наука",Усадьба
+#EXTINF:-1 group-title="Познаю.Tв",Усадьба
 https://o.sesn.workers.dev/o/ch28e2c3/tv.m3u8
-#EXTINF:-1 group-title="Наука",Оружие
+#EXTINF:-1 group-title="Познаю.Tв",Оружие
 https://o.sesn.workers.dev/o/chc5b90b/tv.m3u8
-#EXTINF:-1 group-title="Наука",Арсенал HD
+#EXTINF:-1 group-title="Познаю.Tв",Арсенал HD
 https://o.sesn.workers.dev/o/ch3ca5a0/tv.m3u8
 #EXTINF:-1 group-title="Россия",Zooпарк HD
 https://o.sesn.workers.dev/o/ch15fd83/tv.m3u8
 #EXTINF:-1 group-title="Россия",Приключения HD
 https://o.sesn.workers.dev/o/ch8883e7/tv.m3u8
-#EXTINF:-1 group-title="Наука",English Class HD
+#EXTINF:-1 group-title="Познаю.Tв",English Class HD
 https://o.sesn.workers.dev/o/cha14f39/tv.m3u8
 #EXTINF:-1 group-title="РезервТв",KinoLiving HD
 https://o.sesn.workers.dev/o/chce20ec/tv.m3u8
-#EXTINF:-1 group-title="Наука",Успех
+#EXTINF:-1 group-title="Познаю.Tв",Успех
 https://o.sesn.workers.dev/o/ch49aa9f/tv.m3u8
 #EXTINF:-1 group-title="Россия",Продвижение
 https://o.sesn.workers.dev/o/ch916e63/tv.m3u8
@@ -3925,8 +3913,6 @@ https://o.sesn.workers.dev/o/chfaa76d/tv.m3u8
 https://o.sesn.workers.dev/o/che8f792/tv.m3u8
 #EXTINF:-1 group-title="Разное",Star Cinema HD
 https://o.sesn.workers.dev/o/chca7d03/tv.m3u8
-#EXTINF:-1 group-title="Россия",World Fashion Channel HD
-https://o.sesn.workers.dev/o/chee6c99/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Разное",Беларусь 1 HD BY
 https://o.sesn.workers.dev/o/che76706/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Разное",Беларусь 2 HD BY
@@ -4111,7 +4097,7 @@ https://o.sesn.workers.dev/o/ch1eb4ef/tv.m3u8
 https://o.sesn.workers.dev/o/cheea5bc/tv.m3u8
 #EXTINF:-1 group-title="Россия",MM Live Planet HD
 https://o.sesn.workers.dev/o/chdf7681/tv.m3u8
-#EXTINF:-1 group-title="Россия",MM Relax HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png"  group-title="Россия",MM Relax HD
 https://o.sesn.workers.dev/o/ch36af35/tv.m3u8
 #EXTINF:-1 group-title="Россия",MM Experiment HD
 https://o.sesn.workers.dev/o/chc35d59/tv.m3u8
@@ -4171,7 +4157,7 @@ https://o.sesn.workers.dev/o/chf1914f/tv.m3u8
 https://o.sesn.workers.dev/o/ch1a39fc/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="КиноЗал",GoldLine VHS HD
 https://o.sesn.workers.dev/o/ch80fe9e/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Наука",GoldLine Civilizations HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Познаю.Tв",GoldLine Civilizations HD
 https://o.sesn.workers.dev/o/ch1dfe60/tv.m3u8
 #EXTINF:-1 group-title="КиноЗал",CineMan HD
 https://o.sesn.workers.dev/o/ched9967/tv.m3u8
@@ -4471,13 +4457,9 @@ https://o.sesn.workers.dev/o/ch13a9cc/tv.m3u8
 https://o.sesn.workers.dev/o/chbe6a9b/tv.m3u8
 #EXTINF:-1 group-title="Россия",Театр
 https://o.sesn.workers.dev/o/chc0cd5a/tv.m3u8
-#EXTINF:-1 group-title="Россия",E! HD IL
-https://o.sesn.workers.dev/o/chba4f31/tv.m3u8
-#EXTINF:-1 group-title="Наука",Тайны Галактики
+#EXTINF:-1 group-title="Познаю.Tв",Тайны Галактики
 https://o.sesn.workers.dev/o/ch68f8ed/tv.m3u8
-#EXTINF:-1 group-title="Россия",Fashion&Style 4K
-https://o.sesn.workers.dev/o/chc0d12b/tv.m3u8
-#EXTINF:-1 group-title="Россия",ИНСАЙТ ТВ UHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png"  group-title="Россия",ИНСАЙТ ТВ UHD
 https://o.sesn.workers.dev/o/chbbe1cc/tv.m3u8
 #EXTINF:-1 group-title="Россия",Наша сибирь 4K
 https://o.sesn.workers.dev/o/ch809ed9/tv.m3u8
@@ -4527,8 +4509,6 @@ https://o.sesn.workers.dev/o/ch411853/tv.m3u8
 https://o.sesn.workers.dev/o/ch54290b/tv.m3u8
 #EXTINF:-1 group-title="Россия",RTVI
 https://o.sesn.workers.dev/o/ch8460e4/tv.m3u8
-#EXTINF:-1 group-title="Россия",ТНТ
-https://o.sesn.workers.dev/o/ch6a4443/tv.m3u8
 #EXTINF:-1 group-title="Россия",ТНТ HD
 https://o.sesn.workers.dev/o/ch53162a/tv.m3u8
 #EXTINF:-1 group-title="Россия",ТНТ (+4)
@@ -4537,7 +4517,7 @@ https://o.sesn.workers.dev/o/ch455016/tv.m3u8
 https://o.sesn.workers.dev/o/ch6ae452/tv.m3u8
 #EXTINF:-1 group-title="Россия",КВН ТВ
 https://o.sesn.workers.dev/o/ch75e859/tv.m3u8
-#EXTINF:-1 group-title="Россия",RAZ 3
+#EXTINF:-1 group-title="Разное",RAZ 3
 https://o.sesn.workers.dev/o/ch2edab6/tv.m3u8
 #EXTINF:-1 group-title="Россия",СТС HD
 https://o.sesn.workers.dev/o/chbc6c6e/tv.m3u8
@@ -4545,8 +4525,6 @@ https://o.sesn.workers.dev/o/chbc6c6e/tv.m3u8
 https://o.sesn.workers.dev/o/chc47d1f/tv.m3u8
 #EXTINF:-1 group-title="Россия",СТС Love
 https://o.sesn.workers.dev/o/che65581/tv.m3u8
-#EXTINF:-1 group-title="Россия",РЕН ТВ
-https://o.sesn.workers.dev/o/chb99f45/tv.m3u8
 #EXTINF:-1 group-title="Россия",РЕН ТВ HD
 https://o.sesn.workers.dev/o/chf1871d/tv.m3u8
 #EXTINF:-1 group-title="Россия",Мир HD
@@ -4583,22 +4561,18 @@ https://o.sesn.workers.dev/o/chff9939/tv.m3u8
 https://o.sesn.workers.dev/o/ch18d257/tv.m3u8
 #EXTINF:-1 group-title="Россия",РБК HD
 https://o.sesn.workers.dev/o/ch63ce0e/tv.m3u8
-#EXTINF:-1 group-title="Россия",Россия 24
-https://o.sesn.workers.dev/o/ch18d129/tv.m3u8
 #EXTINF:-1 group-title="Россия",EuroNews
 https://o.sesn.workers.dev/o/cheaa4a8/tv.m3u8
 #EXTINF:-1 group-title="Россия",RTД HD
 https://o.sesn.workers.dev/o/cha713c1/tv.m3u8
 #EXTINF:-1 group-title="Россия",Центральное телевидение
 https://o.sesn.workers.dev/o/ch1cefb5/tv.m3u8
-#EXTINF:-1 group-title="Россия",Москва Доверие
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png"  group-title="Россия",Москва Доверие
 https://o.sesn.workers.dev/o/chb976ae/tv.m3u8
 #EXTINF:-1 group-title="Россия",Москва 24
 https://o.sesn.workers.dev/o/che96ba9/tv.m3u8
 #EXTINF:-1 group-title="Россия",Время
 https://o.sesn.workers.dev/o/ch1c37eb/tv.m3u8
-#EXTINF:-1 group-title="Россия",Соловьёв LIVE HD
-https://o.sesn.workers.dev/o/ch782b50/tv.m3u8
 #EXTINF:-1 group-title="Россия",Ретро
 https://o.sesn.workers.dev/o/che2c62c/tv.m3u8
 #EXTINF:-1 group-title="Россия",ОТР HD
