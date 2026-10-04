@@ -4751,7 +4751,7 @@ https://o.sesn.workers.dev/o/ch9783ee/tv.m3u8
 https://o.sesn.workers.dev/o/chbccd46/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Sport Plus Qazaqstan HD KZ
 https://o.sesn.workers.dev/o/ch961fe4/tv.m3u8
-#EXTINF:-1 group-title="УзбекТв",Первый Евразия KZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Первый Евразия KZ
 https://o.sesn.workers.dev/o/ched9595/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Dostyq TV KZ
 https://o.sesn.workers.dev/o/ch1c3993/tv.m3u8
@@ -4761,7 +4761,7 @@ https://o.sesn.workers.dev/o/chda0f54/tv.m3u8
 https://o.sesn.workers.dev/o/ch598a0c/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Отырар KZ
 https://o.sesn.workers.dev/o/chee6d18/tv.m3u8
-#EXTINF:-1 group-title="УзбекТв",SHOW HD KZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",SHOW HD KZ
 https://o.sesn.workers.dev/o/cha57d12/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Almaty KZ
 https://o.sesn.workers.dev/o/che5f78f/tv.m3u8
