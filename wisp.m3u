@@ -3573,13 +3573,39 @@ https://o.sesn.workers.dev/o/ch56ac7b/tv.m3u8
 https://o.sesn.workers.dev/o/ch323ad1/tv.m3u8
 #EXTINF:-1 group-title="КиноЗал",НТВ Сериал
 https://o.sesn.workers.dev/o/ch93e0dd/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",НТВ Хит
+#EXTINF:-1 group-title="Россия",Первый канал
+https://o.sesn.workers.dev/o/chd075cc/tv.m3u8
+#EXTINF:-1 group-title="Россия",Первый канал HD
+https://o.sesn.workers.dev/o/ch11fe0e/tv.m3u8
+#EXTINF:-1 group-title="Россия",Первый канал (+4)
+https://o.sesn.workers.dev/o/chcb0fba/tv.m3u8
+#EXTINF:-1 group-title="Россия",Первый канал (+6)
+https://o.sesn.workers.dev/o/ch1c01e2/tv.m3u8
+#EXTINF:-1 group-title="Россия",Россия 1 HD
+https://o.sesn.workers.dev/o/ch0ab3c3/tv.m3u8
+#EXTINF:-1 group-title="Россия",Россия 1 (+4)
+https://o.sesn.workers.dev/o/ch7fdf82/tv.m3u8
+#EXTINF:-1 group-title="Россия",Россия 1 (+6)
+https://o.sesn.workers.dev/o/ch957f06/tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Россия",РТР-Планета
+https://o.sesn.workers.dev/o/ch8e7a46/tv.m3u8
+#EXTINF:-1 group-title="Россия",НТВ HD
+https://o.sesn.workers.dev/o/cha750e0/tv.m3u8
+#EXTINF:-1 group-title="Россия",НТВ (+4)
+https://o.sesn.workers.dev/o/ch83b122/tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Россия",НТВ (+6)
+https://o.sesn.workers.dev/o/cha4e6a6/tv.m3u8
+#EXTINF:-1 group-title="Россия",НТВ Право
+https://o.sesn.workers.dev/o/chd5b4b4/tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Россия",НТВ Мир
+https://o.sesn.workers.dev/o/ch7d677a/tv.m3u8
+#EXTINF:-1 group-title="Россия",НТВ Хит
 https://o.sesn.workers.dev/o/ch2aa257/tv.m3u8
 #EXTINF:-1 group-title="КиноЗал",.sci-fi HD
 https://o.sesn.workers.dev/o/cha82f55/tv.m3u8
 #EXTINF:-1 group-title="КиноЗал",Феникс+ Кино HD
 https://o.sesn.workers.dev/o/ch430580/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",TVMChannel
+#EXTINF:-1 group-title="Россия",TVMChannel
 https://o.sesn.workers.dev/o/chc8293e/tv.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Kernel TV Аладдин HD
 https://o.sesn.workers.dev/o/ch50d692/tv.m3u8
@@ -3727,23 +3753,23 @@ https://o.sesn.workers.dev/o/ch9cd185/tv.m3u8
 https://o.sesn.workers.dev/o/chd28181/tv.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Капитан Фантастика HD
 https://o.sesn.workers.dev/o/ch349fc2/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Кухня HD
+#EXTINF:-1 group-title="Россия",Кухня HD
 https://o.sesn.workers.dev/o/ch01a349/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Еда
+#EXTINF:-1 group-title="Россия",Еда
 https://o.sesn.workers.dev/o/ch139b39/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",FoodTime HD
+#EXTINF:-1 group-title="Россия",FoodTime HD
 https://o.sesn.workers.dev/o/ch0ec239/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Food Network HD
+#EXTINF:-1 group-title="Россия",Food Network HD
 https://o.sesn.workers.dev/o/chae1ae6/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",BOX Gurman HD
+#EXTINF:-1 group-title="Россия",BOX Gurman HD
 https://o.sesn.workers.dev/o/ch85f292/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Телекафе
+#EXTINF:-1 group-title="Россия",Телекафе
 https://o.sesn.workers.dev/o/ch59d3d3/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Загородный
+#EXTINF:-1 group-title="Россия",Загородный
 https://o.sesn.workers.dev/o/ch8bcf74/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Ностальгия
+#EXTINF:-1 group-title="Россия",Ностальгия
 https://o.sesn.workers.dev/o/chbcfe4d/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Драйв HD
+#EXTINF:-1 group-title="Спорт",Драйв HD
 https://o.sesn.workers.dev/o/chae0384/tv.m3u8
 #EXTINF:-1 group-title="Наука",TLC HD
 https://o.sesn.workers.dev/o/ch126b23/tv.m3u8
@@ -3771,7 +3797,7 @@ https://o.sesn.workers.dev/o/ch8e6210/tv.m3u8
 https://o.sesn.workers.dev/o/ch780e1b/tv.m3u8
 #EXTINF:-1 group-title="Наука",Домашние животные
 https://o.sesn.workers.dev/o/chf698be/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Лапки Live
+#EXTINF:-1 group-title="Россия",Лапки Live
 https://o.sesn.workers.dev/o/chacd036/tv.m3u8
 #EXTINF:-1 group-title="Наука",История
 https://o.sesn.workers.dev/o/ch5ae82b/tv.m3u8
@@ -3783,13 +3809,13 @@ https://o.sesn.workers.dev/o/ch7b3e3c/tv.m3u8
 https://o.sesn.workers.dev/o/chbd8bb8/tv.m3u8
 #EXTINF:-1 group-title="Наука",Travel+Adventure HD
 https://o.sesn.workers.dev/o/ch2d2bbe/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",BOX Travel HD
+#EXTINF:-1 group-title="Россия",BOX Travel HD
 https://o.sesn.workers.dev/o/ch560bb9/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",BOX Travel Premiere HD
+#EXTINF:-1 group-title="Россия",BOX Travel Premiere HD
 https://o.sesn.workers.dev/o/ch7e3d20/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",BOX Docu HD
+#EXTINF:-1 group-title="Россия",BOX Docu HD
 https://o.sesn.workers.dev/o/ch46d72a/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",BOX Stories HD
+#EXTINF:-1 group-title="Россия",BOX Stories HD
 https://o.sesn.workers.dev/o/chf0ac19/tv.m3u8
 #EXTINF:-1 group-title="Наука",History HD
 https://o.sesn.workers.dev/o/ch68ac15/tv.m3u8
@@ -3821,7 +3847,7 @@ https://o.sesn.workers.dev/o/ch078143/tv.m3u8
 https://o.sesn.workers.dev/o/ch221e25/tv.m3u8
 #EXTINF:-1 group-title="Наука",Дикая охота HD
 https://o.sesn.workers.dev/o/chb051b8/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Дикая рыбалка HD
+#EXTINF:-1 group-title="Россия",Дикая рыбалка HD
 https://o.sesn.workers.dev/o/chbe3107/tv.m3u8
 #EXTINF:-1 group-title="Наука",БОБЁР
 https://o.sesn.workers.dev/o/ch201c23/tv.m3u8
@@ -3839,7 +3865,7 @@ https://o.sesn.workers.dev/o/chf80836/tv.m3u8
 https://o.sesn.workers.dev/o/chfb3131/tv.m3u8
 #EXTINF:-1 group-title="Наука",Доктор HD
 https://o.sesn.workers.dev/o/ch0eb297/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",ЖИВИ!
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Спорт",ЖИВИ!
 https://o.sesn.workers.dev/o/ch7528f8/tv.m3u8
 #EXTINF:-1 group-title="Наука",Наука HD
 https://o.sesn.workers.dev/o/ch841538/tv.m3u8
@@ -3853,17 +3879,17 @@ https://o.sesn.workers.dev/o/ch28e2c3/tv.m3u8
 https://o.sesn.workers.dev/o/chc5b90b/tv.m3u8
 #EXTINF:-1 group-title="Наука",Арсенал HD
 https://o.sesn.workers.dev/o/ch3ca5a0/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Zooпарк HD
+#EXTINF:-1 group-title="Россия",Zooпарк HD
 https://o.sesn.workers.dev/o/ch15fd83/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Приключения HD
+#EXTINF:-1 group-title="Россия",Приключения HD
 https://o.sesn.workers.dev/o/ch8883e7/tv.m3u8
 #EXTINF:-1 group-title="Наука",English Class HD
 https://o.sesn.workers.dev/o/cha14f39/tv.m3u8
-#EXTINF:-1 group-title="информационные",KinoLiving HD
+#EXTINF:-1 group-title="РезервТв",KinoLiving HD
 https://o.sesn.workers.dev/o/chce20ec/tv.m3u8
 #EXTINF:-1 group-title="Наука",Успех
 https://o.sesn.workers.dev/o/ch49aa9f/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Продвижение
+#EXTINF:-1 group-title="Россия",Продвижение
 https://o.sesn.workers.dev/o/ch916e63/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Music.Тв",М2
 https://o.sesn.workers.dev/o/chcbb123/tv.m3u8
@@ -3899,7 +3925,7 @@ https://o.sesn.workers.dev/o/chfaa76d/tv.m3u8
 https://o.sesn.workers.dev/o/che8f792/tv.m3u8
 #EXTINF:-1 group-title="Разное",Star Cinema HD
 https://o.sesn.workers.dev/o/chca7d03/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",World Fashion Channel HD
+#EXTINF:-1 group-title="Россия",World Fashion Channel HD
 https://o.sesn.workers.dev/o/chee6c99/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Разное",Беларусь 1 HD BY
 https://o.sesn.workers.dev/o/che76706/tv.m3u8
@@ -4083,19 +4109,19 @@ https://o.sesn.workers.dev/o/ch3f0493/tv.m3u8
 https://o.sesn.workers.dev/o/ch1eb4ef/tv.m3u8
 #EXTINF:-1 group-title="Детки.Тв",MM USSR Мультфильм HD
 https://o.sesn.workers.dev/o/cheea5bc/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",MM Live Planet HD
+#EXTINF:-1 group-title="Россия",MM Live Planet HD
 https://o.sesn.workers.dev/o/chdf7681/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",MM Relax HD
+#EXTINF:-1 group-title="Россия",MM Relax HD
 https://o.sesn.workers.dev/o/ch36af35/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",MM Experiment HD
+#EXTINF:-1 group-title="Россия",MM Experiment HD
 https://o.sesn.workers.dev/o/chc35d59/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",MM Микромир HD
+#EXTINF:-1 group-title="Россия",MM Микромир HD
 https://o.sesn.workers.dev/o/ch4b37d7/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",MM Макромир HD
+#EXTINF:-1 group-title="Россия",MM Макромир HD
 https://o.sesn.workers.dev/o/ch3c0c36/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",MM Мегамир HD
+#EXTINF:-1 group-title="Россия",MM Мегамир HD
 https://o.sesn.workers.dev/o/chc8d245/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",MM Открытия HD
+#EXTINF:-1 group-title="Россия",MM Открытия HD
 https://o.sesn.workers.dev/o/ch24504a/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Music.Тв",MM Rock HD
 https://o.sesn.workers.dev/o/ch8020b4/tv.m3u8
@@ -4441,31 +4467,23 @@ https://o.sesn.workers.dev/o/chbd7f01/tv.m3u8
 https://o.sesn.workers.dev/o/ch002b4b/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Германия",SPORTDIGITAL FUSSBALL HD DE
 https://o.sesn.workers.dev/o/ch13a9cc/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Sky Sports F1 HD UK
-https://o.sesn.workers.dev/o/ch6cbf46/tv.m3u8
-#EXTINF:-1 group-title="информационные",ЗВЕЗДА Плюс HD
+#EXTINF:-1 group-title="РезервТв",ЗВЕЗДА Плюс HD
 https://o.sesn.workers.dev/o/chbe6a9b/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Театр
+#EXTINF:-1 group-title="Россия",Театр
 https://o.sesn.workers.dev/o/chc0cd5a/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",E! HD IL
+#EXTINF:-1 group-title="Россия",E! HD IL
 https://o.sesn.workers.dev/o/chba4f31/tv.m3u8
-#EXTINF:-1 group-title="информационные",ТБН
-https://o.sesn.workers.dev/o/chf2ced0/tv.m3u8
-#EXTINF:-1 group-title="информационные",Совершенно Секретно
-https://o.sesn.workers.dev/o/chf32c14/tv.m3u8
 #EXTINF:-1 group-title="Наука",Тайны Галактики
 https://o.sesn.workers.dev/o/ch68f8ed/tv.m3u8
-#EXTINF:-1 group-title="информационные",CNN US
-https://o.sesn.workers.dev/o/ch70ce82/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Fashion&Style 4K
+#EXTINF:-1 group-title="Россия",Fashion&Style 4K
 https://o.sesn.workers.dev/o/chc0d12b/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",ИНСАЙТ ТВ UHD
+#EXTINF:-1 group-title="Россия",ИНСАЙТ ТВ UHD
 https://o.sesn.workers.dev/o/chbbe1cc/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Наша сибирь 4K
+#EXTINF:-1 group-title="Россия",Наша сибирь 4K
 https://o.sesn.workers.dev/o/ch809ed9/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Travelxp 4K
+#EXTINF:-1 group-title="Россия",Travelxp 4K
 https://o.sesn.workers.dev/o/chd4eec3/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Quadro 4K
+#EXTINF:-1 group-title="Россия",Quadro 4K
 https://o.sesn.workers.dev/o/cha623d7/tv.m3u8
 #EXTINF:-1 group-title="КиноЗал",Кино UHD
 https://o.sesn.workers.dev/o/chbbbc75/tv.m3u8
@@ -4501,238 +4519,170 @@ https://o.sesn.workers.dev/o/chb591f5/tv.m3u8
 https://o.sesn.workers.dev/o/ch5359bf/tv.m3u8
 #EXTINF:-1 group-title="Познаю.Tв",BOX Kosmo 4K
 https://o.sesn.workers.dev/o/chae5aa9/tv.m3u8
-#EXTINF:-1 group-title="информационные",Первый канал Европа
-https://o.sesn.workers.dev/o/chcaba38/tv.m3u8
-#EXTINF:-1 group-title="информационные",Первый канал
-https://o.sesn.workers.dev/o/chd075cc/tv.m3u8
-#EXTINF:-1 group-title="информационные",Первый канал HD
-https://o.sesn.workers.dev/o/ch11fe0e/tv.m3u8
-#EXTINF:-1 group-title="информационные",Первый канал (+4)
-https://o.sesn.workers.dev/o/chcb0fba/tv.m3u8
-#EXTINF:-1 group-title="информационные",Первый канал (+6)
-https://o.sesn.workers.dev/o/ch1c01e2/tv.m3u8
-#EXTINF:-1 group-title="информационные",Россия 1
-https://o.sesn.workers.dev/o/chd791d9/tv.m3u8
-#EXTINF:-1 group-title="информационные",Россия 1 HD
-https://o.sesn.workers.dev/o/ch0ab3c3/tv.m3u8
-#EXTINF:-1 group-title="информационные",Россия 1 (+4)
-https://o.sesn.workers.dev/o/ch7fdf82/tv.m3u8
-#EXTINF:-1 group-title="информационные",Россия 1 (+6)
-https://o.sesn.workers.dev/o/ch957f06/tv.m3u8
-#EXTINF:-1 group-title="информационные",РТР-Планета
-https://o.sesn.workers.dev/o/ch8e7a46/tv.m3u8
-#EXTINF:-1 group-title="информационные",НТВ
-https://o.sesn.workers.dev/o/chf7351c/tv.m3u8
-#EXTINF:-1 group-title="информационные",НТВ HD
-https://o.sesn.workers.dev/o/cha750e0/tv.m3u8
-#EXTINF:-1 group-title="информационные",НТВ (+4)
-https://o.sesn.workers.dev/o/ch83b122/tv.m3u8
-#EXTINF:-1 group-title="информационные",НТВ (+6)
-https://o.sesn.workers.dev/o/cha4e6a6/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",НТВ Право
-https://o.sesn.workers.dev/o/chd5b4b4/tv.m3u8
-#EXTINF:-1 group-title="информационные",НТВ Мир
-https://o.sesn.workers.dev/o/ch7d677a/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",НТВ Стиль
+#EXTINF:-1 group-title="Россия",НТВ Стиль
 https://o.sesn.workers.dev/o/ch709166/tv.m3u8
-#EXTINF:-1 group-title="информационные",Дождь
+#EXTINF:-1 group-title="Россия",Дождь
 https://o.sesn.workers.dev/o/ch411853/tv.m3u8
-#EXTINF:-1 group-title="информационные",ТВ Центр HD
+#EXTINF:-1 group-title="Россия",ТВ Центр HD
 https://o.sesn.workers.dev/o/ch54290b/tv.m3u8
-#EXTINF:-1 group-title="информационные",RTVI
+#EXTINF:-1 group-title="Россия",RTVI
 https://o.sesn.workers.dev/o/ch8460e4/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",ТНТ
+#EXTINF:-1 group-title="Россия",ТНТ
 https://o.sesn.workers.dev/o/ch6a4443/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",ТНТ HD
+#EXTINF:-1 group-title="Россия",ТНТ HD
 https://o.sesn.workers.dev/o/ch53162a/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",ТНТ (+4)
+#EXTINF:-1 group-title="Россия",ТНТ (+4)
 https://o.sesn.workers.dev/o/ch455016/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",ТНТ4
+#EXTINF:-1 group-title="Россия",ТНТ4
 https://o.sesn.workers.dev/o/ch6ae452/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",КВН ТВ
+#EXTINF:-1 group-title="Россия",КВН ТВ
 https://o.sesn.workers.dev/o/ch75e859/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",RAZ 3
+#EXTINF:-1 group-title="Россия",RAZ 3
 https://o.sesn.workers.dev/o/ch2edab6/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",СТС HD
+#EXTINF:-1 group-title="Россия",СТС HD
 https://o.sesn.workers.dev/o/chbc6c6e/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",СТС (+4)
+#EXTINF:-1 group-title="Россия",СТС (+4)
 https://o.sesn.workers.dev/o/chc47d1f/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",СТС Love
+#EXTINF:-1 group-title="Россия",СТС Love
 https://o.sesn.workers.dev/o/che65581/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",РЕН ТВ
+#EXTINF:-1 group-title="Россия",РЕН ТВ
 https://o.sesn.workers.dev/o/chb99f45/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",РЕН ТВ HD
+#EXTINF:-1 group-title="Россия",РЕН ТВ HD
 https://o.sesn.workers.dev/o/chf1871d/tv.m3u8
-#EXTINF:-1 group-title="информационные",Мир
-https://o.sesn.workers.dev/o/ch1938ca/tv.m3u8
-#EXTINF:-1 group-title="информационные",Мир HD
+#EXTINF:-1 group-title="Россия",Мир HD
 https://o.sesn.workers.dev/o/ch2a6944/tv.m3u8
-#EXTINF:-1 group-title="информационные",Мир 24
-https://o.sesn.workers.dev/o/chbce747/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Че!
+#EXTINF:-1 group-title="Россия",Че!
 https://o.sesn.workers.dev/o/chcf54fa/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Перец International
+#EXTINF:-1 group-title="Россия",Перец International
 https://o.sesn.workers.dev/o/ch24a745/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Пятница! HD
+#EXTINF:-1 group-title="Россия",Пятница! HD
 https://o.sesn.workers.dev/o/chfa7b84/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Суббота!
+#EXTINF:-1 group-title="Россия",Суббота!
 https://o.sesn.workers.dev/o/chd8a6a7/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Домашний
+#EXTINF:-1 group-title="Россия",Домашний
 https://o.sesn.workers.dev/o/ch860d5e/tv.m3u8
-#EXTINF:-1 group-title="информационные",Домашний (+4)
+#EXTINF:-1 group-title="Россия",Домашний (+4)
 https://o.sesn.workers.dev/o/ch282df6/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Домашний International
+#EXTINF:-1 group-title="Россия",Домашний International
 https://o.sesn.workers.dev/o/ch1f9cc5/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Сарафан
+#EXTINF:-1 group-title="Россия",Сарафан
 https://o.sesn.workers.dev/o/ch8ba78f/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Вопросы и ответы
+#EXTINF:-1 group-title="Россия",Вопросы и ответы
 https://o.sesn.workers.dev/o/ch34d570/tv.m3u8
-#EXTINF:-1 group-title="информационные",Пятый канал
+#EXTINF:-1 group-title="Россия",Пятый канал
 https://o.sesn.workers.dev/o/chfa7959/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Ю
+#EXTINF:-1 group-title="Россия",Ю
 https://o.sesn.workers.dev/o/ch80f571/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",ТВ3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Россия",ТБН
+https://o.sesn.workers.dev/o/chf2ced0/tv.m3u8
+#EXTINF:-1 group-title="Россия",Совершенно Секретно
+https://o.sesn.workers.dev/o/chf32c14/tv.m3u8
+#EXTINF:-1 group-title="Россия",ТВ3 HD
 https://o.sesn.workers.dev/o/chff9939/tv.m3u8
-#EXTINF:-1 group-title="информационные",Россия К
+#EXTINF:-1 group-title="Россия",Россия К
 https://o.sesn.workers.dev/o/ch18d257/tv.m3u8
-#EXTINF:-1 group-title="информационные",РБК HD
+#EXTINF:-1 group-title="Россия",РБК HD
 https://o.sesn.workers.dev/o/ch63ce0e/tv.m3u8
-#EXTINF:-1 group-title="информационные",Россия 24
+#EXTINF:-1 group-title="Россия",Россия 24
 https://o.sesn.workers.dev/o/ch18d129/tv.m3u8
-#EXTINF:-1 group-title="информационные",EuroNews
+#EXTINF:-1 group-title="Россия",EuroNews
 https://o.sesn.workers.dev/o/cheaa4a8/tv.m3u8
-#EXTINF:-1 group-title="информационные",RTД HD
+#EXTINF:-1 group-title="Россия",RTД HD
 https://o.sesn.workers.dev/o/cha713c1/tv.m3u8
-#EXTINF:-1 group-title="информационные",Центральное телевидение
+#EXTINF:-1 group-title="Россия",Центральное телевидение
 https://o.sesn.workers.dev/o/ch1cefb5/tv.m3u8
-#EXTINF:-1 group-title="информационные",Москва Доверие
+#EXTINF:-1 group-title="Россия",Москва Доверие
 https://o.sesn.workers.dev/o/chb976ae/tv.m3u8
-#EXTINF:-1 group-title="информационные",Москва 24
+#EXTINF:-1 group-title="Россия",Москва 24
 https://o.sesn.workers.dev/o/che96ba9/tv.m3u8
-#EXTINF:-1 group-title="информационные",Время
+#EXTINF:-1 group-title="Россия",Время
 https://o.sesn.workers.dev/o/ch1c37eb/tv.m3u8
-#EXTINF:-1 group-title="информационные",Соловьёв LIVE HD
+#EXTINF:-1 group-title="Россия",Соловьёв LIVE HD
 https://o.sesn.workers.dev/o/ch782b50/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",Ретро
+#EXTINF:-1 group-title="Россия",Ретро
 https://o.sesn.workers.dev/o/che2c62c/tv.m3u8
-#EXTINF:-1 group-title="информационные",ОТР HD
+#EXTINF:-1 group-title="Россия",ОТР HD
 https://o.sesn.workers.dev/o/ch87cc45/tv.m3u8
-#EXTINF:-1 group-title="информационные",Известия
+#EXTINF:-1 group-title="Россия",Известия
 https://o.sesn.workers.dev/o/ch9738fc/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Setanta Sports 1 HD
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1 HD
 https://o.sesn.workers.dev/o/ch1f3c48/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
+#EXTINF:-1 group-title="Спорт",Setanta Sports 2 HD
 https://o.sesn.workers.dev/o/ch98cb19/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Setanta Sports + HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Спорт",Setanta Sports + HD
 https://o.sesn.workers.dev/o/ch8105be/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Setanta Sports HD
+#EXTINF:-1 group-title="Спорт",Setanta Sports HD
 https://o.sesn.workers.dev/o/ch463195/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 1
-https://o.sesn.workers.dev/o/ch60bc0d/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 https://o.sesn.workers.dev/o/ch78cb16/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 2
-https://o.sesn.workers.dev/o/ch54f092/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 https://o.sesn.workers.dev/o/chaa5f2a/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",viju+ Sport HD
+#EXTINF:-1 group-title="Спорт",viju+ Sport HD
 https://o.sesn.workers.dev/o/ch6dee57/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 1
-https://o.sesn.workers.dev/o/ch1fdf2f/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 1 HD
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 1 HD
 https://o.sesn.workers.dev/o/chc46e91/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 2
-https://o.sesn.workers.dev/o/ch0c6165/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 2 HD
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 2 HD
 https://o.sesn.workers.dev/o/ch11acb7/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 3
-https://o.sesn.workers.dev/o/ch942fca/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 3 HD
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 3 HD
 https://o.sesn.workers.dev/o/ch2bc15b/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",МАТЧ! ПРЕМЬЕР HD
+#EXTINF:-1 group-title="Спорт",МАТЧ! ПРЕМЬЕР HD
 https://o.sesn.workers.dev/o/ch012776/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",МАТЧ!
-https://o.sesn.workers.dev/o/ch28d466/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",МАТЧ! HD
+#EXTINF:-1 group-title="Спорт",МАТЧ! HD
 https://o.sesn.workers.dev/o/ch3ff05d/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",МАТЧ! АРЕНА HD
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА HD
 https://o.sesn.workers.dev/o/chf3566e/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",МАТЧ! СТРАНА HD
+#EXTINF:-1 group-title="Спорт",МАТЧ! СТРАНА HD
 https://o.sesn.workers.dev/o/ch482b12/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",МАТЧ! ИГРА HD
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА HD
 https://o.sesn.workers.dev/o/chfcd253/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",МАТЧ! ПЛАНЕТА
+#EXTINF:-1 group-title="Спорт",МАТЧ! ПЛАНЕТА
 https://o.sesn.workers.dev/o/chfa69c0/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Okko Спорт. Футбол HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Спорт",Okko Спорт. Футбол HD
 https://o.sesn.workers.dev/o/ch86c2cc/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Okko Прайм HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Спорт",Okko Прайм HD
 https://o.sesn.workers.dev/o/ch4f40cb/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Okko Спорт HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Спорт",Okko Спорт HD
 https://o.sesn.workers.dev/o/ch64e1ca/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Старт HD
+#EXTINF:-1 group-title="Спорт",Старт HD
 https://o.sesn.workers.dev/o/ch9c29fd/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Старт Триумф HD
+#EXTINF:-1 group-title="Спорт",Старт Триумф HD
 https://o.sesn.workers.dev/o/cha7286b/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",ТВ Спорт HD
+#EXTINF:-1 group-title="Спорт",ТВ Спорт HD
 https://o.sesn.workers.dev/o/ch2438e5/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Trace Sport Stars HD
+#EXTINF:-1 group-title="Спорт",Trace Sport Stars HD
 https://o.sesn.workers.dev/o/cha7274c/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Волейбол HD
+#EXTINF:-1 group-title="Спорт",Волейбол HD
 https://o.sesn.workers.dev/o/ch3bf1c8/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Футбол HD
+#EXTINF:-1 group-title="Спорт",Футбол HD
 https://o.sesn.workers.dev/o/chd4b5eb/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX Be On Edge HD
+#EXTINF:-1 group-title="Спорт",BOX Be On Edge HD
 https://o.sesn.workers.dev/o/cha906e9/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX Be On Edge Live 1 HD
-https://o.sesn.workers.dev/o/chd7635a/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX Be On Edge Live 2 HD
-https://o.sesn.workers.dev/o/chdcfab5/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX Be On Edge Live 3 HD
-https://o.sesn.workers.dev/o/chf74d43/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SportCast HD
+#EXTINF:-1 group-title="Спорт",BOX SportCast HD
 https://o.sesn.workers.dev/o/ch73235d/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SportCast Live 1 HD
+#EXTINF:-1 group-title="Спорт",BOX SportCast Live 1 HD
 https://o.sesn.workers.dev/o/ch87e5de/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SportCast Live 2 HD
-https://o.sesn.workers.dev/o/ch1203f7/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SportCast Live 3 HD
-https://o.sesn.workers.dev/o/chb8e45d/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SportCast Live 4 HD
-https://o.sesn.workers.dev/o/ch0c388e/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SportCast Live 5 HD
-https://o.sesn.workers.dev/o/chc77056/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SportCast Live 6 HD
-https://o.sesn.workers.dev/o/chf94f88/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SportCast Live 7 HD
-https://o.sesn.workers.dev/o/chf1c67d/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SportCast Live 8 HD
-https://o.sesn.workers.dev/o/ch51068a/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SportCast Live 9 HD
-https://o.sesn.workers.dev/o/chf8b1e1/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Sport 1
+#EXTINF:-1 group-title="Спорт",Sport 1
 https://o.sesn.workers.dev/o/chbaae02/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Спорт",Sport 2
 https://o.sesn.workers.dev/o/ch1886ec/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",KHL Prime HD
+#EXTINF:-1 group-title="Спорт",KHL Prime HD
 https://o.sesn.workers.dev/o/chfa1fbd/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",KHL
+#EXTINF:-1 group-title="Спорт",KHL
 https://o.sesn.workers.dev/o/chbb0381/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Русский Экстрим HD
+#EXTINF:-1 group-title="Спорт",Русский Экстрим HD
 https://o.sesn.workers.dev/o/ch84925d/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",МАТЧ! БОЕЦ HD
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ HD
 https://o.sesn.workers.dev/o/ch44d516/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",БОКС ТВ
+#EXTINF:-1 group-title="Спорт",БОКС ТВ
 https://o.sesn.workers.dev/o/ch4ea420/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",MMA‑TV.com HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Спорт",MMA‑TV.com HD
 https://o.sesn.workers.dev/o/ch4acb87/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",UDAR HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Спорт",UDAR HD
 https://o.sesn.workers.dev/o/ch4f93b2/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Авто Плюс HD
+#EXTINF:-1 group-title="Спорт",Авто Плюс HD
 https://o.sesn.workers.dev/o/chaa6647/tv.m3u8
-#EXTINF:-1 group-title="Entertainment",BOX AutoTrend HD
+#EXTINF:-1 group-title="Россия",BOX AutoTrend HD
 https://o.sesn.workers.dev/o/ch703a90/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",Extreme Sports Channel
-https://o.sesn.workers.dev/o/ch575588/tv.m3u8
 #EXTINF:-1 group-title="Music.Тв",Музыка Первого
 https://o.sesn.workers.dev/o/ch963604/tv.m3u8
 #EXTINF:-1 group-title="Music.Тв",Mezzo
@@ -4783,15 +4733,15 @@ https://o.sesn.workers.dev/o/che9c83d/tv.m3u8
 https://o.sesn.workers.dev/o/ch0b1118/tv.m3u8
 #EXTINF:-1 group-title="КиноЗал",BOX Russian 4K
 https://o.sesn.workers.dev/o/che2b545/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SR Sport 4k HDR
+#EXTINF:-1 group-title="Спорт",BOX SR Sport 4k HDR
 https://o.sesn.workers.dev/o/ch114e72/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SR Sport 1 Live 4K HDR
+#EXTINF:-1 group-title="Спорт",BOX SR Sport 1 Live 4K HDR
 https://o.sesn.workers.dev/o/ch062089/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SR Sport 2 Live 4K HDR
+#EXTINF:-1 group-title="Спорт",BOX SR Sport 2 Live 4K HDR
 https://o.sesn.workers.dev/o/ch7e015e/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SR Sport 3 Live 4K HDR
+#EXTINF:-1 group-title="Спорт",BOX SR Sport 3 Live 4K HDR
 https://o.sesn.workers.dev/o/ch4761c7/tv.m3u8
-#EXTINF:-1 group-title="Спортивные",BOX SR Sport 4 Live 4K HDR
+#EXTINF:-1 group-title="Спорт",BOX SR Sport 4 Live 4K HDR
 https://o.sesn.workers.dev/o/chca9b57/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="РезервТв",Go3 Films HD LT
 https://o.sesn.workers.dev/o/ch61cfa6/tv.m3u8
@@ -4933,49 +4883,49 @@ https://o.sesn.workers.dev/o/che1c2e0/tv.m3u8
 https://o.sesn.workers.dev/o/ch02b83c/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",BeeTV Семейные мелодрамы KZ
 https://o.sesn.workers.dev/o/ch62ce42/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Армения",Armenia TV AM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Armenia TV AM
 https://o.sesn.workers.dev/o/ch33b682/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Армения",SHANT AM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",SHANT AM
 https://o.sesn.workers.dev/o/ch76107b/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Армения",H1 HD AM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",H1 HD AM
 https://o.sesn.workers.dev/o/ch96a264/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Армения",Ararat AM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Ararat AM
 https://o.sesn.workers.dev/o/ch072438/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Таджикистан",ТВ Сафина HD TJ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",ТВ Сафина HD TJ
 https://o.sesn.workers.dev/o/ch753bc5/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Таджикистан",ТВ Бахористон TJ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",ТВ Бахористон TJ
 https://o.sesn.workers.dev/o/ch2da56a/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Таджикистан",Джахоннамо TJ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Джахоннамо TJ
 https://o.sesn.workers.dev/o/chd0a2f4/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Таджикистан",Синамо TJ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Синамо TJ
 https://o.sesn.workers.dev/o/cha557b9/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Таджикистан",TVT TJ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",TVT TJ
 https://o.sesn.workers.dev/o/ch22f95c/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Узбекистан",O'zbekiston UZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",O'zbekiston UZ
 https://o.sesn.workers.dev/o/chad7044/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Узбекистан",NAVO UZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",NAVO UZ
 https://o.sesn.workers.dev/o/ch1be500/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Узбекистан",Yoshlar UZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Yoshlar UZ
 https://o.sesn.workers.dev/o/che3e346/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Узбекистан",Kinoteatr UZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Kinoteatr UZ
 https://o.sesn.workers.dev/o/chab0531/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Узбекистан",Nurafshon TV UZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Nurafshon TV UZ
 https://o.sesn.workers.dev/o/ched495e/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Узбекистан",ZO'R TV UZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",ZO'R TV UZ
 https://o.sesn.workers.dev/o/chbac6ec/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Узбекистан",BIZ TV UZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",BIZ TV UZ
 https://o.sesn.workers.dev/o/chdf13da/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Узбекистан",Dasturxon TV UZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Dasturxon TV UZ
 https://o.sesn.workers.dev/o/chc3f368/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Узбекистан",UzReport UZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",UzReport UZ
 https://o.sesn.workers.dev/o/ch03827e/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Узбекистан",Mening Yurtim UZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Mening Yurtim UZ
 https://o.sesn.workers.dev/o/ch170f3c/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Узбекистан",Sevimli TV UZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Sevimli TV UZ
 https://o.sesn.workers.dev/o/chbeaa66/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Узбекистан",Aqlvoy UZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Aqlvoy UZ
 https://o.sesn.workers.dev/o/ch4bc164/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="Узбекистан",Renessans TV UZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",Renessans TV UZ
 https://o.sesn.workers.dev/o/cha7fc3b/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="УзбекТв",GDS GE
 https://o.sesn.workers.dev/o/cha54327/tv.m3u8
