@@ -3387,16 +3387,6 @@ https://00.sesn.workers.dev/0/ch130/tv.m3u8
 https://00.sesn.workers.dev/0/ch131/tv.m3u8
 #EXTINF:-1 tvg-logo="http://peaktv.su/img/logos/efir/echotv.png" group-title="РезервТв",ЭхоТВ
 https://00.sesn.workers.dev/0/ch132/tv.m3u8
-#EXTINF:-1 tvg-logo="http://peaktv.su/img/logos/show/kvn-tv.png" group-title="РезервТв",КВН-ТВ
-https://00.sesn.workers.dev/0/ch133/tv.m3u8
-#EXTINF:-1 tvg-logo="http://peaktv.su/img/logos/show/anekdottv.png" group-title="РезервТв",Анекдот ТВ
-https://00.sesn.workers.dev/0/ch134/tv.m3u8
-#EXTINF:-1 tvg-logo="http://peaktv.su/img/logos/show/domashnie-zhivotnye.png" group-title="РезервТв",Домашние животные
-https://00.sesn.workers.dev/0/ch135/tv.m3u8
-#EXTINF:-1 tvg-logo="http://peaktv.su/img/logos/poznanie/ntv-pravo.png" group-title="РезервТв",НТВ Право
-https://00.sesn.workers.dev/0/ch136/tv.m3u8
-#EXTINF:-1 tvg-logo="http://peaktv.su/img/logos/show/russky-ekstrim.png" group-title="РезервТв",HD REX
-https://00.sesn.workers.dev/0/ch137/tv.m3u8
 #EXTINF:-1 tvg-logo="http://peaktv.su/img/logos/efir/pervy-kanal-eu.png" group-title="РезервТв",Первый канал
 https://00.sesn.workers.dev/0/ch138/tv.m3u8
 #EXTINF:-1 tvg-logo="http://peaktv.su/img/logos/efir/pervyj.png" group-title="РезервТв",Первый канал HD
