@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,https://iptv.pm/epg/epg.xml,https://st-eu.shara.tv/epg/epg.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG,https://iptv.pm/epg/epg.xml,https://mvvv.eu/epg,https://st-eu.shara.tv/epg/epg.xml.gz"
 #EXTINF:-1 tvg-id="tnt-music" group-title="Кино.HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjdvCbngLiYMAp2EgdgaDFi8MGOQlqaLOmj0lh0HLPQasxQ4dQMNOIQBY&s=10",Telegram
 https://github.com/Waswas777/video/raw/refs/heads/main/v.mp4
 #EXTINF:-1 group-title="Кино.HD"  tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/1827.png" tvg-id="sony-turbo",.Black HD
