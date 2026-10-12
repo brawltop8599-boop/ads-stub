@@ -3891,28 +3891,6 @@ https://o.shsra.workers.dev/o/ch324/tv.m3u8
 https://o.shsra.workers.dev/o/ch325/tv.m3u8
 #EXTINF:-1 group-title="РезервТв",Bridge TV
 https://o.shsra.workers.dev/o/ch326/tv.m3u8
-#EXTINF:-1 group-title="КиноЗал",Kernel TV Новинки HD
-https://o.sesn.workers.dev/o/chce3422/tv.m3u8
-#EXTINF:-1 group-title="КиноЗал",Kernel TV Счастливого нового года HD
-https://o.sesn.workers.dev/o/ch4d6d56/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPX1NK/1.png" group-title="КиноЗал",Kernel TV Марвел сериалы HD
-https://o.sesn.workers.dev/o/ch5db3eb/tv.m3u8
-#EXTINF:-1 group-title="КиноЗал",Kernel TV Интерны HD
-https://o.sesn.workers.dev/o/ch5887fb/tv.m3u8
-#EXTINF:-1 group-title="КиноЗал",Kernel TV Сваты HD
-https://o.sesn.workers.dev/o/ch6c8b39/tv.m3u8
-#EXTINF:-1 group-title="КиноЗал",Kernel TV Космос HD
-https://o.sesn.workers.dev/o/chc1ed05/tv.m3u8
-#EXTINF:-1 group-title="КиноЗал",Kernel TV Комедия HD
-https://o.sesn.workers.dev/o/chb985fc/tv.m3u8
-#EXTINF:-1 group-title="КиноЗал",Kernel TV Доктор HD
-https://o.sesn.workers.dev/o/ch16c488/tv.m3u8
-#EXTINF:-1 group-title="КиноЗал",Kernel TV Герой HD
-https://o.sesn.workers.dev/o/ch813899/tv.m3u8
-#EXTINF:-1 group-title="КиноЗал",Kernel TV Время HD
-https://o.sesn.workers.dev/o/ch8701c8/tv.m3u8
-#EXTINF:-1 group-title="КиноЗал",Kernel TV Бумажный дом HD
-https://o.sesn.workers.dev/o/ch573d29/tv.m3u8
 #EXTINF:-1 group-title="КиноЗал",Иллюзион+ HD
 https://o.sesn.workers.dev/o/chd07a66/tv.m3u8
 #EXTINF:-1 group-title="КиноЗал",Еврокино HD
